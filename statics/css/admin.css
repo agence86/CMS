@@ -1,0 +1,190 @@
+body
+{
+    background: url(../images/bg.jpg);
+    font-family: Arial;
+    margin:0;
+    padding:0;
+}
+
+#form_login
+{
+    width:300px;
+    margin: 100px auto 0 auto;
+    text-align:center;
+}
+
+#nav
+{
+    height:40px;
+    -webkit-box-shadow: 0 4px 4px -4px black;
+    -moz-box-shadow: 0 4px 4px -4px black;
+    box-shadow: 0 4px 4px -4px black;
+    background: -moz-linear-gradient(top,  rgba(0,0,0,0) 0%, rgba(0,0,0,0.25) 100%);
+    background: -moz-linear-gradient(top,  rgba(0,0,0,0) 42%, rgba(0,0,0,0.2) 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(42%,rgba(0,0,0,0)), color-stop(100%,rgba(0,0,0,0.2)));
+    background: -webkit-linear-gradient(top,  rgba(0,0,0,0) 42%,rgba(0,0,0,0.2) 100%);
+    background: -o-linear-gradient(top,  rgba(0,0,0,0) 42%,rgba(0,0,0,0.2) 100%);
+    background: -ms-linear-gradient(top,  rgba(0,0,0,0) 42%,rgba(0,0,0,0.2) 100%);
+    background: linear-gradient(top,  rgba(0,0,0,0) 42%,rgba(0,0,0,0.2) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#33000000',GradientType=0 );
+    border-bottom: 1px solid #333;
+    min-width:980px;
+}
+
+#nav>ul>li.send_right
+{
+    float:right;
+}
+
+#nav>ul>li
+{
+    float:left;
+    border-left:1px solid #666;
+    border-right:1px solid #222;
+    position:relative;
+}
+
+#nav>ul>li:first-child
+{
+    border-left:0;
+}
+
+#nav>ul>li>a
+{
+    color:#9fa4a8;
+    text-decoration:none;
+    text-shadow: 1px 1px 1px #000;
+    font-family:'Quicksand', sans-serif;
+    font-weight:bold;
+    font-size:12px;
+    display:block;
+    padding:13px 20px 0 10px;
+    height: 27px;
+}
+
+#nav>ul>li.sub>a
+{
+    background: url(../images/arrows2.png) no-repeat center right;
+}
+
+#nav>ul li.sfhover>a
+{
+    color:#FFF;
+}
+
+
+#nav>ul>li ul
+{
+    position:absolute;
+    display:none;
+    background: url(../images/bg.jpg);
+    -webkit-box-shadow: 0 4px 4px -4px black;
+    -moz-box-shadow: 0 4px 4px -4px black;
+    box-shadow: 0 4px 4px -4px black;
+    border:1px solid #333;
+    border-top:0;
+    top:40px;
+    width:160px;
+    padding:10px 0;
+}
+
+#nav>ul>li ul a
+{
+    color:#9fa4a8;
+    text-decoration:none;
+    font-size:12px;
+    font-family:'Quicksand', sans-serif;
+    font-weight:bold;
+    display:block;
+    padding: 5px 0 0 5px;
+    height:15px;
+    text-shadow:1px 1px 1px #000;
+}
+
+#nav>ul>li ul li.sub>a
+{
+    background: url(../images/arrows1.png) no-repeat center right;
+}
+
+
+
+#nav>ul>li>ul ul
+{
+    right:-160px;
+    top:0;
+}
+
+
+#nav ul li.sfhover>ul
+{
+    display:block;    
+}
+
+h3
+{
+    font-family: 'Quicksand', sans-serif;
+    color:#9FA4A8;
+    text-shadow:0px 0px 10px #000;
+    text-transform:uppercase;
+}
+
+.custom_tf 
+{
+    background: url(../images/bg_textfield_bg.jpg) repeat-x;
+    height:34px;
+    min-width:200px;
+    margin:5px 0;
+}
+
+.custom_tf .bl 
+{
+    background: url(../images/bg_textfield_l.jpg) no-repeat;
+    width:5px;
+    height:34px;
+    float:left;
+}
+
+.custom_tf .br
+{
+    background: url(../images/bg_textfield_r.jpg) no-repeat;
+    width:4px;
+    height:34px;
+    float:right;
+}
+
+.custom_tf input
+{
+    margin-top:7px;
+    border:none;
+    background: none;
+    color:#9fa4a8;
+    float:left;
+    width:95%;
+}
+
+.custom_submit
+{
+    cursor:pointer;
+    color:#9FA4A8;
+    border:1px solid #333;;
+    padding:4px 8px;
+    box-shadow:0px 0px 3px #000;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    background:#2A2E31;
+    font-weight: bold;
+}
+
+p.forgot_password a
+{
+    color:#9FA4A8;
+    font-size:10px;
+    text-decoration:none;
+}
+
+
+p.forgot_password a:hover
+{
+    border-bottom:1px dotted #9FA4A8;
+}
