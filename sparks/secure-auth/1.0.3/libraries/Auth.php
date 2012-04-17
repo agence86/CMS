@@ -137,7 +137,7 @@ class Auth {
      * Logout the current user, destroys the current session and autologin key
      */
     public function logout() {
-        $this->ci->session->sess_destroy();
+        //$this->ci->session->sess_destroy();
         $this->delete_autologin();
         $this->ci->session->set_userdata('loggedin', FALSE);
         $this->ci->session->set_userdata('user', FALSE);

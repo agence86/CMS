@@ -30,7 +30,7 @@ class Admin extends MY_Controller
         if($this->auto->auth->login($identification, $password, $remember))
         {
             $res = array('success'=>true, 'message'=>$this->lang->line('login_success'));
-            $this->auto->messages->add(json_encode($res),true,'success');
+            $this->auto->messages->add(json_encode($res),'success');
             redirect('admin/admin/');
         }
         else
@@ -46,7 +46,9 @@ class Admin extends MY_Controller
     public function do_logout()
     {
         $this->auth->logout();
-        echo json_encode(array('success'=>true,'message'=>$this->lang->line('logged_out')));
+        $res=array('success'=>true,'message'=>$this->lang->line('logged_out'));
+        $this->auto->messages->add(json_encode($res),'success');
+        redirect('admin/admin/login');
     }
 
     

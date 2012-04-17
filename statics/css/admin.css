@@ -15,6 +15,7 @@ body
 
 #nav
 {
+    border-top: 1px solid #333;
     height:40px;
     -webkit-box-shadow: 0 4px 4px -4px black;
     -moz-box-shadow: 0 4px 4px -4px black;
@@ -42,6 +43,7 @@ body
     border-left:1px solid #666;
     border-right:1px solid #222;
     position:relative;
+    z-index:100;
 }
 
 #nav>ul>li:first-child

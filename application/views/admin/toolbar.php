@@ -48,6 +48,6 @@
                 <li><a href="{site_url('admin/c_language/add')}">Ajouter une langue</a></li>
             </ul>
         </li>
-        <li class="send_right"><a href="#">Déconnexion</a></li>
+        <li class="send_right"><a href="{site_url('admin/admin/do_logout')}">Déconnexion</a></li>
     </ul>
 </div>

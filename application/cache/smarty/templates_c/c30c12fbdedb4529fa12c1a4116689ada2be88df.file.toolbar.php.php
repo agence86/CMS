@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.0.7, created on 2012-04-17 15:09:09
+<?php /* Smarty version Smarty-3.0.7, created on 2012-04-17 15:52:10
          compiled from "application/views/admin/toolbar.php" */ ?>
-<?php /*%%SmartyHeaderCode:1777302604f8d6b75cce4c9-43080168%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:15704338664f8d758ab11c68-26643035%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     'c30c12fbdedb4529fa12c1a4116689ada2be88df' => 
     array (
       0 => 'application/views/admin/toolbar.php',
-      1 => 1334668149,
+      1 => 1334670041,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '1777302604f8d6b75cce4c9-43080168',
+  'nocache_hash' => '15704338664f8d758ab11c68-26643035',
   'function' => 
   array (
   ),
@@ -90,6 +90,7 @@ $_smarty_tpl->decodeProperties(array (
 ">Ajouter une langue</a></li>
             </ul>
         </li>
-        <li class="send_right"><a href="#">Déconnexion</a></li>
+        <li class="send_right"><a href="<?php echo site_url('admin/admin/do_logout');?>
+">Déconnexion</a></li>
     </ul>
 </div>

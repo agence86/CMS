@@ -3,9 +3,10 @@
 
 	/* noty bar */
 	.noty_bar {
+	   top:41px !important;
 		position: fixed;
 		display: none;
-		z-index: 9999999;
+		z-index: 10;
 	}
 	
 	/* noty_message */

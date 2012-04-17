@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.0.7, created on 2012-04-17 14:25:54
+<?php /* Smarty version Smarty-3.0.7, created on 2012-04-17 15:52:06
          compiled from "application/views/admin/full_admin_header.php" */ ?>
-<?php /*%%SmartyHeaderCode:13950972594f8d6152978dc4-53115791%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:12515523324f8d75867dde66-67664995%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '6ce0fedc1c08417d2f86cc37843ed1b4de2e8811' => 
     array (
       0 => 'application/views/admin/full_admin_header.php',
-      1 => 1334665552,
+      1 => 1334670701,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '13950972594f8d6152978dc4-53115791',
+  'nocache_hash' => '12515523324f8d75867dde66-67664995',
   'function' => 
   array (
   ),
@@ -49,6 +49,16 @@ statics/js/jquery.noty.js"></script>
 statics/js/functions.js"></script>
   <script type="text/javascript">
     
+    <?php if (count($_smarty_tpl->getVariable('success')->value)>0){?>
+        var json_success = <?php echo $_smarty_tpl->getVariable('success')->value[0];?>
+;
+        
+        $(document).ready(function()
+        {
+            var noty_error = noty({text: json_success.message, theme: 'noty_theme_twitter',type:'success'});
+        });
+        
+    <?php }?>
     <?php if (count($_smarty_tpl->getVariable('errors')->value)>0){?>
         var json_errors = <?php echo $_smarty_tpl->getVariable('errors')->value[0];?>
 ;

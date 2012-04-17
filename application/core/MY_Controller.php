@@ -20,7 +20,8 @@ class MY_Controller extends MX_Controller
     
     private function _open_display()
     {
-        $data['errors'] = $this->auto->messages->get("error");
+        $data['success'] = $this->auto->messages->get('success');
+        $data['errors'] = $this->auto->messages->get('error');
         if($this->_in_admin && !$this->input->post('ajax'))
             echo $this->parser->parse('admin/full_admin_header.php',$data,true);
         else

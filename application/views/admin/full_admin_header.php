@@ -21,6 +21,15 @@
     <script type="text/javascript" src="{base_url()}statics/js/functions.js"></script>
   <script type="text/javascript">
     
+    {if count($success)>0}
+        var json_success = {$success[0]};
+        {literal}
+        $(document).ready(function()
+        {
+            var noty_error = noty({text: json_success.message, theme: 'noty_theme_twitter',type:'success'});
+        });
+        {/literal}
+    {/if}
     {if count($errors)>0}
         var json_errors = {$errors[0]};
         {literal}

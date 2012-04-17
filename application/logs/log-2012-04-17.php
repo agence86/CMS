@@ -15385,3 +15385,6818 @@ DEBUG - 2012-04-17 15:09:14 --> UTF-8 Support Enabled
 DEBUG - 2012-04-17 15:09:14 --> URI Class Initialized
 DEBUG - 2012-04-17 15:09:14 --> Router Class Initialized
 ERROR - 2012-04-17 15:09:14 --> 404 Page Not Found --> 
+DEBUG - 2012-04-17 15:40:42 --> Config Class Initialized
+DEBUG - 2012-04-17 15:40:42 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:40:42 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:40:42 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:40:42 --> URI Class Initialized
+DEBUG - 2012-04-17 15:40:42 --> Router Class Initialized
+DEBUG - 2012-04-17 15:40:42 --> Output Class Initialized
+DEBUG - 2012-04-17 15:40:42 --> Security Class Initialized
+DEBUG - 2012-04-17 15:40:42 --> Input Class Initialized
+DEBUG - 2012-04-17 15:40:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:40:42 --> Language Class Initialized
+DEBUG - 2012-04-17 15:40:42 --> Language Class Initialized
+DEBUG - 2012-04-17 15:40:42 --> Config Class Initialized
+DEBUG - 2012-04-17 15:40:42 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:40:42 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:40:42 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:40:42 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:40:42 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:40:42 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:40:42 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:40:42 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:40:42 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:40:42 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:40:42 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:40:42 --> Session Class Initialized
+DEBUG - 2012-04-17 15:40:42 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:40:42 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:40:42 --> Session routines successfully run
+DEBUG - 2012-04-17 15:40:42 --> Model Class Initialized
+ERROR - 2012-04-17 15:40:42 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:40:42 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:40:42 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:40:42 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:40:42 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:40:42 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:40:42 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:40:42 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:40:42 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:40:42 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:40:42 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:40:42 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:40:42 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:40:42 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:40:42 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:40:42 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:40:42 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:40:42 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:40:42 --> Authentication library initialized
+DEBUG - 2012-04-17 15:40:42 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:40:42 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:40:42 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:40:42 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:40:42 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:40:42 --> Final output sent to browser
+DEBUG - 2012-04-17 15:40:42 --> Total execution time: 0.0938
+DEBUG - 2012-04-17 15:40:44 --> Config Class Initialized
+DEBUG - 2012-04-17 15:40:44 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:40:44 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:40:44 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:40:44 --> URI Class Initialized
+DEBUG - 2012-04-17 15:40:44 --> Router Class Initialized
+DEBUG - 2012-04-17 15:40:44 --> Output Class Initialized
+DEBUG - 2012-04-17 15:40:44 --> Security Class Initialized
+DEBUG - 2012-04-17 15:40:44 --> Input Class Initialized
+DEBUG - 2012-04-17 15:40:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:40:44 --> Language Class Initialized
+DEBUG - 2012-04-17 15:40:44 --> Language Class Initialized
+DEBUG - 2012-04-17 15:40:44 --> Config Class Initialized
+DEBUG - 2012-04-17 15:40:44 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:40:44 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:40:44 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:40:44 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:40:44 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:40:44 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:40:44 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:40:44 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:40:44 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:40:44 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:40:44 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:40:44 --> Session Class Initialized
+DEBUG - 2012-04-17 15:40:44 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:40:44 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:40:44 --> Session routines successfully run
+DEBUG - 2012-04-17 15:40:44 --> Model Class Initialized
+ERROR - 2012-04-17 15:40:44 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:40:44 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:40:44 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:40:44 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:40:44 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:40:44 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:40:44 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:40:44 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:40:44 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:40:44 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:40:44 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:40:44 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:40:44 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:40:44 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:40:44 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:40:44 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:40:44 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:40:44 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:40:44 --> Authentication library initialized
+DEBUG - 2012-04-17 15:40:44 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:40:44 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:40:44 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:40:44 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:40:44 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:40:44 --> Final output sent to browser
+DEBUG - 2012-04-17 15:40:44 --> Total execution time: 0.0486
+DEBUG - 2012-04-17 15:40:51 --> Config Class Initialized
+DEBUG - 2012-04-17 15:40:51 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:40:51 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:40:51 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:40:51 --> URI Class Initialized
+DEBUG - 2012-04-17 15:40:51 --> Router Class Initialized
+DEBUG - 2012-04-17 15:40:51 --> Output Class Initialized
+DEBUG - 2012-04-17 15:40:51 --> Security Class Initialized
+DEBUG - 2012-04-17 15:40:51 --> Input Class Initialized
+DEBUG - 2012-04-17 15:40:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:40:51 --> Language Class Initialized
+DEBUG - 2012-04-17 15:40:51 --> Language Class Initialized
+DEBUG - 2012-04-17 15:40:51 --> Config Class Initialized
+DEBUG - 2012-04-17 15:40:51 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:40:51 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:40:51 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:40:51 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:40:51 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:40:51 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:40:51 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:40:51 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:40:51 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:40:51 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:40:51 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:40:51 --> Session Class Initialized
+DEBUG - 2012-04-17 15:40:51 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:40:51 --> A session cookie was not found.
+DEBUG - 2012-04-17 15:40:51 --> Session routines successfully run
+DEBUG - 2012-04-17 15:40:51 --> Model Class Initialized
+ERROR - 2012-04-17 15:40:51 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:40:51 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:40:51 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:40:51 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:40:51 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:40:51 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:40:51 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:40:51 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:40:51 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:40:51 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:40:51 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:40:51 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:40:51 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:40:51 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:40:51 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:40:51 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:40:51 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:40:51 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:40:51 --> Authentication library initialized
+DEBUG - 2012-04-17 15:40:51 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:40:51 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:40:51 --> Config Class Initialized
+DEBUG - 2012-04-17 15:40:51 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:40:51 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:40:51 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:40:51 --> URI Class Initialized
+DEBUG - 2012-04-17 15:40:51 --> Router Class Initialized
+DEBUG - 2012-04-17 15:40:51 --> Output Class Initialized
+DEBUG - 2012-04-17 15:40:51 --> Security Class Initialized
+DEBUG - 2012-04-17 15:40:51 --> Input Class Initialized
+DEBUG - 2012-04-17 15:40:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:40:51 --> Language Class Initialized
+DEBUG - 2012-04-17 15:40:51 --> Language Class Initialized
+DEBUG - 2012-04-17 15:40:51 --> Config Class Initialized
+DEBUG - 2012-04-17 15:40:51 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:40:51 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:40:51 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:40:51 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:40:51 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:40:51 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:40:51 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:40:51 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:40:51 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:40:51 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:40:51 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:40:51 --> Session Class Initialized
+DEBUG - 2012-04-17 15:40:51 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:40:51 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:40:51 --> Session routines successfully run
+DEBUG - 2012-04-17 15:40:51 --> Model Class Initialized
+ERROR - 2012-04-17 15:40:51 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:40:51 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:40:51 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:40:51 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:40:51 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:40:51 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:40:51 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:40:51 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:40:51 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:40:51 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:40:51 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:40:51 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:40:51 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:40:51 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:40:51 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:40:51 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:40:51 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:40:51 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:40:51 --> Authentication library initialized
+DEBUG - 2012-04-17 15:40:51 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:40:51 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:40:51 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:40:51 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:40:51 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:40:51 --> Final output sent to browser
+DEBUG - 2012-04-17 15:40:51 --> Total execution time: 0.0617
+DEBUG - 2012-04-17 15:40:56 --> Config Class Initialized
+DEBUG - 2012-04-17 15:40:56 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:40:56 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:40:56 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:40:56 --> URI Class Initialized
+DEBUG - 2012-04-17 15:40:56 --> Router Class Initialized
+DEBUG - 2012-04-17 15:40:56 --> Output Class Initialized
+DEBUG - 2012-04-17 15:40:56 --> Security Class Initialized
+DEBUG - 2012-04-17 15:40:56 --> Input Class Initialized
+DEBUG - 2012-04-17 15:40:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:40:56 --> Language Class Initialized
+DEBUG - 2012-04-17 15:40:56 --> Language Class Initialized
+DEBUG - 2012-04-17 15:40:56 --> Config Class Initialized
+DEBUG - 2012-04-17 15:40:56 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:40:56 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:40:56 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:40:56 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:40:56 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:40:56 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:40:56 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:40:56 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:40:56 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:40:56 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:40:56 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:40:56 --> Session Class Initialized
+DEBUG - 2012-04-17 15:40:56 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:40:56 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:40:56 --> Session routines successfully run
+DEBUG - 2012-04-17 15:40:56 --> Model Class Initialized
+ERROR - 2012-04-17 15:40:56 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:40:56 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:40:56 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:40:56 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:40:56 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:40:56 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:40:56 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:40:56 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:40:56 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:40:56 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:40:56 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:40:56 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:40:56 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:40:56 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:40:56 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:40:56 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:40:56 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:40:56 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:40:56 --> Authentication library initialized
+DEBUG - 2012-04-17 15:40:56 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:40:56 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:40:56 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:40:56 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:40:56 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:40:56 --> Config Class Initialized
+DEBUG - 2012-04-17 15:40:56 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:40:56 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:40:56 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:40:56 --> URI Class Initialized
+DEBUG - 2012-04-17 15:40:56 --> Router Class Initialized
+DEBUG - 2012-04-17 15:40:56 --> Output Class Initialized
+DEBUG - 2012-04-17 15:40:56 --> Security Class Initialized
+DEBUG - 2012-04-17 15:40:56 --> Input Class Initialized
+DEBUG - 2012-04-17 15:40:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:40:56 --> Language Class Initialized
+DEBUG - 2012-04-17 15:40:56 --> Language Class Initialized
+DEBUG - 2012-04-17 15:40:56 --> Config Class Initialized
+DEBUG - 2012-04-17 15:40:56 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:40:56 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:40:56 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:40:56 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:40:56 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:40:56 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:40:56 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:40:56 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:40:56 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:40:56 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:40:56 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:40:56 --> Session Class Initialized
+DEBUG - 2012-04-17 15:40:56 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:40:56 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:40:56 --> Session routines successfully run
+DEBUG - 2012-04-17 15:40:56 --> Model Class Initialized
+ERROR - 2012-04-17 15:40:56 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:40:56 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:40:56 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:40:56 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:40:56 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:40:56 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:40:56 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:40:56 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:40:56 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:40:56 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:40:56 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:40:56 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:40:56 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:40:56 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:40:56 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:40:56 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:40:56 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:40:56 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:40:56 --> Authentication library initialized
+DEBUG - 2012-04-17 15:40:56 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:40:56 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:40:56 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:40:56 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:40:56 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:40:56 --> Final output sent to browser
+DEBUG - 2012-04-17 15:40:56 --> Total execution time: 0.0516
+DEBUG - 2012-04-17 15:41:41 --> Config Class Initialized
+DEBUG - 2012-04-17 15:41:41 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:41:41 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:41:41 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:41:41 --> URI Class Initialized
+DEBUG - 2012-04-17 15:41:41 --> Router Class Initialized
+DEBUG - 2012-04-17 15:41:41 --> Output Class Initialized
+DEBUG - 2012-04-17 15:41:41 --> Security Class Initialized
+DEBUG - 2012-04-17 15:41:41 --> Input Class Initialized
+DEBUG - 2012-04-17 15:41:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:41:41 --> Language Class Initialized
+DEBUG - 2012-04-17 15:41:41 --> Language Class Initialized
+DEBUG - 2012-04-17 15:41:41 --> Config Class Initialized
+DEBUG - 2012-04-17 15:41:41 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:41:41 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:41:41 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:41:41 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:41:41 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:41:41 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:41:41 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:41:41 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:41:41 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:41:41 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:41:41 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:41:41 --> Session Class Initialized
+DEBUG - 2012-04-17 15:41:41 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:41:41 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:41:41 --> Session routines successfully run
+DEBUG - 2012-04-17 15:41:41 --> Model Class Initialized
+ERROR - 2012-04-17 15:41:41 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:41:41 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:41:41 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:41:41 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:41:41 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:41:41 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:41:41 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:41:41 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:41:41 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:41:41 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:41:41 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:41:41 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:41:41 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:41:41 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:41:41 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:41:41 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:41:41 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:41:41 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:41:41 --> Authentication library initialized
+DEBUG - 2012-04-17 15:41:41 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:41:41 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:41:41 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:41:41 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:41:41 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:41:41 --> Config Class Initialized
+DEBUG - 2012-04-17 15:41:41 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:41:41 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:41:41 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:41:41 --> URI Class Initialized
+DEBUG - 2012-04-17 15:41:41 --> Router Class Initialized
+DEBUG - 2012-04-17 15:41:41 --> Output Class Initialized
+DEBUG - 2012-04-17 15:41:41 --> Security Class Initialized
+DEBUG - 2012-04-17 15:41:41 --> Input Class Initialized
+DEBUG - 2012-04-17 15:41:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:41:41 --> Language Class Initialized
+DEBUG - 2012-04-17 15:41:41 --> Language Class Initialized
+DEBUG - 2012-04-17 15:41:41 --> Config Class Initialized
+DEBUG - 2012-04-17 15:41:41 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:41:41 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:41:41 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:41:41 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:41:41 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:41:41 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:41:41 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:41:41 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:41:41 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:41:41 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:41:41 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:41:41 --> Session Class Initialized
+DEBUG - 2012-04-17 15:41:41 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:41:41 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:41:41 --> Session routines successfully run
+DEBUG - 2012-04-17 15:41:41 --> Model Class Initialized
+ERROR - 2012-04-17 15:41:41 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:41:41 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:41:41 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:41:41 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:41:41 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:41:41 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:41:41 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:41:41 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:41:41 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:41:41 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:41:41 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:41:41 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:41:41 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:41:41 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:41:41 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:41:41 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:41:41 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:41:41 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:41:41 --> Authentication library initialized
+DEBUG - 2012-04-17 15:41:41 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:41:41 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:41:41 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:41:41 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:41:41 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:41:41 --> Final output sent to browser
+DEBUG - 2012-04-17 15:41:41 --> Total execution time: 0.0471
+DEBUG - 2012-04-17 15:41:59 --> Config Class Initialized
+DEBUG - 2012-04-17 15:41:59 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:41:59 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:41:59 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:41:59 --> URI Class Initialized
+DEBUG - 2012-04-17 15:41:59 --> Router Class Initialized
+DEBUG - 2012-04-17 15:41:59 --> Output Class Initialized
+DEBUG - 2012-04-17 15:41:59 --> Security Class Initialized
+DEBUG - 2012-04-17 15:41:59 --> Input Class Initialized
+DEBUG - 2012-04-17 15:41:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:41:59 --> Language Class Initialized
+DEBUG - 2012-04-17 15:41:59 --> Language Class Initialized
+DEBUG - 2012-04-17 15:41:59 --> Config Class Initialized
+DEBUG - 2012-04-17 15:41:59 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:41:59 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:41:59 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:41:59 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:41:59 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:41:59 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:41:59 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:41:59 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:41:59 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:41:59 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:41:59 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:41:59 --> Session Class Initialized
+DEBUG - 2012-04-17 15:41:59 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:41:59 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:41:59 --> Session routines successfully run
+DEBUG - 2012-04-17 15:41:59 --> Model Class Initialized
+ERROR - 2012-04-17 15:41:59 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:41:59 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:41:59 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:41:59 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:41:59 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:41:59 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:41:59 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:41:59 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:41:59 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:41:59 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:41:59 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:41:59 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:41:59 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:41:59 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:41:59 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:41:59 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:41:59 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:41:59 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:41:59 --> Authentication library initialized
+DEBUG - 2012-04-17 15:41:59 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:41:59 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:41:59 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:41:59 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:41:59 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:41:59 --> Config Class Initialized
+DEBUG - 2012-04-17 15:41:59 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:41:59 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:41:59 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:41:59 --> URI Class Initialized
+DEBUG - 2012-04-17 15:41:59 --> Router Class Initialized
+DEBUG - 2012-04-17 15:41:59 --> Output Class Initialized
+DEBUG - 2012-04-17 15:41:59 --> Security Class Initialized
+DEBUG - 2012-04-17 15:41:59 --> Input Class Initialized
+DEBUG - 2012-04-17 15:41:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:41:59 --> Language Class Initialized
+DEBUG - 2012-04-17 15:41:59 --> Language Class Initialized
+DEBUG - 2012-04-17 15:41:59 --> Config Class Initialized
+DEBUG - 2012-04-17 15:41:59 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:41:59 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:41:59 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:41:59 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:41:59 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:41:59 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:41:59 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:41:59 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:41:59 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:41:59 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:41:59 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:41:59 --> Session Class Initialized
+DEBUG - 2012-04-17 15:41:59 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:41:59 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:41:59 --> Session routines successfully run
+DEBUG - 2012-04-17 15:41:59 --> Model Class Initialized
+ERROR - 2012-04-17 15:41:59 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:41:59 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:41:59 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:41:59 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:41:59 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:41:59 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:41:59 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:41:59 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:41:59 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:41:59 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:41:59 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:41:59 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:41:59 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:41:59 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:41:59 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:41:59 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:41:59 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:41:59 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:41:59 --> Authentication library initialized
+DEBUG - 2012-04-17 15:41:59 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:41:59 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:41:59 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:41:59 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:41:59 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:41:59 --> Final output sent to browser
+DEBUG - 2012-04-17 15:41:59 --> Total execution time: 0.0505
+DEBUG - 2012-04-17 15:42:04 --> Config Class Initialized
+DEBUG - 2012-04-17 15:42:04 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:42:04 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:42:04 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:42:04 --> URI Class Initialized
+DEBUG - 2012-04-17 15:42:04 --> Router Class Initialized
+DEBUG - 2012-04-17 15:42:04 --> Output Class Initialized
+DEBUG - 2012-04-17 15:42:04 --> Security Class Initialized
+DEBUG - 2012-04-17 15:42:04 --> Input Class Initialized
+DEBUG - 2012-04-17 15:42:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:42:04 --> Language Class Initialized
+DEBUG - 2012-04-17 15:42:04 --> Language Class Initialized
+DEBUG - 2012-04-17 15:42:04 --> Config Class Initialized
+DEBUG - 2012-04-17 15:42:04 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:42:04 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:42:04 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:42:04 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:42:04 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:42:04 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:42:04 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:42:04 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:42:04 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:42:04 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:42:04 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:42:04 --> Session Class Initialized
+DEBUG - 2012-04-17 15:42:04 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:42:04 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:42:04 --> Session routines successfully run
+DEBUG - 2012-04-17 15:42:04 --> Model Class Initialized
+ERROR - 2012-04-17 15:42:04 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:42:04 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:42:04 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:42:04 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:42:04 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:42:04 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:42:04 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:42:04 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:42:04 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:42:04 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:42:04 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:42:04 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:42:04 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:42:04 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:42:04 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:42:04 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:42:04 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:42:04 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:42:04 --> Authentication library initialized
+DEBUG - 2012-04-17 15:42:04 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:42:04 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:42:04 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:42:04 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:42:04 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:42:04 --> Config Class Initialized
+DEBUG - 2012-04-17 15:42:04 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:42:04 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:42:04 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:42:04 --> URI Class Initialized
+DEBUG - 2012-04-17 15:42:04 --> Router Class Initialized
+DEBUG - 2012-04-17 15:42:04 --> Output Class Initialized
+DEBUG - 2012-04-17 15:42:04 --> Security Class Initialized
+DEBUG - 2012-04-17 15:42:04 --> Input Class Initialized
+DEBUG - 2012-04-17 15:42:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:42:04 --> Language Class Initialized
+DEBUG - 2012-04-17 15:42:04 --> Language Class Initialized
+DEBUG - 2012-04-17 15:42:04 --> Config Class Initialized
+DEBUG - 2012-04-17 15:42:04 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:42:04 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:42:04 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:42:04 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:42:04 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:42:04 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:42:04 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:42:04 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:42:04 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:42:04 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:42:04 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:42:04 --> Session Class Initialized
+DEBUG - 2012-04-17 15:42:04 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:42:04 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:42:04 --> Session routines successfully run
+DEBUG - 2012-04-17 15:42:04 --> Model Class Initialized
+ERROR - 2012-04-17 15:42:04 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:42:04 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:42:04 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:42:04 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:42:04 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:42:04 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:42:04 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:42:04 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:42:04 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:42:04 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:42:04 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:42:04 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:42:04 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:42:04 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:42:04 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:42:04 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:42:04 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:42:04 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:42:04 --> Authentication library initialized
+DEBUG - 2012-04-17 15:42:04 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:42:04 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:42:04 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:42:04 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:42:04 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:42:04 --> Final output sent to browser
+DEBUG - 2012-04-17 15:42:04 --> Total execution time: 0.0446
+DEBUG - 2012-04-17 15:42:06 --> Config Class Initialized
+DEBUG - 2012-04-17 15:42:06 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:42:06 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:42:06 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:42:06 --> URI Class Initialized
+DEBUG - 2012-04-17 15:42:06 --> Router Class Initialized
+DEBUG - 2012-04-17 15:42:06 --> Output Class Initialized
+DEBUG - 2012-04-17 15:42:06 --> Security Class Initialized
+DEBUG - 2012-04-17 15:42:06 --> Input Class Initialized
+DEBUG - 2012-04-17 15:42:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:42:06 --> Language Class Initialized
+DEBUG - 2012-04-17 15:42:06 --> Language Class Initialized
+DEBUG - 2012-04-17 15:42:06 --> Config Class Initialized
+DEBUG - 2012-04-17 15:42:06 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:42:06 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:42:06 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:42:06 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:42:06 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:42:06 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:42:06 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:42:06 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:42:06 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:42:06 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:42:06 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:42:06 --> Session Class Initialized
+DEBUG - 2012-04-17 15:42:06 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:42:06 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:42:06 --> Session routines successfully run
+DEBUG - 2012-04-17 15:42:06 --> Model Class Initialized
+ERROR - 2012-04-17 15:42:06 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:42:06 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:42:06 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:42:06 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:42:06 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:42:06 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:42:06 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:42:06 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:42:06 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:42:06 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:42:06 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:42:06 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:42:06 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:42:06 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:42:06 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:42:06 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:42:06 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:42:06 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:42:06 --> Authentication library initialized
+DEBUG - 2012-04-17 15:42:06 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:42:06 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:42:06 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:42:06 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:42:06 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:42:06 --> Config Class Initialized
+DEBUG - 2012-04-17 15:42:06 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:42:06 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:42:06 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:42:06 --> URI Class Initialized
+DEBUG - 2012-04-17 15:42:06 --> Router Class Initialized
+DEBUG - 2012-04-17 15:42:06 --> Output Class Initialized
+DEBUG - 2012-04-17 15:42:06 --> Security Class Initialized
+DEBUG - 2012-04-17 15:42:06 --> Input Class Initialized
+DEBUG - 2012-04-17 15:42:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:42:06 --> Language Class Initialized
+DEBUG - 2012-04-17 15:42:06 --> Language Class Initialized
+DEBUG - 2012-04-17 15:42:06 --> Config Class Initialized
+DEBUG - 2012-04-17 15:42:06 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:42:06 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:42:06 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:42:06 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:42:06 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:42:06 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:42:06 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:42:06 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:42:06 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:42:06 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:42:06 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:42:06 --> Session Class Initialized
+DEBUG - 2012-04-17 15:42:06 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:42:06 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:42:06 --> Session routines successfully run
+DEBUG - 2012-04-17 15:42:06 --> Model Class Initialized
+ERROR - 2012-04-17 15:42:06 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:42:06 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:42:06 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:42:06 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:42:06 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:42:06 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:42:06 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:42:06 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:42:06 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:42:06 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:42:06 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:42:06 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:42:06 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:42:06 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:42:06 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:42:06 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:42:06 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:42:06 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:42:06 --> Authentication library initialized
+DEBUG - 2012-04-17 15:42:06 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:42:06 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:42:06 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:42:06 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:42:06 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:42:06 --> Final output sent to browser
+DEBUG - 2012-04-17 15:42:06 --> Total execution time: 0.0573
+DEBUG - 2012-04-17 15:43:10 --> Config Class Initialized
+DEBUG - 2012-04-17 15:43:10 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:43:10 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:43:10 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:43:10 --> URI Class Initialized
+DEBUG - 2012-04-17 15:43:10 --> Router Class Initialized
+DEBUG - 2012-04-17 15:43:10 --> Output Class Initialized
+DEBUG - 2012-04-17 15:43:10 --> Security Class Initialized
+DEBUG - 2012-04-17 15:43:10 --> Input Class Initialized
+DEBUG - 2012-04-17 15:43:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:43:10 --> Language Class Initialized
+DEBUG - 2012-04-17 15:43:10 --> Language Class Initialized
+DEBUG - 2012-04-17 15:43:10 --> Config Class Initialized
+DEBUG - 2012-04-17 15:43:10 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:43:10 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:43:10 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:43:10 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:43:10 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:43:10 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:43:10 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:43:10 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:43:10 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:43:10 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:43:10 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:43:10 --> Session Class Initialized
+DEBUG - 2012-04-17 15:43:10 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:43:10 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:43:10 --> Session routines successfully run
+DEBUG - 2012-04-17 15:43:10 --> Model Class Initialized
+ERROR - 2012-04-17 15:43:10 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:43:10 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:43:10 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:43:10 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:43:10 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:43:10 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:43:10 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:43:10 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:43:10 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:43:10 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:43:10 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:43:10 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:43:10 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:43:10 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:43:10 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:43:10 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:43:10 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:43:10 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:43:10 --> Authentication library initialized
+DEBUG - 2012-04-17 15:43:10 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:43:10 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:43:14 --> Config Class Initialized
+DEBUG - 2012-04-17 15:43:14 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:43:14 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:43:14 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:43:14 --> URI Class Initialized
+DEBUG - 2012-04-17 15:43:14 --> Router Class Initialized
+DEBUG - 2012-04-17 15:43:14 --> Output Class Initialized
+DEBUG - 2012-04-17 15:43:14 --> Security Class Initialized
+DEBUG - 2012-04-17 15:43:14 --> Input Class Initialized
+DEBUG - 2012-04-17 15:43:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:43:14 --> Language Class Initialized
+DEBUG - 2012-04-17 15:43:14 --> Language Class Initialized
+DEBUG - 2012-04-17 15:43:14 --> Config Class Initialized
+DEBUG - 2012-04-17 15:43:14 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:43:14 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:43:14 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:43:14 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:43:14 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:43:14 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:43:14 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:43:14 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:43:14 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:43:14 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:43:14 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:43:14 --> Session Class Initialized
+DEBUG - 2012-04-17 15:43:14 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:43:14 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:43:14 --> Session routines successfully run
+DEBUG - 2012-04-17 15:43:14 --> Model Class Initialized
+ERROR - 2012-04-17 15:43:14 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:43:14 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:43:14 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:43:14 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:43:14 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:43:14 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:43:14 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:43:14 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:43:14 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:43:14 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:43:14 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:43:14 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:43:14 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:43:14 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:43:14 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:43:14 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:43:14 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:43:14 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:43:14 --> Authentication library initialized
+DEBUG - 2012-04-17 15:43:14 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:43:14 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:43:22 --> Config Class Initialized
+DEBUG - 2012-04-17 15:43:22 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:43:22 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:43:22 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:43:22 --> URI Class Initialized
+DEBUG - 2012-04-17 15:43:22 --> Router Class Initialized
+DEBUG - 2012-04-17 15:43:22 --> Output Class Initialized
+DEBUG - 2012-04-17 15:43:22 --> Security Class Initialized
+DEBUG - 2012-04-17 15:43:22 --> Input Class Initialized
+DEBUG - 2012-04-17 15:43:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:43:22 --> Language Class Initialized
+DEBUG - 2012-04-17 15:43:22 --> Language Class Initialized
+DEBUG - 2012-04-17 15:43:22 --> Config Class Initialized
+DEBUG - 2012-04-17 15:43:22 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:43:22 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:43:22 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:43:22 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:43:22 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:43:22 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:43:22 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:43:22 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:43:22 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:43:22 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:43:22 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:43:22 --> Session Class Initialized
+DEBUG - 2012-04-17 15:43:22 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:43:22 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:43:22 --> Session routines successfully run
+DEBUG - 2012-04-17 15:43:22 --> Model Class Initialized
+ERROR - 2012-04-17 15:43:22 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:43:22 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:43:22 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:43:22 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:43:22 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:43:22 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:43:22 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:43:22 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:43:22 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:43:22 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:43:22 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:43:22 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:43:22 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:43:22 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:43:22 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:43:22 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:43:22 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:43:22 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:43:22 --> Authentication library initialized
+DEBUG - 2012-04-17 15:43:22 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:43:22 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:43:22 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:43:22 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:43:22 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:43:22 --> Config Class Initialized
+DEBUG - 2012-04-17 15:43:22 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:43:22 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:43:22 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:43:22 --> URI Class Initialized
+DEBUG - 2012-04-17 15:43:22 --> Router Class Initialized
+DEBUG - 2012-04-17 15:43:22 --> Output Class Initialized
+DEBUG - 2012-04-17 15:43:22 --> Security Class Initialized
+DEBUG - 2012-04-17 15:43:22 --> Input Class Initialized
+DEBUG - 2012-04-17 15:43:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:43:22 --> Language Class Initialized
+DEBUG - 2012-04-17 15:43:22 --> Language Class Initialized
+DEBUG - 2012-04-17 15:43:22 --> Config Class Initialized
+DEBUG - 2012-04-17 15:43:22 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:43:22 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:43:22 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:43:22 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:43:22 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:43:22 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:43:22 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:43:22 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:43:22 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:43:22 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:43:22 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:43:22 --> Session Class Initialized
+DEBUG - 2012-04-17 15:43:22 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:43:22 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:43:22 --> Session routines successfully run
+DEBUG - 2012-04-17 15:43:22 --> Model Class Initialized
+ERROR - 2012-04-17 15:43:22 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:43:22 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:43:22 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:43:22 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:43:22 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:43:22 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:43:22 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:43:22 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:43:22 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:43:22 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:43:22 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:43:22 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:43:22 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:43:22 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:43:22 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:43:22 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:43:22 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:43:22 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:43:22 --> Authentication library initialized
+DEBUG - 2012-04-17 15:43:22 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:43:22 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:43:22 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:43:22 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:43:22 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:43:22 --> Final output sent to browser
+DEBUG - 2012-04-17 15:43:22 --> Total execution time: 0.0474
+DEBUG - 2012-04-17 15:43:26 --> Config Class Initialized
+DEBUG - 2012-04-17 15:43:26 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:43:26 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:43:26 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:43:26 --> URI Class Initialized
+DEBUG - 2012-04-17 15:43:26 --> Router Class Initialized
+DEBUG - 2012-04-17 15:43:26 --> Output Class Initialized
+DEBUG - 2012-04-17 15:43:26 --> Security Class Initialized
+DEBUG - 2012-04-17 15:43:26 --> Input Class Initialized
+DEBUG - 2012-04-17 15:43:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:43:26 --> Language Class Initialized
+DEBUG - 2012-04-17 15:43:26 --> Language Class Initialized
+DEBUG - 2012-04-17 15:43:26 --> Config Class Initialized
+DEBUG - 2012-04-17 15:43:26 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:43:26 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:43:26 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:43:26 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:43:26 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:43:26 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:43:26 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:43:26 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:43:26 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:43:26 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:43:26 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:43:26 --> Session Class Initialized
+DEBUG - 2012-04-17 15:43:26 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:43:26 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:43:26 --> Session routines successfully run
+DEBUG - 2012-04-17 15:43:26 --> Model Class Initialized
+ERROR - 2012-04-17 15:43:26 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:43:26 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:43:26 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:43:26 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:43:26 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:43:26 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:43:26 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:43:26 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:43:26 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:43:26 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:43:26 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:43:26 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:43:26 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:43:26 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:43:26 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:43:26 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:43:26 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:43:26 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:43:26 --> Authentication library initialized
+DEBUG - 2012-04-17 15:43:26 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:43:26 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:43:26 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:43:26 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:43:26 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:43:26 --> Config Class Initialized
+DEBUG - 2012-04-17 15:43:26 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:43:26 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:43:26 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:43:26 --> URI Class Initialized
+DEBUG - 2012-04-17 15:43:26 --> Router Class Initialized
+DEBUG - 2012-04-17 15:43:26 --> Output Class Initialized
+DEBUG - 2012-04-17 15:43:26 --> Security Class Initialized
+DEBUG - 2012-04-17 15:43:26 --> Input Class Initialized
+DEBUG - 2012-04-17 15:43:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:43:26 --> Language Class Initialized
+DEBUG - 2012-04-17 15:43:26 --> Language Class Initialized
+DEBUG - 2012-04-17 15:43:26 --> Config Class Initialized
+DEBUG - 2012-04-17 15:43:26 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:43:26 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:43:26 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:43:26 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:43:26 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:43:26 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:43:26 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:43:26 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:43:26 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:43:26 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:43:26 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:43:26 --> Session Class Initialized
+DEBUG - 2012-04-17 15:43:26 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:43:26 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:43:26 --> Session routines successfully run
+DEBUG - 2012-04-17 15:43:26 --> Model Class Initialized
+ERROR - 2012-04-17 15:43:26 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:43:26 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:43:26 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:43:26 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:43:26 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:43:26 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:43:26 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:43:26 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:43:26 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:43:26 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:43:26 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:43:26 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:43:26 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:43:26 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:43:26 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:43:26 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:43:26 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:43:26 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:43:26 --> Authentication library initialized
+DEBUG - 2012-04-17 15:43:26 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:43:26 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:43:26 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:43:26 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:43:26 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:43:26 --> Final output sent to browser
+DEBUG - 2012-04-17 15:43:26 --> Total execution time: 0.0457
+DEBUG - 2012-04-17 15:43:31 --> Config Class Initialized
+DEBUG - 2012-04-17 15:43:31 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:43:31 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:43:31 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:43:31 --> URI Class Initialized
+DEBUG - 2012-04-17 15:43:31 --> Router Class Initialized
+DEBUG - 2012-04-17 15:43:31 --> Output Class Initialized
+DEBUG - 2012-04-17 15:43:31 --> Security Class Initialized
+DEBUG - 2012-04-17 15:43:31 --> Input Class Initialized
+DEBUG - 2012-04-17 15:43:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:43:31 --> Language Class Initialized
+DEBUG - 2012-04-17 15:43:31 --> Language Class Initialized
+DEBUG - 2012-04-17 15:43:31 --> Config Class Initialized
+DEBUG - 2012-04-17 15:43:31 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:43:31 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:43:31 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:43:31 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:43:31 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:43:31 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:43:31 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:43:31 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:43:31 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:43:31 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:43:31 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:43:31 --> Session Class Initialized
+DEBUG - 2012-04-17 15:43:31 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:43:31 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:43:31 --> Session routines successfully run
+DEBUG - 2012-04-17 15:43:31 --> Model Class Initialized
+ERROR - 2012-04-17 15:43:31 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:43:31 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:43:31 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:43:31 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:43:31 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:43:31 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:43:31 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:43:31 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:43:31 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:43:31 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:43:31 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:43:31 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:43:31 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:43:31 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:43:31 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:43:31 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:43:31 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:43:31 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:43:31 --> Authentication library initialized
+DEBUG - 2012-04-17 15:43:31 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:43:31 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:43:31 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:43:31 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:43:31 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:43:31 --> Config Class Initialized
+DEBUG - 2012-04-17 15:43:31 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:43:31 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:43:31 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:43:31 --> URI Class Initialized
+DEBUG - 2012-04-17 15:43:31 --> Router Class Initialized
+DEBUG - 2012-04-17 15:43:31 --> Output Class Initialized
+DEBUG - 2012-04-17 15:43:31 --> Security Class Initialized
+DEBUG - 2012-04-17 15:43:31 --> Input Class Initialized
+DEBUG - 2012-04-17 15:43:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:43:31 --> Language Class Initialized
+DEBUG - 2012-04-17 15:43:31 --> Language Class Initialized
+DEBUG - 2012-04-17 15:43:31 --> Config Class Initialized
+DEBUG - 2012-04-17 15:43:31 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:43:31 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:43:31 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:43:31 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:43:31 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:43:31 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:43:31 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:43:31 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:43:31 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:43:31 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:43:31 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:43:31 --> Session Class Initialized
+DEBUG - 2012-04-17 15:43:31 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:43:31 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:43:31 --> Session routines successfully run
+DEBUG - 2012-04-17 15:43:31 --> Model Class Initialized
+ERROR - 2012-04-17 15:43:31 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:43:31 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:43:31 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:43:31 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:43:31 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:43:31 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:43:31 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:43:31 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:43:31 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:43:31 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:43:31 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:43:31 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:43:31 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:43:31 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:43:31 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:43:31 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:43:31 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:43:31 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:43:31 --> Authentication library initialized
+DEBUG - 2012-04-17 15:43:31 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:43:31 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:43:31 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:43:31 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:43:31 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:43:31 --> Final output sent to browser
+DEBUG - 2012-04-17 15:43:31 --> Total execution time: 0.0427
+DEBUG - 2012-04-17 15:43:34 --> Config Class Initialized
+DEBUG - 2012-04-17 15:43:34 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:43:34 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:43:34 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:43:34 --> URI Class Initialized
+DEBUG - 2012-04-17 15:43:34 --> Router Class Initialized
+DEBUG - 2012-04-17 15:43:34 --> Output Class Initialized
+DEBUG - 2012-04-17 15:43:34 --> Security Class Initialized
+DEBUG - 2012-04-17 15:43:34 --> Input Class Initialized
+DEBUG - 2012-04-17 15:43:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:43:34 --> Language Class Initialized
+DEBUG - 2012-04-17 15:43:34 --> Language Class Initialized
+DEBUG - 2012-04-17 15:43:34 --> Config Class Initialized
+DEBUG - 2012-04-17 15:43:34 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:43:34 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:43:34 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:43:35 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:43:35 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:43:35 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:43:35 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:43:35 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:43:35 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:43:35 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:43:35 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:43:35 --> Session Class Initialized
+DEBUG - 2012-04-17 15:43:35 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:43:35 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:43:35 --> Session routines successfully run
+DEBUG - 2012-04-17 15:43:35 --> Model Class Initialized
+ERROR - 2012-04-17 15:43:35 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:43:35 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:43:35 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:43:35 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:43:35 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:43:35 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:43:35 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:43:35 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:43:35 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:43:35 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:43:35 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:43:35 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:43:35 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:43:35 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:43:35 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:43:35 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:43:35 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:43:35 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:43:35 --> Authentication library initialized
+DEBUG - 2012-04-17 15:43:35 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:43:35 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:43:35 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:43:35 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:43:35 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:43:35 --> Config Class Initialized
+DEBUG - 2012-04-17 15:43:35 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:43:35 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:43:35 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:43:35 --> URI Class Initialized
+DEBUG - 2012-04-17 15:43:35 --> Router Class Initialized
+DEBUG - 2012-04-17 15:43:35 --> Output Class Initialized
+DEBUG - 2012-04-17 15:43:35 --> Security Class Initialized
+DEBUG - 2012-04-17 15:43:35 --> Input Class Initialized
+DEBUG - 2012-04-17 15:43:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:43:35 --> Language Class Initialized
+DEBUG - 2012-04-17 15:43:35 --> Language Class Initialized
+DEBUG - 2012-04-17 15:43:35 --> Config Class Initialized
+DEBUG - 2012-04-17 15:43:35 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:43:35 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:43:35 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:43:35 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:43:35 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:43:35 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:43:35 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:43:35 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:43:35 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:43:35 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:43:35 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:43:35 --> Session Class Initialized
+DEBUG - 2012-04-17 15:43:35 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:43:35 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:43:35 --> Session routines successfully run
+DEBUG - 2012-04-17 15:43:35 --> Model Class Initialized
+ERROR - 2012-04-17 15:43:35 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:43:35 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:43:35 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:43:35 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:43:35 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:43:35 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:43:35 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:43:35 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:43:35 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:43:35 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:43:35 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:43:35 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:43:35 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:43:35 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:43:35 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:43:35 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:43:35 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:43:35 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:43:35 --> Authentication library initialized
+DEBUG - 2012-04-17 15:43:35 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:43:35 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:43:35 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:43:35 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:43:35 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:43:35 --> Final output sent to browser
+DEBUG - 2012-04-17 15:43:35 --> Total execution time: 0.0501
+DEBUG - 2012-04-17 15:44:25 --> Config Class Initialized
+DEBUG - 2012-04-17 15:44:25 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:44:25 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:44:25 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:44:25 --> URI Class Initialized
+DEBUG - 2012-04-17 15:44:25 --> Router Class Initialized
+DEBUG - 2012-04-17 15:44:25 --> Output Class Initialized
+DEBUG - 2012-04-17 15:44:25 --> Security Class Initialized
+DEBUG - 2012-04-17 15:44:25 --> Input Class Initialized
+DEBUG - 2012-04-17 15:44:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:44:25 --> Language Class Initialized
+DEBUG - 2012-04-17 15:44:25 --> Language Class Initialized
+DEBUG - 2012-04-17 15:44:25 --> Config Class Initialized
+DEBUG - 2012-04-17 15:44:25 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:44:25 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:44:25 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:44:25 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:44:25 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:44:25 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:44:25 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:44:25 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:44:25 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:44:25 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:44:25 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:44:25 --> Session Class Initialized
+DEBUG - 2012-04-17 15:44:25 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:44:25 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:44:25 --> Session routines successfully run
+DEBUG - 2012-04-17 15:44:25 --> Model Class Initialized
+ERROR - 2012-04-17 15:44:25 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:44:25 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:44:25 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:44:25 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:44:25 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:44:25 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:44:25 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:44:25 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:44:25 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:44:25 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:44:25 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:44:25 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:44:25 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:44:25 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:44:25 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:44:25 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:44:25 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:44:25 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:44:25 --> Authentication library initialized
+DEBUG - 2012-04-17 15:44:25 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:44:25 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:44:25 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:44:25 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:44:25 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:44:25 --> Config Class Initialized
+DEBUG - 2012-04-17 15:44:25 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:44:25 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:44:25 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:44:25 --> URI Class Initialized
+DEBUG - 2012-04-17 15:44:25 --> Router Class Initialized
+DEBUG - 2012-04-17 15:44:25 --> Output Class Initialized
+DEBUG - 2012-04-17 15:44:25 --> Security Class Initialized
+DEBUG - 2012-04-17 15:44:25 --> Input Class Initialized
+DEBUG - 2012-04-17 15:44:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:44:25 --> Language Class Initialized
+DEBUG - 2012-04-17 15:44:25 --> Language Class Initialized
+DEBUG - 2012-04-17 15:44:25 --> Config Class Initialized
+DEBUG - 2012-04-17 15:44:25 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:44:25 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:44:25 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:44:25 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:44:25 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:44:25 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:44:25 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:44:25 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:44:25 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:44:25 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:44:25 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:44:25 --> Session Class Initialized
+DEBUG - 2012-04-17 15:44:25 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:44:25 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:44:25 --> Session routines successfully run
+DEBUG - 2012-04-17 15:44:25 --> Model Class Initialized
+ERROR - 2012-04-17 15:44:25 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:44:25 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:44:25 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:44:25 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:44:25 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:44:25 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:44:25 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:44:25 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:44:25 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:44:25 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:44:25 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:44:25 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:44:25 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:44:25 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:44:25 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:44:25 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:44:25 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:44:25 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:44:25 --> Authentication library initialized
+DEBUG - 2012-04-17 15:44:25 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:44:25 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:44:25 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:44:25 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:44:25 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:44:25 --> Final output sent to browser
+DEBUG - 2012-04-17 15:44:25 --> Total execution time: 0.0473
+DEBUG - 2012-04-17 15:44:27 --> Config Class Initialized
+DEBUG - 2012-04-17 15:44:27 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:44:27 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:44:27 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:44:27 --> URI Class Initialized
+DEBUG - 2012-04-17 15:44:27 --> Router Class Initialized
+DEBUG - 2012-04-17 15:44:27 --> Output Class Initialized
+DEBUG - 2012-04-17 15:44:27 --> Security Class Initialized
+DEBUG - 2012-04-17 15:44:27 --> Input Class Initialized
+DEBUG - 2012-04-17 15:44:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:44:27 --> Language Class Initialized
+DEBUG - 2012-04-17 15:44:27 --> Language Class Initialized
+DEBUG - 2012-04-17 15:44:27 --> Config Class Initialized
+DEBUG - 2012-04-17 15:44:27 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:44:27 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:44:27 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:44:27 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:44:27 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:44:27 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:44:27 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:44:27 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:44:27 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:44:27 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:44:27 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:44:27 --> Session Class Initialized
+DEBUG - 2012-04-17 15:44:27 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:44:27 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:44:27 --> Session routines successfully run
+DEBUG - 2012-04-17 15:44:27 --> Model Class Initialized
+ERROR - 2012-04-17 15:44:27 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:44:27 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:44:27 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:44:27 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:44:27 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:44:27 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:44:27 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:44:27 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:44:27 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:44:27 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:44:27 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:44:27 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:44:27 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:44:27 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:44:27 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:44:27 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:44:27 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:44:27 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:44:27 --> Authentication library initialized
+DEBUG - 2012-04-17 15:44:27 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:44:27 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:44:27 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:44:27 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:44:27 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:44:27 --> Config Class Initialized
+DEBUG - 2012-04-17 15:44:27 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:44:27 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:44:27 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:44:27 --> URI Class Initialized
+DEBUG - 2012-04-17 15:44:27 --> Router Class Initialized
+DEBUG - 2012-04-17 15:44:27 --> Output Class Initialized
+DEBUG - 2012-04-17 15:44:27 --> Security Class Initialized
+DEBUG - 2012-04-17 15:44:27 --> Input Class Initialized
+DEBUG - 2012-04-17 15:44:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:44:27 --> Language Class Initialized
+DEBUG - 2012-04-17 15:44:27 --> Language Class Initialized
+DEBUG - 2012-04-17 15:44:27 --> Config Class Initialized
+DEBUG - 2012-04-17 15:44:27 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:44:27 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:44:27 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:44:27 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:44:27 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:44:27 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:44:27 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:44:27 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:44:27 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:44:27 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:44:27 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:44:27 --> Session Class Initialized
+DEBUG - 2012-04-17 15:44:27 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:44:27 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:44:27 --> Session routines successfully run
+DEBUG - 2012-04-17 15:44:27 --> Model Class Initialized
+ERROR - 2012-04-17 15:44:28 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:44:28 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:44:28 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:44:28 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:44:28 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:44:28 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:44:28 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:44:28 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:44:28 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:44:28 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:44:28 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:44:28 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:44:28 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:44:28 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:44:28 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:44:28 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:44:28 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:44:28 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:44:28 --> Authentication library initialized
+DEBUG - 2012-04-17 15:44:28 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:44:28 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:44:28 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:44:28 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:44:28 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:44:28 --> Final output sent to browser
+DEBUG - 2012-04-17 15:44:28 --> Total execution time: 0.0436
+DEBUG - 2012-04-17 15:44:37 --> Config Class Initialized
+DEBUG - 2012-04-17 15:44:37 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:44:37 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:44:37 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:44:37 --> URI Class Initialized
+DEBUG - 2012-04-17 15:44:37 --> Router Class Initialized
+DEBUG - 2012-04-17 15:44:37 --> Output Class Initialized
+DEBUG - 2012-04-17 15:44:37 --> Security Class Initialized
+DEBUG - 2012-04-17 15:44:37 --> Input Class Initialized
+DEBUG - 2012-04-17 15:44:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:44:37 --> Language Class Initialized
+DEBUG - 2012-04-17 15:44:37 --> Language Class Initialized
+DEBUG - 2012-04-17 15:44:37 --> Config Class Initialized
+DEBUG - 2012-04-17 15:44:37 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:44:37 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:44:37 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:44:37 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:44:37 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:44:37 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:44:37 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:44:37 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:44:37 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:44:37 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:44:37 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:44:37 --> Session Class Initialized
+DEBUG - 2012-04-17 15:44:37 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:44:37 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:44:37 --> Session routines successfully run
+DEBUG - 2012-04-17 15:44:37 --> Model Class Initialized
+ERROR - 2012-04-17 15:44:37 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:44:37 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:44:37 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:44:37 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:44:37 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:44:37 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:44:37 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:44:37 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:44:37 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:44:37 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:44:37 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:44:37 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:44:37 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:44:37 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:44:37 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:44:37 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:44:37 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:44:37 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:44:37 --> Authentication library initialized
+DEBUG - 2012-04-17 15:44:37 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:44:37 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:44:37 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:44:37 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:44:37 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:44:37 --> Config Class Initialized
+DEBUG - 2012-04-17 15:44:37 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:44:37 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:44:37 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:44:37 --> URI Class Initialized
+DEBUG - 2012-04-17 15:44:37 --> Router Class Initialized
+DEBUG - 2012-04-17 15:44:37 --> Output Class Initialized
+DEBUG - 2012-04-17 15:44:37 --> Security Class Initialized
+DEBUG - 2012-04-17 15:44:37 --> Input Class Initialized
+DEBUG - 2012-04-17 15:44:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:44:37 --> Language Class Initialized
+DEBUG - 2012-04-17 15:44:37 --> Language Class Initialized
+DEBUG - 2012-04-17 15:44:37 --> Config Class Initialized
+DEBUG - 2012-04-17 15:44:37 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:44:37 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:44:37 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:44:37 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:44:37 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:44:37 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:44:37 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:44:37 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:44:37 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:44:37 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:44:37 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:44:37 --> Session Class Initialized
+DEBUG - 2012-04-17 15:44:37 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:44:37 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:44:37 --> Session routines successfully run
+DEBUG - 2012-04-17 15:44:37 --> Model Class Initialized
+ERROR - 2012-04-17 15:44:37 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:44:37 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:44:37 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:44:37 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:44:37 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:44:37 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:44:37 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:44:37 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:44:37 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:44:37 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:44:37 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:44:37 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:44:37 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:44:37 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:44:37 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:44:37 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:44:37 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:44:37 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:44:37 --> Authentication library initialized
+DEBUG - 2012-04-17 15:44:37 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:44:37 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:44:37 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:44:37 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:44:37 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:44:37 --> Final output sent to browser
+DEBUG - 2012-04-17 15:44:37 --> Total execution time: 0.0670
+DEBUG - 2012-04-17 15:44:45 --> Config Class Initialized
+DEBUG - 2012-04-17 15:44:45 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:44:45 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:44:45 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:44:45 --> URI Class Initialized
+DEBUG - 2012-04-17 15:44:45 --> Router Class Initialized
+DEBUG - 2012-04-17 15:44:45 --> Output Class Initialized
+DEBUG - 2012-04-17 15:44:45 --> Security Class Initialized
+DEBUG - 2012-04-17 15:44:45 --> Input Class Initialized
+DEBUG - 2012-04-17 15:44:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:44:45 --> Language Class Initialized
+DEBUG - 2012-04-17 15:44:45 --> Language Class Initialized
+DEBUG - 2012-04-17 15:44:45 --> Config Class Initialized
+DEBUG - 2012-04-17 15:44:45 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:44:45 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:44:45 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:44:45 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:44:45 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:44:45 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:44:45 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:44:45 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:44:45 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:44:45 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:44:45 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:44:45 --> Session Class Initialized
+DEBUG - 2012-04-17 15:44:45 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:44:45 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:44:45 --> Session routines successfully run
+DEBUG - 2012-04-17 15:44:45 --> Model Class Initialized
+ERROR - 2012-04-17 15:44:45 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:44:45 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:44:45 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:44:45 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:44:45 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:44:45 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:44:45 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:44:45 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:44:45 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:44:45 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:44:45 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:44:45 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:44:45 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:44:45 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:44:45 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:44:45 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:44:45 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:44:45 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:44:45 --> Authentication library initialized
+DEBUG - 2012-04-17 15:44:45 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:44:45 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:44:45 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:44:45 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:44:45 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:44:45 --> Final output sent to browser
+DEBUG - 2012-04-17 15:44:45 --> Total execution time: 0.0478
+DEBUG - 2012-04-17 15:44:46 --> Config Class Initialized
+DEBUG - 2012-04-17 15:44:46 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:44:46 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:44:46 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:44:46 --> URI Class Initialized
+DEBUG - 2012-04-17 15:44:46 --> Router Class Initialized
+DEBUG - 2012-04-17 15:44:46 --> Output Class Initialized
+DEBUG - 2012-04-17 15:44:46 --> Security Class Initialized
+DEBUG - 2012-04-17 15:44:46 --> Input Class Initialized
+DEBUG - 2012-04-17 15:44:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:44:46 --> Language Class Initialized
+DEBUG - 2012-04-17 15:44:46 --> Language Class Initialized
+DEBUG - 2012-04-17 15:44:46 --> Config Class Initialized
+DEBUG - 2012-04-17 15:44:46 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:44:46 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:44:46 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:44:46 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:44:46 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:44:46 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:44:46 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:44:46 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:44:46 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:44:46 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:44:46 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:44:46 --> Session Class Initialized
+DEBUG - 2012-04-17 15:44:46 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:44:46 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:44:46 --> Session routines successfully run
+DEBUG - 2012-04-17 15:44:46 --> Model Class Initialized
+ERROR - 2012-04-17 15:44:46 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:44:46 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:44:46 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:44:46 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:44:46 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:44:46 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:44:46 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:44:46 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:44:46 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:44:46 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:44:46 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:44:46 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:44:46 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:44:46 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:44:46 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:44:46 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:44:46 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:44:46 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:44:46 --> Authentication library initialized
+DEBUG - 2012-04-17 15:44:46 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:44:46 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:44:46 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:44:46 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:44:46 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:44:46 --> Config Class Initialized
+DEBUG - 2012-04-17 15:44:46 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:44:46 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:44:46 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:44:46 --> URI Class Initialized
+DEBUG - 2012-04-17 15:44:46 --> Router Class Initialized
+DEBUG - 2012-04-17 15:44:46 --> Output Class Initialized
+DEBUG - 2012-04-17 15:44:46 --> Security Class Initialized
+DEBUG - 2012-04-17 15:44:46 --> Input Class Initialized
+DEBUG - 2012-04-17 15:44:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:44:46 --> Language Class Initialized
+DEBUG - 2012-04-17 15:44:46 --> Language Class Initialized
+DEBUG - 2012-04-17 15:44:46 --> Config Class Initialized
+DEBUG - 2012-04-17 15:44:46 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:44:46 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:44:46 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:44:46 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:44:46 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:44:46 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:44:46 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:44:46 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:44:46 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:44:46 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:44:46 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:44:46 --> Session Class Initialized
+DEBUG - 2012-04-17 15:44:46 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:44:46 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:44:46 --> Session routines successfully run
+DEBUG - 2012-04-17 15:44:46 --> Model Class Initialized
+ERROR - 2012-04-17 15:44:46 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:44:46 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:44:46 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:44:46 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:44:46 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:44:46 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:44:46 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:44:46 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:44:46 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:44:46 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:44:46 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:44:46 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:44:46 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:44:46 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:44:46 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:44:46 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:44:46 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:44:46 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:44:46 --> Authentication library initialized
+DEBUG - 2012-04-17 15:44:46 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:44:46 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:44:46 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:44:46 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:44:46 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:44:46 --> Final output sent to browser
+DEBUG - 2012-04-17 15:44:46 --> Total execution time: 0.0482
+DEBUG - 2012-04-17 15:44:48 --> Config Class Initialized
+DEBUG - 2012-04-17 15:44:48 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:44:48 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:44:48 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:44:48 --> URI Class Initialized
+DEBUG - 2012-04-17 15:44:48 --> Router Class Initialized
+DEBUG - 2012-04-17 15:44:48 --> Output Class Initialized
+DEBUG - 2012-04-17 15:44:48 --> Security Class Initialized
+DEBUG - 2012-04-17 15:44:48 --> Input Class Initialized
+DEBUG - 2012-04-17 15:44:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:44:48 --> Language Class Initialized
+DEBUG - 2012-04-17 15:44:48 --> Language Class Initialized
+DEBUG - 2012-04-17 15:44:48 --> Config Class Initialized
+DEBUG - 2012-04-17 15:44:48 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:44:48 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:44:48 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:44:48 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:44:48 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:44:48 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:44:48 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:44:48 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:44:48 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:44:48 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:44:48 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:44:48 --> Session Class Initialized
+DEBUG - 2012-04-17 15:44:48 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:44:48 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:44:48 --> Session routines successfully run
+DEBUG - 2012-04-17 15:44:48 --> Model Class Initialized
+ERROR - 2012-04-17 15:44:48 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:44:48 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:44:48 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:44:48 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:44:48 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:44:48 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:44:48 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:44:48 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:44:48 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:44:48 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:44:48 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:44:48 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:44:48 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:44:48 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:44:48 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:44:48 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:44:48 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:44:48 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:44:48 --> Authentication library initialized
+DEBUG - 2012-04-17 15:44:48 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:44:48 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:44:48 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:44:48 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:44:48 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:44:48 --> Config Class Initialized
+DEBUG - 2012-04-17 15:44:48 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:44:48 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:44:48 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:44:48 --> URI Class Initialized
+DEBUG - 2012-04-17 15:44:48 --> Router Class Initialized
+DEBUG - 2012-04-17 15:44:48 --> Output Class Initialized
+DEBUG - 2012-04-17 15:44:48 --> Security Class Initialized
+DEBUG - 2012-04-17 15:44:48 --> Input Class Initialized
+DEBUG - 2012-04-17 15:44:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:44:48 --> Language Class Initialized
+DEBUG - 2012-04-17 15:44:48 --> Language Class Initialized
+DEBUG - 2012-04-17 15:44:48 --> Config Class Initialized
+DEBUG - 2012-04-17 15:44:48 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:44:48 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:44:48 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:44:48 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:44:48 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:44:48 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:44:48 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:44:48 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:44:48 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:44:48 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:44:48 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:44:48 --> Session Class Initialized
+DEBUG - 2012-04-17 15:44:48 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:44:48 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:44:48 --> Session routines successfully run
+DEBUG - 2012-04-17 15:44:48 --> Model Class Initialized
+ERROR - 2012-04-17 15:44:49 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:44:49 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:44:49 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:44:49 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:44:49 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:44:49 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:44:49 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:44:49 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:44:49 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:44:49 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:44:49 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:44:49 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:44:49 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:44:49 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:44:49 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:44:49 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:44:49 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:44:49 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:44:49 --> Authentication library initialized
+DEBUG - 2012-04-17 15:44:49 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:44:49 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:44:49 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:44:49 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:44:49 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:44:49 --> Final output sent to browser
+DEBUG - 2012-04-17 15:44:49 --> Total execution time: 0.0594
+DEBUG - 2012-04-17 15:44:53 --> Config Class Initialized
+DEBUG - 2012-04-17 15:44:53 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:44:53 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:44:53 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:44:53 --> URI Class Initialized
+DEBUG - 2012-04-17 15:44:53 --> Router Class Initialized
+DEBUG - 2012-04-17 15:44:53 --> Output Class Initialized
+DEBUG - 2012-04-17 15:44:53 --> Security Class Initialized
+DEBUG - 2012-04-17 15:44:53 --> Input Class Initialized
+DEBUG - 2012-04-17 15:44:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:44:53 --> Language Class Initialized
+DEBUG - 2012-04-17 15:44:53 --> Language Class Initialized
+DEBUG - 2012-04-17 15:44:53 --> Config Class Initialized
+DEBUG - 2012-04-17 15:44:53 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:44:53 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:44:53 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:44:53 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:44:53 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:44:53 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:44:53 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:44:53 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:44:53 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:44:53 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:44:53 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:44:53 --> Session Class Initialized
+DEBUG - 2012-04-17 15:44:53 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:44:53 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:44:53 --> Session routines successfully run
+DEBUG - 2012-04-17 15:44:53 --> Model Class Initialized
+ERROR - 2012-04-17 15:44:53 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:44:53 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:44:53 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:44:53 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:44:53 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:44:53 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:44:53 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:44:53 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:44:53 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:44:53 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:44:53 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:44:53 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:44:53 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:44:53 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:44:53 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:44:53 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:44:53 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:44:53 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:44:53 --> Authentication library initialized
+DEBUG - 2012-04-17 15:44:53 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:44:53 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:44:53 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:44:53 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:44:53 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:44:53 --> Config Class Initialized
+DEBUG - 2012-04-17 15:44:53 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:44:53 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:44:53 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:44:53 --> URI Class Initialized
+DEBUG - 2012-04-17 15:44:53 --> Router Class Initialized
+DEBUG - 2012-04-17 15:44:53 --> Output Class Initialized
+DEBUG - 2012-04-17 15:44:53 --> Security Class Initialized
+DEBUG - 2012-04-17 15:44:53 --> Input Class Initialized
+DEBUG - 2012-04-17 15:44:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:44:53 --> Language Class Initialized
+DEBUG - 2012-04-17 15:44:53 --> Language Class Initialized
+DEBUG - 2012-04-17 15:44:53 --> Config Class Initialized
+DEBUG - 2012-04-17 15:44:53 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:44:53 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:44:53 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:44:53 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:44:53 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:44:53 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:44:53 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:44:53 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:44:53 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:44:53 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:44:53 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:44:53 --> Session Class Initialized
+DEBUG - 2012-04-17 15:44:53 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:44:53 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:44:53 --> Session routines successfully run
+DEBUG - 2012-04-17 15:44:53 --> Model Class Initialized
+ERROR - 2012-04-17 15:44:53 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:44:53 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:44:53 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:44:53 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:44:53 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:44:53 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:44:53 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:44:53 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:44:53 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:44:53 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:44:53 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:44:53 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:44:53 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:44:53 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:44:53 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:44:53 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:44:53 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:44:53 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:44:53 --> Authentication library initialized
+DEBUG - 2012-04-17 15:44:53 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:44:53 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:44:53 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:44:53 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:44:53 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:44:53 --> Final output sent to browser
+DEBUG - 2012-04-17 15:44:53 --> Total execution time: 0.0482
+DEBUG - 2012-04-17 15:45:22 --> Config Class Initialized
+DEBUG - 2012-04-17 15:45:22 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:45:22 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:45:22 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:45:22 --> URI Class Initialized
+DEBUG - 2012-04-17 15:45:22 --> Router Class Initialized
+DEBUG - 2012-04-17 15:45:22 --> Output Class Initialized
+DEBUG - 2012-04-17 15:45:22 --> Security Class Initialized
+DEBUG - 2012-04-17 15:45:22 --> Input Class Initialized
+DEBUG - 2012-04-17 15:45:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:45:22 --> Language Class Initialized
+DEBUG - 2012-04-17 15:45:22 --> Language Class Initialized
+DEBUG - 2012-04-17 15:45:22 --> Config Class Initialized
+DEBUG - 2012-04-17 15:45:22 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:45:22 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:45:22 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:45:22 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:45:22 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:45:22 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:45:22 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:45:22 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:45:22 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:45:22 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:45:22 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:45:22 --> Session Class Initialized
+DEBUG - 2012-04-17 15:45:22 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:45:22 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:45:22 --> Session routines successfully run
+DEBUG - 2012-04-17 15:45:22 --> Model Class Initialized
+ERROR - 2012-04-17 15:45:22 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:45:22 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:45:22 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:45:22 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:45:22 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:45:22 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:45:22 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:45:22 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:45:22 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:45:22 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:45:22 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:45:22 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:45:22 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:45:22 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:45:22 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:45:22 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:45:22 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:45:22 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:45:22 --> Authentication library initialized
+DEBUG - 2012-04-17 15:45:22 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:45:22 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:45:22 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:45:22 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:45:22 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:45:22 --> Config Class Initialized
+DEBUG - 2012-04-17 15:45:22 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:45:22 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:45:22 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:45:22 --> URI Class Initialized
+DEBUG - 2012-04-17 15:45:22 --> Router Class Initialized
+DEBUG - 2012-04-17 15:45:22 --> Output Class Initialized
+DEBUG - 2012-04-17 15:45:22 --> Security Class Initialized
+DEBUG - 2012-04-17 15:45:22 --> Input Class Initialized
+DEBUG - 2012-04-17 15:45:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:45:22 --> Language Class Initialized
+DEBUG - 2012-04-17 15:45:22 --> Language Class Initialized
+DEBUG - 2012-04-17 15:45:22 --> Config Class Initialized
+DEBUG - 2012-04-17 15:45:22 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:45:22 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:45:22 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:45:23 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:45:23 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:45:23 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:45:23 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:45:23 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:45:23 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:45:23 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:45:23 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:45:23 --> Session Class Initialized
+DEBUG - 2012-04-17 15:45:23 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:45:23 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:45:23 --> Session routines successfully run
+DEBUG - 2012-04-17 15:45:23 --> Model Class Initialized
+ERROR - 2012-04-17 15:45:23 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:45:23 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:45:23 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:45:23 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:45:23 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:45:23 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:45:23 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:45:23 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:45:23 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:45:23 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:45:23 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:45:23 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:45:23 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:45:23 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:45:23 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:45:23 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:45:23 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:45:23 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:45:23 --> Authentication library initialized
+DEBUG - 2012-04-17 15:45:23 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:45:23 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:45:23 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:45:23 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:45:23 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:45:23 --> Final output sent to browser
+DEBUG - 2012-04-17 15:45:23 --> Total execution time: 0.0535
+DEBUG - 2012-04-17 15:45:26 --> Config Class Initialized
+DEBUG - 2012-04-17 15:45:26 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:45:26 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:45:26 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:45:26 --> URI Class Initialized
+DEBUG - 2012-04-17 15:45:26 --> Router Class Initialized
+DEBUG - 2012-04-17 15:45:26 --> Output Class Initialized
+DEBUG - 2012-04-17 15:45:26 --> Security Class Initialized
+DEBUG - 2012-04-17 15:45:26 --> Input Class Initialized
+DEBUG - 2012-04-17 15:45:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:45:26 --> Language Class Initialized
+DEBUG - 2012-04-17 15:45:26 --> Language Class Initialized
+DEBUG - 2012-04-17 15:45:26 --> Config Class Initialized
+DEBUG - 2012-04-17 15:45:26 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:45:26 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:45:26 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:45:26 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:45:26 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:45:26 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:45:26 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:45:26 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:45:26 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:45:26 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:45:26 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:45:26 --> Session Class Initialized
+DEBUG - 2012-04-17 15:45:26 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:45:26 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:45:26 --> Session routines successfully run
+DEBUG - 2012-04-17 15:45:26 --> Model Class Initialized
+ERROR - 2012-04-17 15:45:26 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:45:26 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:45:26 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:45:26 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:45:26 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:45:26 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:45:26 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:45:26 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:45:26 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:45:26 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:45:26 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:45:26 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:45:26 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:45:26 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:45:26 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:45:26 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:45:26 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:45:26 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:45:26 --> Authentication library initialized
+DEBUG - 2012-04-17 15:45:26 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:45:26 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:45:26 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:45:26 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:45:26 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:45:27 --> Config Class Initialized
+DEBUG - 2012-04-17 15:45:27 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:45:27 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:45:27 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:45:27 --> URI Class Initialized
+DEBUG - 2012-04-17 15:45:27 --> Router Class Initialized
+DEBUG - 2012-04-17 15:45:27 --> Output Class Initialized
+DEBUG - 2012-04-17 15:45:27 --> Security Class Initialized
+DEBUG - 2012-04-17 15:45:27 --> Input Class Initialized
+DEBUG - 2012-04-17 15:45:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:45:27 --> Language Class Initialized
+DEBUG - 2012-04-17 15:45:27 --> Language Class Initialized
+DEBUG - 2012-04-17 15:45:27 --> Config Class Initialized
+DEBUG - 2012-04-17 15:45:27 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:45:27 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:45:27 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:45:27 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:45:27 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:45:27 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:45:27 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:45:27 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:45:27 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:45:27 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:45:27 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:45:27 --> Session Class Initialized
+DEBUG - 2012-04-17 15:45:27 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:45:27 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:45:27 --> Session routines successfully run
+DEBUG - 2012-04-17 15:45:27 --> Model Class Initialized
+ERROR - 2012-04-17 15:45:27 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:45:27 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:45:27 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:45:27 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:45:27 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:45:27 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:45:27 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:45:27 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:45:27 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:45:27 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:45:27 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:45:27 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:45:27 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:45:27 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:45:27 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:45:27 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:45:27 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:45:27 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:45:27 --> Authentication library initialized
+DEBUG - 2012-04-17 15:45:27 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:45:27 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:45:27 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:45:27 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:45:27 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:45:27 --> Final output sent to browser
+DEBUG - 2012-04-17 15:45:27 --> Total execution time: 0.0501
+DEBUG - 2012-04-17 15:45:35 --> Config Class Initialized
+DEBUG - 2012-04-17 15:45:35 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:45:35 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:45:35 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:45:35 --> URI Class Initialized
+DEBUG - 2012-04-17 15:45:35 --> Router Class Initialized
+DEBUG - 2012-04-17 15:45:35 --> Output Class Initialized
+DEBUG - 2012-04-17 15:45:35 --> Security Class Initialized
+DEBUG - 2012-04-17 15:45:35 --> Input Class Initialized
+DEBUG - 2012-04-17 15:45:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:45:35 --> Language Class Initialized
+DEBUG - 2012-04-17 15:45:35 --> Language Class Initialized
+DEBUG - 2012-04-17 15:45:35 --> Config Class Initialized
+DEBUG - 2012-04-17 15:45:35 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:45:35 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:45:35 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:45:35 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:45:35 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:45:35 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:45:35 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:45:35 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:45:35 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:45:35 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:45:35 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:45:35 --> Session Class Initialized
+DEBUG - 2012-04-17 15:45:35 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:45:35 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:45:35 --> Session routines successfully run
+DEBUG - 2012-04-17 15:45:35 --> Model Class Initialized
+ERROR - 2012-04-17 15:45:35 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:45:35 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:45:35 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:45:35 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:45:35 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:45:35 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:45:35 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:45:35 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:45:35 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:45:35 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:45:35 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:45:35 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:45:35 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:45:35 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:45:35 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:45:35 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:45:35 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:45:35 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:45:35 --> Authentication library initialized
+DEBUG - 2012-04-17 15:45:35 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:45:35 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:45:35 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:45:35 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:45:35 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:45:35 --> Config Class Initialized
+DEBUG - 2012-04-17 15:45:35 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:45:35 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:45:35 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:45:35 --> URI Class Initialized
+DEBUG - 2012-04-17 15:45:35 --> Router Class Initialized
+DEBUG - 2012-04-17 15:45:35 --> Output Class Initialized
+DEBUG - 2012-04-17 15:45:35 --> Security Class Initialized
+DEBUG - 2012-04-17 15:45:35 --> Input Class Initialized
+DEBUG - 2012-04-17 15:45:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:45:35 --> Language Class Initialized
+DEBUG - 2012-04-17 15:45:35 --> Language Class Initialized
+DEBUG - 2012-04-17 15:45:35 --> Config Class Initialized
+DEBUG - 2012-04-17 15:45:35 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:45:35 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:45:35 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:45:35 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:45:35 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:45:35 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:45:35 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:45:35 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:45:35 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:45:35 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:45:35 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:45:35 --> Session Class Initialized
+DEBUG - 2012-04-17 15:45:35 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:45:35 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:45:35 --> Session routines successfully run
+DEBUG - 2012-04-17 15:45:35 --> Model Class Initialized
+ERROR - 2012-04-17 15:45:35 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:45:35 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:45:35 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:45:35 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:45:35 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:45:35 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:45:35 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:45:35 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:45:35 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:45:35 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:45:35 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:45:35 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:45:35 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:45:35 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:45:35 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:45:35 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:45:35 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:45:35 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:45:35 --> Authentication library initialized
+DEBUG - 2012-04-17 15:45:35 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:45:35 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:45:35 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:45:35 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:45:35 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:45:35 --> Final output sent to browser
+DEBUG - 2012-04-17 15:45:35 --> Total execution time: 0.0504
+DEBUG - 2012-04-17 15:46:10 --> Config Class Initialized
+DEBUG - 2012-04-17 15:46:10 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:46:10 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:46:10 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:46:10 --> URI Class Initialized
+DEBUG - 2012-04-17 15:46:10 --> Router Class Initialized
+DEBUG - 2012-04-17 15:46:10 --> Output Class Initialized
+DEBUG - 2012-04-17 15:46:10 --> Security Class Initialized
+DEBUG - 2012-04-17 15:46:10 --> Input Class Initialized
+DEBUG - 2012-04-17 15:46:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:46:10 --> Language Class Initialized
+DEBUG - 2012-04-17 15:46:10 --> Language Class Initialized
+DEBUG - 2012-04-17 15:46:10 --> Config Class Initialized
+DEBUG - 2012-04-17 15:46:10 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:46:10 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:46:10 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:46:10 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:46:10 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:46:10 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:46:10 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:46:10 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:46:10 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:46:10 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:46:10 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:46:10 --> Session Class Initialized
+DEBUG - 2012-04-17 15:46:10 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:46:10 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:46:10 --> Session routines successfully run
+DEBUG - 2012-04-17 15:46:10 --> Model Class Initialized
+ERROR - 2012-04-17 15:46:10 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:46:10 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:46:10 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:46:10 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:46:10 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:46:10 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:46:10 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:46:10 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:46:10 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:46:10 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:46:10 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:46:10 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:46:10 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:46:10 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:46:10 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:46:10 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:46:10 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:46:10 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:46:10 --> Authentication library initialized
+DEBUG - 2012-04-17 15:46:10 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:46:10 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:46:10 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:46:10 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:46:10 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:46:10 --> Config Class Initialized
+DEBUG - 2012-04-17 15:46:10 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:46:10 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:46:10 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:46:10 --> URI Class Initialized
+DEBUG - 2012-04-17 15:46:10 --> Router Class Initialized
+DEBUG - 2012-04-17 15:46:10 --> Output Class Initialized
+DEBUG - 2012-04-17 15:46:10 --> Security Class Initialized
+DEBUG - 2012-04-17 15:46:10 --> Input Class Initialized
+DEBUG - 2012-04-17 15:46:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:46:10 --> Language Class Initialized
+DEBUG - 2012-04-17 15:46:10 --> Language Class Initialized
+DEBUG - 2012-04-17 15:46:10 --> Config Class Initialized
+DEBUG - 2012-04-17 15:46:10 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:46:10 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:46:10 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:46:10 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:46:10 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:46:10 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:46:10 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:46:10 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:46:10 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:46:10 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:46:10 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:46:10 --> Session Class Initialized
+DEBUG - 2012-04-17 15:46:10 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:46:10 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:46:10 --> Session routines successfully run
+DEBUG - 2012-04-17 15:46:10 --> Model Class Initialized
+ERROR - 2012-04-17 15:46:10 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:46:10 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:46:10 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:46:10 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:46:10 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:46:10 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:46:10 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:46:10 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:46:10 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:46:10 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:46:10 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:46:10 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:46:10 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:46:10 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:46:10 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:46:10 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:46:10 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:46:10 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:46:10 --> Authentication library initialized
+DEBUG - 2012-04-17 15:46:10 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:46:10 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:46:10 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:46:10 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:46:10 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:46:10 --> Final output sent to browser
+DEBUG - 2012-04-17 15:46:10 --> Total execution time: 0.0468
+DEBUG - 2012-04-17 15:46:14 --> Config Class Initialized
+DEBUG - 2012-04-17 15:46:14 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:46:14 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:46:14 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:46:14 --> URI Class Initialized
+DEBUG - 2012-04-17 15:46:14 --> Router Class Initialized
+DEBUG - 2012-04-17 15:46:14 --> Output Class Initialized
+DEBUG - 2012-04-17 15:46:14 --> Security Class Initialized
+DEBUG - 2012-04-17 15:46:14 --> Input Class Initialized
+DEBUG - 2012-04-17 15:46:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:46:14 --> Language Class Initialized
+DEBUG - 2012-04-17 15:46:14 --> Language Class Initialized
+DEBUG - 2012-04-17 15:46:14 --> Config Class Initialized
+DEBUG - 2012-04-17 15:46:14 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:46:14 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:46:14 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:46:15 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:46:15 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:46:15 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:46:15 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:46:15 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:46:15 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:46:15 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:46:15 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:46:15 --> Session Class Initialized
+DEBUG - 2012-04-17 15:46:15 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:46:15 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:46:15 --> Session routines successfully run
+DEBUG - 2012-04-17 15:46:15 --> Model Class Initialized
+ERROR - 2012-04-17 15:46:15 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:46:15 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:46:15 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:46:15 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:46:15 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:46:15 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:46:15 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:46:15 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:46:15 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:46:15 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:46:15 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:46:15 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:46:15 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:46:15 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:46:15 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:46:15 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:46:15 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:46:15 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:46:15 --> Authentication library initialized
+DEBUG - 2012-04-17 15:46:15 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:46:15 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:46:15 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:46:15 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:46:15 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:46:15 --> Config Class Initialized
+DEBUG - 2012-04-17 15:46:15 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:46:15 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:46:15 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:46:15 --> URI Class Initialized
+DEBUG - 2012-04-17 15:46:15 --> Router Class Initialized
+DEBUG - 2012-04-17 15:46:15 --> Output Class Initialized
+DEBUG - 2012-04-17 15:46:15 --> Security Class Initialized
+DEBUG - 2012-04-17 15:46:15 --> Input Class Initialized
+DEBUG - 2012-04-17 15:46:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:46:15 --> Language Class Initialized
+DEBUG - 2012-04-17 15:46:15 --> Language Class Initialized
+DEBUG - 2012-04-17 15:46:15 --> Config Class Initialized
+DEBUG - 2012-04-17 15:46:15 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:46:15 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:46:15 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:46:15 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:46:15 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:46:15 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:46:15 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:46:15 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:46:15 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:46:15 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:46:15 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:46:15 --> Session Class Initialized
+DEBUG - 2012-04-17 15:46:15 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:46:15 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:46:15 --> Session routines successfully run
+DEBUG - 2012-04-17 15:46:15 --> Model Class Initialized
+ERROR - 2012-04-17 15:46:15 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:46:15 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:46:15 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:46:15 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:46:15 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:46:15 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:46:15 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:46:15 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:46:15 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:46:15 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:46:15 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:46:15 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:46:15 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:46:15 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:46:15 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:46:15 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:46:15 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:46:15 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:46:15 --> Authentication library initialized
+DEBUG - 2012-04-17 15:46:15 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:46:15 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:46:15 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:46:15 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:46:15 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:46:15 --> Final output sent to browser
+DEBUG - 2012-04-17 15:46:15 --> Total execution time: 0.0450
+DEBUG - 2012-04-17 15:46:17 --> Config Class Initialized
+DEBUG - 2012-04-17 15:46:17 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:46:17 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:46:17 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:46:17 --> URI Class Initialized
+DEBUG - 2012-04-17 15:46:17 --> Router Class Initialized
+DEBUG - 2012-04-17 15:46:17 --> Output Class Initialized
+DEBUG - 2012-04-17 15:46:17 --> Security Class Initialized
+DEBUG - 2012-04-17 15:46:17 --> Input Class Initialized
+DEBUG - 2012-04-17 15:46:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:46:17 --> Language Class Initialized
+DEBUG - 2012-04-17 15:46:17 --> Language Class Initialized
+DEBUG - 2012-04-17 15:46:17 --> Config Class Initialized
+DEBUG - 2012-04-17 15:46:17 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:46:17 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:46:17 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:46:17 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:46:17 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:46:17 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:46:17 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:46:17 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:46:17 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:46:17 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:46:17 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:46:17 --> Session Class Initialized
+DEBUG - 2012-04-17 15:46:17 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:46:17 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:46:17 --> Session routines successfully run
+DEBUG - 2012-04-17 15:46:17 --> Model Class Initialized
+ERROR - 2012-04-17 15:46:17 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:46:17 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:46:17 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:46:17 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:46:17 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:46:17 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:46:17 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:46:17 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:46:17 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:46:17 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:46:17 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:46:17 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:46:17 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:46:17 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:46:17 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:46:17 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:46:17 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:46:17 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:46:17 --> Authentication library initialized
+DEBUG - 2012-04-17 15:46:17 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:46:17 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:46:17 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:46:17 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:46:17 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:46:17 --> Final output sent to browser
+DEBUG - 2012-04-17 15:46:17 --> Total execution time: 0.0522
+DEBUG - 2012-04-17 15:46:20 --> Config Class Initialized
+DEBUG - 2012-04-17 15:46:20 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:46:20 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:46:20 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:46:20 --> URI Class Initialized
+DEBUG - 2012-04-17 15:46:20 --> Router Class Initialized
+DEBUG - 2012-04-17 15:46:20 --> Output Class Initialized
+DEBUG - 2012-04-17 15:46:20 --> Security Class Initialized
+DEBUG - 2012-04-17 15:46:20 --> Input Class Initialized
+DEBUG - 2012-04-17 15:46:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:46:20 --> Language Class Initialized
+DEBUG - 2012-04-17 15:46:20 --> Language Class Initialized
+DEBUG - 2012-04-17 15:46:20 --> Config Class Initialized
+DEBUG - 2012-04-17 15:46:20 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:46:20 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:46:20 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:46:20 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:46:20 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:46:20 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:46:20 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:46:20 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:46:20 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:46:20 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:46:20 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:46:20 --> Session Class Initialized
+DEBUG - 2012-04-17 15:46:20 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:46:20 --> A session cookie was not found.
+DEBUG - 2012-04-17 15:46:20 --> Session routines successfully run
+DEBUG - 2012-04-17 15:46:20 --> Model Class Initialized
+ERROR - 2012-04-17 15:46:20 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:46:20 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:46:20 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:46:20 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:46:20 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:46:20 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:46:20 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:46:20 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:46:20 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:46:20 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:46:20 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:46:20 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:46:20 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:46:20 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:46:20 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:46:20 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:46:20 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:46:20 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:46:20 --> Authentication library initialized
+DEBUG - 2012-04-17 15:46:20 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:46:20 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:46:20 --> Config Class Initialized
+DEBUG - 2012-04-17 15:46:20 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:46:20 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:46:20 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:46:20 --> URI Class Initialized
+DEBUG - 2012-04-17 15:46:20 --> Router Class Initialized
+DEBUG - 2012-04-17 15:46:20 --> Output Class Initialized
+DEBUG - 2012-04-17 15:46:20 --> Security Class Initialized
+DEBUG - 2012-04-17 15:46:20 --> Input Class Initialized
+DEBUG - 2012-04-17 15:46:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:46:20 --> Language Class Initialized
+DEBUG - 2012-04-17 15:46:20 --> Language Class Initialized
+DEBUG - 2012-04-17 15:46:20 --> Config Class Initialized
+DEBUG - 2012-04-17 15:46:20 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:46:20 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:46:20 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:46:20 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:46:20 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:46:20 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:46:20 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:46:20 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:46:20 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:46:20 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:46:20 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:46:20 --> Session Class Initialized
+DEBUG - 2012-04-17 15:46:20 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:46:20 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:46:20 --> Session routines successfully run
+DEBUG - 2012-04-17 15:46:20 --> Model Class Initialized
+ERROR - 2012-04-17 15:46:20 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:46:20 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:46:20 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:46:20 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:46:20 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:46:20 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:46:20 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:46:20 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:46:20 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:46:20 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:46:20 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:46:20 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:46:20 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:46:20 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:46:20 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:46:20 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:46:20 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:46:20 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:46:20 --> Authentication library initialized
+DEBUG - 2012-04-17 15:46:20 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:46:20 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:46:20 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:46:20 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:46:20 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:46:20 --> Final output sent to browser
+DEBUG - 2012-04-17 15:46:20 --> Total execution time: 0.0609
+DEBUG - 2012-04-17 15:46:34 --> Config Class Initialized
+DEBUG - 2012-04-17 15:46:34 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:46:34 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:46:34 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:46:34 --> URI Class Initialized
+DEBUG - 2012-04-17 15:46:34 --> Router Class Initialized
+DEBUG - 2012-04-17 15:46:34 --> Output Class Initialized
+DEBUG - 2012-04-17 15:46:34 --> Security Class Initialized
+DEBUG - 2012-04-17 15:46:34 --> Input Class Initialized
+DEBUG - 2012-04-17 15:46:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:46:34 --> Language Class Initialized
+DEBUG - 2012-04-17 15:46:34 --> Language Class Initialized
+DEBUG - 2012-04-17 15:46:34 --> Config Class Initialized
+DEBUG - 2012-04-17 15:46:34 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:46:34 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:46:34 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:46:34 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:46:34 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:46:34 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:46:34 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:46:34 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:46:34 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:46:34 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:46:34 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:46:34 --> Session Class Initialized
+DEBUG - 2012-04-17 15:46:34 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:46:34 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:46:34 --> Session routines successfully run
+DEBUG - 2012-04-17 15:46:34 --> Model Class Initialized
+ERROR - 2012-04-17 15:46:34 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:46:34 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:46:34 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:46:34 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:46:34 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:46:34 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:46:34 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:46:34 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:46:34 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:46:34 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:46:34 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:46:34 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:46:34 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:46:34 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:46:34 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:46:34 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:46:34 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:46:34 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:46:34 --> Authentication library initialized
+DEBUG - 2012-04-17 15:46:34 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:46:34 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:46:34 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:46:34 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:46:34 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:46:34 --> Config Class Initialized
+DEBUG - 2012-04-17 15:46:34 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:46:34 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:46:34 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:46:34 --> URI Class Initialized
+DEBUG - 2012-04-17 15:46:34 --> Router Class Initialized
+DEBUG - 2012-04-17 15:46:34 --> Output Class Initialized
+DEBUG - 2012-04-17 15:46:34 --> Security Class Initialized
+DEBUG - 2012-04-17 15:46:34 --> Input Class Initialized
+DEBUG - 2012-04-17 15:46:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:46:34 --> Language Class Initialized
+DEBUG - 2012-04-17 15:46:34 --> Language Class Initialized
+DEBUG - 2012-04-17 15:46:34 --> Config Class Initialized
+DEBUG - 2012-04-17 15:46:34 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:46:34 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:46:34 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:46:34 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:46:34 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:46:34 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:46:34 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:46:34 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:46:34 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:46:34 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:46:34 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:46:34 --> Session Class Initialized
+DEBUG - 2012-04-17 15:46:34 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:46:34 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:46:34 --> Session routines successfully run
+DEBUG - 2012-04-17 15:46:34 --> Model Class Initialized
+ERROR - 2012-04-17 15:46:34 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:46:34 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:46:34 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:46:34 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:46:34 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:46:34 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:46:34 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:46:34 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:46:34 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:46:34 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:46:34 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:46:34 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:46:34 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:46:34 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:46:34 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:46:34 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:46:34 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:46:34 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:46:34 --> Authentication library initialized
+DEBUG - 2012-04-17 15:46:34 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:46:34 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:46:34 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:46:34 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:46:34 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:46:34 --> Final output sent to browser
+DEBUG - 2012-04-17 15:46:34 --> Total execution time: 0.0480
+DEBUG - 2012-04-17 15:46:37 --> Config Class Initialized
+DEBUG - 2012-04-17 15:46:37 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:46:37 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:46:37 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:46:37 --> URI Class Initialized
+DEBUG - 2012-04-17 15:46:37 --> Router Class Initialized
+DEBUG - 2012-04-17 15:46:37 --> Output Class Initialized
+DEBUG - 2012-04-17 15:46:37 --> Security Class Initialized
+DEBUG - 2012-04-17 15:46:37 --> Input Class Initialized
+DEBUG - 2012-04-17 15:46:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:46:37 --> Language Class Initialized
+DEBUG - 2012-04-17 15:46:37 --> Language Class Initialized
+DEBUG - 2012-04-17 15:46:37 --> Config Class Initialized
+DEBUG - 2012-04-17 15:46:37 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:46:37 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:46:37 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:46:37 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:46:37 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:46:37 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:46:37 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:46:37 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:46:37 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:46:37 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:46:37 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:46:37 --> Session Class Initialized
+DEBUG - 2012-04-17 15:46:37 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:46:37 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:46:37 --> Session routines successfully run
+DEBUG - 2012-04-17 15:46:37 --> Model Class Initialized
+ERROR - 2012-04-17 15:46:37 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:46:37 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:46:37 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:46:37 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:46:37 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:46:37 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:46:37 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:46:37 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:46:37 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:46:37 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:46:37 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:46:37 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:46:37 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:46:37 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:46:37 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:46:37 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:46:37 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:46:37 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:46:37 --> Authentication library initialized
+DEBUG - 2012-04-17 15:46:37 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:46:37 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:46:37 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:46:37 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:46:37 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:46:37 --> Config Class Initialized
+DEBUG - 2012-04-17 15:46:37 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:46:37 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:46:37 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:46:37 --> URI Class Initialized
+DEBUG - 2012-04-17 15:46:37 --> Router Class Initialized
+DEBUG - 2012-04-17 15:46:37 --> Output Class Initialized
+DEBUG - 2012-04-17 15:46:37 --> Security Class Initialized
+DEBUG - 2012-04-17 15:46:37 --> Input Class Initialized
+DEBUG - 2012-04-17 15:46:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:46:37 --> Language Class Initialized
+DEBUG - 2012-04-17 15:46:37 --> Language Class Initialized
+DEBUG - 2012-04-17 15:46:37 --> Config Class Initialized
+DEBUG - 2012-04-17 15:46:37 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:46:37 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:46:37 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:46:37 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:46:37 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:46:37 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:46:37 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:46:37 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:46:37 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:46:37 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:46:37 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:46:37 --> Session Class Initialized
+DEBUG - 2012-04-17 15:46:37 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:46:37 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:46:37 --> Session routines successfully run
+DEBUG - 2012-04-17 15:46:37 --> Model Class Initialized
+ERROR - 2012-04-17 15:46:37 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:46:37 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:46:37 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:46:37 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:46:37 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:46:37 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:46:37 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:46:37 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:46:37 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:46:37 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:46:37 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:46:37 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:46:37 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:46:37 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:46:37 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:46:37 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:46:37 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:46:37 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:46:37 --> Authentication library initialized
+DEBUG - 2012-04-17 15:46:37 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:46:37 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:46:37 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:46:37 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:46:37 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:46:37 --> Final output sent to browser
+DEBUG - 2012-04-17 15:46:37 --> Total execution time: 0.0475
+DEBUG - 2012-04-17 15:47:29 --> Config Class Initialized
+DEBUG - 2012-04-17 15:47:29 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:47:29 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:47:29 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:47:29 --> URI Class Initialized
+DEBUG - 2012-04-17 15:47:29 --> Router Class Initialized
+DEBUG - 2012-04-17 15:47:29 --> Output Class Initialized
+DEBUG - 2012-04-17 15:47:29 --> Security Class Initialized
+DEBUG - 2012-04-17 15:47:29 --> Input Class Initialized
+DEBUG - 2012-04-17 15:47:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:47:29 --> Language Class Initialized
+DEBUG - 2012-04-17 15:47:29 --> Language Class Initialized
+DEBUG - 2012-04-17 15:47:29 --> Config Class Initialized
+DEBUG - 2012-04-17 15:47:29 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:47:29 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:47:29 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:47:29 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:47:29 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:47:29 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:47:29 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:47:29 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:47:29 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:47:29 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:47:29 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:47:29 --> Session Class Initialized
+DEBUG - 2012-04-17 15:47:29 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:47:29 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:47:29 --> Session routines successfully run
+DEBUG - 2012-04-17 15:47:29 --> Model Class Initialized
+ERROR - 2012-04-17 15:47:29 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:47:29 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:47:29 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:47:29 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:47:29 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:47:29 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:47:29 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:47:29 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:47:29 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:47:29 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:47:29 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:47:29 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:47:29 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:47:29 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:47:29 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:47:29 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:47:29 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:47:29 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:47:29 --> Authentication library initialized
+DEBUG - 2012-04-17 15:47:29 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:47:29 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:47:29 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:47:29 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:47:29 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:47:29 --> Config Class Initialized
+DEBUG - 2012-04-17 15:47:29 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:47:29 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:47:29 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:47:29 --> URI Class Initialized
+DEBUG - 2012-04-17 15:47:29 --> Router Class Initialized
+DEBUG - 2012-04-17 15:47:29 --> Output Class Initialized
+DEBUG - 2012-04-17 15:47:29 --> Security Class Initialized
+DEBUG - 2012-04-17 15:47:29 --> Input Class Initialized
+DEBUG - 2012-04-17 15:47:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:47:29 --> Language Class Initialized
+DEBUG - 2012-04-17 15:47:29 --> Language Class Initialized
+DEBUG - 2012-04-17 15:47:29 --> Config Class Initialized
+DEBUG - 2012-04-17 15:47:29 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:47:29 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:47:29 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:47:29 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:47:29 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:47:29 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:47:29 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:47:29 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:47:29 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:47:29 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:47:29 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:47:29 --> Session Class Initialized
+DEBUG - 2012-04-17 15:47:29 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:47:29 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:47:29 --> Session routines successfully run
+DEBUG - 2012-04-17 15:47:29 --> Model Class Initialized
+ERROR - 2012-04-17 15:47:29 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:47:29 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:47:29 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:47:29 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:47:29 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:47:29 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:47:29 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:47:29 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:47:29 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:47:29 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:47:29 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:47:29 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:47:29 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:47:29 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:47:29 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:47:29 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:47:29 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:47:29 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:47:29 --> Authentication library initialized
+DEBUG - 2012-04-17 15:47:29 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:47:29 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:47:29 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:47:29 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:47:29 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:47:29 --> Final output sent to browser
+DEBUG - 2012-04-17 15:47:29 --> Total execution time: 0.0446
+DEBUG - 2012-04-17 15:47:34 --> Config Class Initialized
+DEBUG - 2012-04-17 15:47:34 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:47:34 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:47:34 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:47:34 --> URI Class Initialized
+DEBUG - 2012-04-17 15:47:34 --> Router Class Initialized
+DEBUG - 2012-04-17 15:47:34 --> Output Class Initialized
+DEBUG - 2012-04-17 15:47:34 --> Security Class Initialized
+DEBUG - 2012-04-17 15:47:34 --> Input Class Initialized
+DEBUG - 2012-04-17 15:47:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:47:34 --> Language Class Initialized
+DEBUG - 2012-04-17 15:47:34 --> Language Class Initialized
+DEBUG - 2012-04-17 15:47:34 --> Config Class Initialized
+DEBUG - 2012-04-17 15:47:34 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:47:34 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:47:34 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:47:34 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:47:34 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:47:34 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:47:34 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:47:34 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:47:34 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:47:34 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:47:34 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:47:34 --> Session Class Initialized
+DEBUG - 2012-04-17 15:47:34 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:47:34 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:47:34 --> Session routines successfully run
+DEBUG - 2012-04-17 15:47:34 --> Model Class Initialized
+ERROR - 2012-04-17 15:47:34 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:47:34 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:47:34 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:47:34 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:47:34 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:47:34 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:47:34 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:47:34 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:47:34 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:47:34 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:47:34 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:47:34 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:47:34 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:47:34 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:47:34 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:47:34 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:47:34 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:47:34 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:47:34 --> Authentication library initialized
+DEBUG - 2012-04-17 15:47:34 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:47:34 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:47:34 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:47:34 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:47:34 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:48:03 --> Config Class Initialized
+DEBUG - 2012-04-17 15:48:03 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:48:03 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:48:03 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:48:03 --> URI Class Initialized
+DEBUG - 2012-04-17 15:48:03 --> Router Class Initialized
+DEBUG - 2012-04-17 15:48:03 --> Output Class Initialized
+DEBUG - 2012-04-17 15:48:03 --> Security Class Initialized
+DEBUG - 2012-04-17 15:48:03 --> Input Class Initialized
+DEBUG - 2012-04-17 15:48:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:48:03 --> Language Class Initialized
+DEBUG - 2012-04-17 15:48:03 --> Language Class Initialized
+DEBUG - 2012-04-17 15:48:03 --> Config Class Initialized
+DEBUG - 2012-04-17 15:48:03 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:48:03 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:48:03 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:48:03 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:48:03 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:48:03 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:48:03 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:48:03 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:48:03 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:48:03 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:48:03 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:48:03 --> Session Class Initialized
+DEBUG - 2012-04-17 15:48:03 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:48:03 --> A session cookie was not found.
+DEBUG - 2012-04-17 15:48:03 --> Session routines successfully run
+DEBUG - 2012-04-17 15:48:03 --> Model Class Initialized
+ERROR - 2012-04-17 15:48:03 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:48:03 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:48:03 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:48:03 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:48:03 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:48:03 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:48:03 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:48:03 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:48:03 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:48:03 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:48:03 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:48:03 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:48:03 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:48:03 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:48:03 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:48:03 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:48:03 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:48:03 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:48:03 --> Authentication library initialized
+DEBUG - 2012-04-17 15:48:03 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:48:03 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:48:03 --> Config Class Initialized
+DEBUG - 2012-04-17 15:48:03 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:48:03 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:48:03 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:48:03 --> URI Class Initialized
+DEBUG - 2012-04-17 15:48:03 --> Router Class Initialized
+DEBUG - 2012-04-17 15:48:03 --> Output Class Initialized
+DEBUG - 2012-04-17 15:48:03 --> Security Class Initialized
+DEBUG - 2012-04-17 15:48:03 --> Input Class Initialized
+DEBUG - 2012-04-17 15:48:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:48:03 --> Language Class Initialized
+DEBUG - 2012-04-17 15:48:03 --> Language Class Initialized
+DEBUG - 2012-04-17 15:48:03 --> Config Class Initialized
+DEBUG - 2012-04-17 15:48:03 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:48:03 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:48:03 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:48:03 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:48:03 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:48:03 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:48:03 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:48:03 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:48:03 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:48:03 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:48:03 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:48:03 --> Session Class Initialized
+DEBUG - 2012-04-17 15:48:03 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:48:03 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:48:03 --> Session routines successfully run
+DEBUG - 2012-04-17 15:48:03 --> Model Class Initialized
+ERROR - 2012-04-17 15:48:03 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:48:03 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:48:03 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:48:03 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:48:03 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:48:03 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:48:03 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:48:03 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:48:03 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:48:03 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:48:03 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:48:03 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:48:03 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:48:03 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:48:03 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:48:03 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:48:03 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:48:03 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:48:03 --> Authentication library initialized
+DEBUG - 2012-04-17 15:48:03 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:48:03 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:48:03 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:48:03 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:48:03 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:48:03 --> Final output sent to browser
+DEBUG - 2012-04-17 15:48:03 --> Total execution time: 0.0446
+DEBUG - 2012-04-17 15:48:08 --> Config Class Initialized
+DEBUG - 2012-04-17 15:48:08 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:48:08 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:48:08 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:48:08 --> URI Class Initialized
+DEBUG - 2012-04-17 15:48:08 --> Router Class Initialized
+DEBUG - 2012-04-17 15:48:08 --> Output Class Initialized
+DEBUG - 2012-04-17 15:48:08 --> Security Class Initialized
+DEBUG - 2012-04-17 15:48:08 --> Input Class Initialized
+DEBUG - 2012-04-17 15:48:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:48:08 --> Language Class Initialized
+DEBUG - 2012-04-17 15:48:08 --> Language Class Initialized
+DEBUG - 2012-04-17 15:48:08 --> Config Class Initialized
+DEBUG - 2012-04-17 15:48:08 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:48:08 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:48:08 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:48:08 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:48:08 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:48:08 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:48:08 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:48:08 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:48:08 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:48:08 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:48:08 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:48:08 --> Session Class Initialized
+DEBUG - 2012-04-17 15:48:08 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:48:08 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:48:08 --> Session routines successfully run
+DEBUG - 2012-04-17 15:48:08 --> Model Class Initialized
+ERROR - 2012-04-17 15:48:08 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:48:08 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:48:08 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:48:08 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:48:08 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:48:08 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:48:08 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:48:08 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:48:08 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:48:08 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:48:08 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:48:08 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:48:08 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:48:08 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:48:08 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:48:08 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:48:08 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:48:08 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:48:08 --> Authentication library initialized
+DEBUG - 2012-04-17 15:48:08 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:48:08 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:48:08 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:48:08 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:48:08 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:48:08 --> Config Class Initialized
+DEBUG - 2012-04-17 15:48:08 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:48:08 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:48:08 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:48:08 --> URI Class Initialized
+DEBUG - 2012-04-17 15:48:08 --> Router Class Initialized
+DEBUG - 2012-04-17 15:48:08 --> Output Class Initialized
+DEBUG - 2012-04-17 15:48:08 --> Security Class Initialized
+DEBUG - 2012-04-17 15:48:08 --> Input Class Initialized
+DEBUG - 2012-04-17 15:48:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:48:08 --> Language Class Initialized
+DEBUG - 2012-04-17 15:48:08 --> Language Class Initialized
+DEBUG - 2012-04-17 15:48:08 --> Config Class Initialized
+DEBUG - 2012-04-17 15:48:08 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:48:08 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:48:08 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:48:08 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:48:08 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:48:08 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:48:08 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:48:08 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:48:08 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:48:08 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:48:08 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:48:08 --> Session Class Initialized
+DEBUG - 2012-04-17 15:48:08 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:48:08 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:48:08 --> Session routines successfully run
+DEBUG - 2012-04-17 15:48:08 --> Model Class Initialized
+ERROR - 2012-04-17 15:48:08 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:48:08 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:48:08 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:48:08 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:48:08 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:48:08 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:48:08 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:48:08 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:48:08 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:48:08 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:48:08 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:48:08 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:48:08 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:48:08 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:48:08 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:48:08 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:48:08 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:48:08 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:48:08 --> Authentication library initialized
+DEBUG - 2012-04-17 15:48:08 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:48:08 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:48:08 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:48:08 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:48:08 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:48:08 --> Final output sent to browser
+DEBUG - 2012-04-17 15:48:08 --> Total execution time: 0.0453
+DEBUG - 2012-04-17 15:48:12 --> Config Class Initialized
+DEBUG - 2012-04-17 15:48:12 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:48:12 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:48:12 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:48:12 --> URI Class Initialized
+DEBUG - 2012-04-17 15:48:12 --> Router Class Initialized
+DEBUG - 2012-04-17 15:48:12 --> Output Class Initialized
+DEBUG - 2012-04-17 15:48:12 --> Security Class Initialized
+DEBUG - 2012-04-17 15:48:12 --> Input Class Initialized
+DEBUG - 2012-04-17 15:48:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:48:12 --> Language Class Initialized
+DEBUG - 2012-04-17 15:48:12 --> Language Class Initialized
+DEBUG - 2012-04-17 15:48:12 --> Config Class Initialized
+DEBUG - 2012-04-17 15:48:12 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:48:12 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:48:12 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:48:12 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:48:12 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:48:12 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:48:12 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:48:12 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:48:12 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:48:12 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:48:12 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:48:12 --> Session Class Initialized
+DEBUG - 2012-04-17 15:48:12 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:48:12 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:48:12 --> Session routines successfully run
+DEBUG - 2012-04-17 15:48:12 --> Model Class Initialized
+ERROR - 2012-04-17 15:48:12 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:48:12 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:48:12 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:48:12 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:48:12 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:48:12 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:48:12 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:48:12 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:48:12 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:48:12 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:48:12 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:48:12 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:48:12 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:48:12 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:48:12 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:48:12 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:48:12 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:48:12 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:48:12 --> Authentication library initialized
+DEBUG - 2012-04-17 15:48:12 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:48:12 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:48:12 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:48:12 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:48:12 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:48:12 --> Config Class Initialized
+DEBUG - 2012-04-17 15:48:12 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:48:12 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:48:12 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:48:12 --> URI Class Initialized
+DEBUG - 2012-04-17 15:48:12 --> Router Class Initialized
+DEBUG - 2012-04-17 15:48:12 --> Output Class Initialized
+DEBUG - 2012-04-17 15:48:12 --> Security Class Initialized
+DEBUG - 2012-04-17 15:48:12 --> Input Class Initialized
+DEBUG - 2012-04-17 15:48:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:48:12 --> Language Class Initialized
+DEBUG - 2012-04-17 15:48:12 --> Language Class Initialized
+DEBUG - 2012-04-17 15:48:12 --> Config Class Initialized
+DEBUG - 2012-04-17 15:48:12 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:48:12 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:48:12 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:48:12 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:48:12 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:48:12 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:48:12 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:48:12 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:48:12 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:48:12 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:48:12 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:48:12 --> Session Class Initialized
+DEBUG - 2012-04-17 15:48:12 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:48:12 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:48:12 --> Session routines successfully run
+DEBUG - 2012-04-17 15:48:12 --> Model Class Initialized
+ERROR - 2012-04-17 15:48:12 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:48:12 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:48:12 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:48:12 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:48:12 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:48:12 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:48:12 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:48:12 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:48:12 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:48:12 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:48:12 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:48:12 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:48:12 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:48:12 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:48:12 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:48:12 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:48:12 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:48:12 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:48:12 --> Authentication library initialized
+DEBUG - 2012-04-17 15:48:12 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:48:12 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:48:12 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:48:12 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:48:12 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:48:12 --> Final output sent to browser
+DEBUG - 2012-04-17 15:48:12 --> Total execution time: 0.0517
+DEBUG - 2012-04-17 15:48:18 --> Config Class Initialized
+DEBUG - 2012-04-17 15:48:18 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:48:18 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:48:18 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:48:18 --> URI Class Initialized
+DEBUG - 2012-04-17 15:48:18 --> Router Class Initialized
+DEBUG - 2012-04-17 15:48:18 --> Output Class Initialized
+DEBUG - 2012-04-17 15:48:18 --> Security Class Initialized
+DEBUG - 2012-04-17 15:48:18 --> Input Class Initialized
+DEBUG - 2012-04-17 15:48:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:48:18 --> Language Class Initialized
+DEBUG - 2012-04-17 15:48:18 --> Language Class Initialized
+DEBUG - 2012-04-17 15:48:18 --> Config Class Initialized
+DEBUG - 2012-04-17 15:48:18 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:48:18 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:48:18 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:48:18 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:48:18 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:48:18 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:48:18 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:48:18 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:48:18 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:48:18 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:48:18 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:48:18 --> Session Class Initialized
+DEBUG - 2012-04-17 15:48:18 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:48:18 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:48:18 --> Session routines successfully run
+DEBUG - 2012-04-17 15:48:18 --> Model Class Initialized
+ERROR - 2012-04-17 15:48:18 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:48:18 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:48:18 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:48:18 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:48:18 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:48:18 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:48:18 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:48:18 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:48:18 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:48:18 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:48:18 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:48:18 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:48:18 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:48:18 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:48:18 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:48:18 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:48:18 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:48:18 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:48:18 --> Authentication library initialized
+DEBUG - 2012-04-17 15:48:18 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:48:18 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:48:18 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:48:18 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:48:18 --> Loader Class Initialized
+ERROR - 2012-04-17 15:48:18 --> Severity: Notice  --> Undefined property: Messages::$messages /var/www/cms86/application/controllers/admin/admin.php 51
+DEBUG - 2012-04-17 15:48:26 --> Config Class Initialized
+DEBUG - 2012-04-17 15:48:26 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:48:26 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:48:26 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:48:26 --> URI Class Initialized
+DEBUG - 2012-04-17 15:48:26 --> Router Class Initialized
+DEBUG - 2012-04-17 15:48:26 --> Output Class Initialized
+DEBUG - 2012-04-17 15:48:26 --> Security Class Initialized
+DEBUG - 2012-04-17 15:48:26 --> Input Class Initialized
+DEBUG - 2012-04-17 15:48:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:48:26 --> Language Class Initialized
+DEBUG - 2012-04-17 15:48:26 --> Language Class Initialized
+DEBUG - 2012-04-17 15:48:26 --> Config Class Initialized
+DEBUG - 2012-04-17 15:48:26 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:48:26 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:48:26 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:48:26 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:48:26 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:48:26 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:48:26 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:48:26 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:48:26 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:48:26 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:48:26 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:48:26 --> Session Class Initialized
+DEBUG - 2012-04-17 15:48:26 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:48:26 --> A session cookie was not found.
+DEBUG - 2012-04-17 15:48:26 --> Session routines successfully run
+DEBUG - 2012-04-17 15:48:26 --> Model Class Initialized
+ERROR - 2012-04-17 15:48:26 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:48:26 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:48:26 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:48:26 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:48:26 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:48:26 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:48:26 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:48:26 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:48:26 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:48:26 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:48:26 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:48:26 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:48:26 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:48:26 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:48:26 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:48:26 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:48:26 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:48:26 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:48:26 --> Authentication library initialized
+DEBUG - 2012-04-17 15:48:26 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:48:26 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:48:26 --> Config Class Initialized
+DEBUG - 2012-04-17 15:48:26 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:48:26 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:48:26 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:48:26 --> URI Class Initialized
+DEBUG - 2012-04-17 15:48:26 --> Router Class Initialized
+DEBUG - 2012-04-17 15:48:26 --> Output Class Initialized
+DEBUG - 2012-04-17 15:48:26 --> Security Class Initialized
+DEBUG - 2012-04-17 15:48:26 --> Input Class Initialized
+DEBUG - 2012-04-17 15:48:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:48:26 --> Language Class Initialized
+DEBUG - 2012-04-17 15:48:26 --> Language Class Initialized
+DEBUG - 2012-04-17 15:48:26 --> Config Class Initialized
+DEBUG - 2012-04-17 15:48:26 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:48:26 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:48:26 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:48:26 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:48:26 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:48:26 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:48:26 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:48:26 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:48:26 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:48:26 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:48:26 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:48:26 --> Session Class Initialized
+DEBUG - 2012-04-17 15:48:26 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:48:26 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:48:26 --> Session routines successfully run
+DEBUG - 2012-04-17 15:48:26 --> Model Class Initialized
+ERROR - 2012-04-17 15:48:26 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:48:26 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:48:26 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:48:26 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:48:26 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:48:26 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:48:26 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:48:26 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:48:26 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:48:26 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:48:26 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:48:26 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:48:26 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:48:26 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:48:26 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:48:26 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:48:26 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:48:26 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:48:26 --> Authentication library initialized
+DEBUG - 2012-04-17 15:48:26 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:48:26 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:48:26 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:48:26 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:48:26 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:48:26 --> Final output sent to browser
+DEBUG - 2012-04-17 15:48:26 --> Total execution time: 0.0445
+DEBUG - 2012-04-17 15:48:46 --> Config Class Initialized
+DEBUG - 2012-04-17 15:48:46 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:48:46 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:48:46 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:48:46 --> URI Class Initialized
+DEBUG - 2012-04-17 15:48:46 --> Router Class Initialized
+DEBUG - 2012-04-17 15:48:46 --> Output Class Initialized
+DEBUG - 2012-04-17 15:48:46 --> Security Class Initialized
+DEBUG - 2012-04-17 15:48:46 --> Input Class Initialized
+DEBUG - 2012-04-17 15:48:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:48:46 --> Language Class Initialized
+DEBUG - 2012-04-17 15:48:46 --> Language Class Initialized
+DEBUG - 2012-04-17 15:48:46 --> Config Class Initialized
+DEBUG - 2012-04-17 15:48:46 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:48:46 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:48:46 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:48:46 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:48:46 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:48:46 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:48:46 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:48:46 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:48:46 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:48:46 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:48:46 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:48:46 --> Session Class Initialized
+DEBUG - 2012-04-17 15:48:46 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:48:46 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:48:46 --> Session routines successfully run
+DEBUG - 2012-04-17 15:48:46 --> Model Class Initialized
+ERROR - 2012-04-17 15:48:46 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:48:46 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:48:46 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:48:46 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:48:46 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:48:46 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:48:46 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:48:46 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:48:46 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:48:46 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:48:46 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:48:46 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:48:46 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:48:46 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:48:46 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:48:46 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:48:46 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:48:46 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:48:46 --> Authentication library initialized
+DEBUG - 2012-04-17 15:48:46 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:48:46 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:48:46 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:48:46 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:48:46 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:48:46 --> Config Class Initialized
+DEBUG - 2012-04-17 15:48:46 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:48:46 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:48:46 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:48:46 --> URI Class Initialized
+DEBUG - 2012-04-17 15:48:46 --> Router Class Initialized
+DEBUG - 2012-04-17 15:48:46 --> Output Class Initialized
+DEBUG - 2012-04-17 15:48:46 --> Security Class Initialized
+DEBUG - 2012-04-17 15:48:46 --> Input Class Initialized
+DEBUG - 2012-04-17 15:48:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:48:46 --> Language Class Initialized
+DEBUG - 2012-04-17 15:48:46 --> Language Class Initialized
+DEBUG - 2012-04-17 15:48:46 --> Config Class Initialized
+DEBUG - 2012-04-17 15:48:46 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:48:46 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:48:46 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:48:46 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:48:46 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:48:46 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:48:46 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:48:46 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:48:46 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:48:46 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:48:46 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:48:46 --> Session Class Initialized
+DEBUG - 2012-04-17 15:48:46 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:48:46 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:48:46 --> Session routines successfully run
+DEBUG - 2012-04-17 15:48:46 --> Model Class Initialized
+ERROR - 2012-04-17 15:48:46 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:48:46 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:48:46 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:48:46 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:48:46 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:48:46 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:48:46 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:48:46 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:48:46 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:48:46 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:48:46 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:48:46 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:48:46 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:48:46 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:48:46 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:48:46 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:48:46 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:48:46 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:48:46 --> Authentication library initialized
+DEBUG - 2012-04-17 15:48:46 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:48:46 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:48:46 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:48:46 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:48:46 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:48:46 --> Final output sent to browser
+DEBUG - 2012-04-17 15:48:46 --> Total execution time: 0.0507
+DEBUG - 2012-04-17 15:48:52 --> Config Class Initialized
+DEBUG - 2012-04-17 15:48:52 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:48:52 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:48:52 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:48:52 --> URI Class Initialized
+DEBUG - 2012-04-17 15:48:52 --> Router Class Initialized
+DEBUG - 2012-04-17 15:48:52 --> Output Class Initialized
+DEBUG - 2012-04-17 15:48:52 --> Security Class Initialized
+DEBUG - 2012-04-17 15:48:52 --> Input Class Initialized
+DEBUG - 2012-04-17 15:48:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:48:52 --> Language Class Initialized
+DEBUG - 2012-04-17 15:48:52 --> Language Class Initialized
+DEBUG - 2012-04-17 15:48:52 --> Config Class Initialized
+DEBUG - 2012-04-17 15:48:52 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:48:52 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:48:52 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:48:52 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:48:52 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:48:52 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:48:52 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:48:52 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:48:52 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:48:52 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:48:52 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:48:52 --> Session Class Initialized
+DEBUG - 2012-04-17 15:48:52 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:48:52 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:48:52 --> Session routines successfully run
+DEBUG - 2012-04-17 15:48:52 --> Model Class Initialized
+ERROR - 2012-04-17 15:48:52 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:48:52 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:48:52 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:48:52 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:48:52 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:48:52 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:48:52 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:48:52 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:48:52 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:48:52 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:48:52 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:48:52 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:48:52 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:48:52 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:48:52 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:48:52 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:48:52 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:48:52 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:48:52 --> Authentication library initialized
+DEBUG - 2012-04-17 15:48:52 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:48:52 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:48:52 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:48:52 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:48:52 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:48:52 --> Config Class Initialized
+DEBUG - 2012-04-17 15:48:52 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:48:52 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:48:52 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:48:52 --> URI Class Initialized
+DEBUG - 2012-04-17 15:48:52 --> Router Class Initialized
+DEBUG - 2012-04-17 15:48:52 --> Output Class Initialized
+DEBUG - 2012-04-17 15:48:52 --> Security Class Initialized
+DEBUG - 2012-04-17 15:48:52 --> Input Class Initialized
+DEBUG - 2012-04-17 15:48:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:48:52 --> Language Class Initialized
+DEBUG - 2012-04-17 15:48:52 --> Language Class Initialized
+DEBUG - 2012-04-17 15:48:52 --> Config Class Initialized
+DEBUG - 2012-04-17 15:48:52 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:48:52 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:48:52 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:48:52 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:48:52 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:48:52 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:48:52 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:48:52 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:48:52 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:48:52 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:48:52 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:48:52 --> Session Class Initialized
+DEBUG - 2012-04-17 15:48:52 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:48:52 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:48:52 --> Session routines successfully run
+DEBUG - 2012-04-17 15:48:52 --> Model Class Initialized
+ERROR - 2012-04-17 15:48:52 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:48:52 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:48:52 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:48:52 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:48:52 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:48:52 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:48:52 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:48:52 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:48:52 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:48:52 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:48:52 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:48:52 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:48:52 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:48:52 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:48:52 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:48:52 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:48:52 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:48:52 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:48:52 --> Authentication library initialized
+DEBUG - 2012-04-17 15:48:52 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:48:52 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:48:52 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:48:52 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:48:52 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:48:52 --> Final output sent to browser
+DEBUG - 2012-04-17 15:48:52 --> Total execution time: 0.0490
+DEBUG - 2012-04-17 15:49:00 --> Config Class Initialized
+DEBUG - 2012-04-17 15:49:00 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:49:00 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:49:00 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:49:00 --> URI Class Initialized
+DEBUG - 2012-04-17 15:49:00 --> Router Class Initialized
+DEBUG - 2012-04-17 15:49:00 --> Output Class Initialized
+DEBUG - 2012-04-17 15:49:00 --> Security Class Initialized
+DEBUG - 2012-04-17 15:49:00 --> Input Class Initialized
+DEBUG - 2012-04-17 15:49:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:49:00 --> Language Class Initialized
+DEBUG - 2012-04-17 15:49:00 --> Language Class Initialized
+DEBUG - 2012-04-17 15:49:00 --> Config Class Initialized
+DEBUG - 2012-04-17 15:49:00 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:49:00 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:49:00 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:49:00 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:49:00 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:49:00 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:49:00 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:49:00 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:49:00 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:49:00 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:49:00 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:49:00 --> Session Class Initialized
+DEBUG - 2012-04-17 15:49:00 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:49:00 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:49:00 --> Session routines successfully run
+DEBUG - 2012-04-17 15:49:00 --> Model Class Initialized
+ERROR - 2012-04-17 15:49:00 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:49:00 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:49:00 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:49:00 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:49:00 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:49:00 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:49:00 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:49:00 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:49:00 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:49:00 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:49:00 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:49:00 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:49:00 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:49:00 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:49:00 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:49:00 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:49:00 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:49:00 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:49:00 --> Authentication library initialized
+DEBUG - 2012-04-17 15:49:00 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:49:00 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:49:00 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:49:00 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:49:00 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:49:00 --> Config Class Initialized
+DEBUG - 2012-04-17 15:49:00 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:49:00 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:49:00 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:49:00 --> URI Class Initialized
+DEBUG - 2012-04-17 15:49:00 --> Router Class Initialized
+DEBUG - 2012-04-17 15:49:00 --> Output Class Initialized
+DEBUG - 2012-04-17 15:49:00 --> Security Class Initialized
+DEBUG - 2012-04-17 15:49:00 --> Input Class Initialized
+DEBUG - 2012-04-17 15:49:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:49:00 --> Language Class Initialized
+DEBUG - 2012-04-17 15:49:00 --> Language Class Initialized
+DEBUG - 2012-04-17 15:49:00 --> Config Class Initialized
+DEBUG - 2012-04-17 15:49:00 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:49:00 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:49:00 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:49:00 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:49:00 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:49:00 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:49:00 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:49:00 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:49:00 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:49:00 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:49:00 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:49:00 --> Session Class Initialized
+DEBUG - 2012-04-17 15:49:00 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:49:00 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:49:00 --> Session routines successfully run
+DEBUG - 2012-04-17 15:49:00 --> Model Class Initialized
+ERROR - 2012-04-17 15:49:00 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:49:00 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:49:00 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:49:00 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:49:00 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:49:00 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:49:00 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:49:00 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:49:00 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:49:00 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:49:00 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:49:00 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:49:00 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:49:00 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:49:00 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:49:00 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:49:00 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:49:00 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:49:00 --> Authentication library initialized
+DEBUG - 2012-04-17 15:49:00 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:49:00 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:49:00 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:49:00 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:49:00 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:49:00 --> Final output sent to browser
+DEBUG - 2012-04-17 15:49:00 --> Total execution time: 0.0494
+DEBUG - 2012-04-17 15:49:10 --> Config Class Initialized
+DEBUG - 2012-04-17 15:49:10 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:49:10 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:49:10 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:49:10 --> URI Class Initialized
+DEBUG - 2012-04-17 15:49:10 --> Router Class Initialized
+DEBUG - 2012-04-17 15:49:10 --> Output Class Initialized
+DEBUG - 2012-04-17 15:49:10 --> Security Class Initialized
+DEBUG - 2012-04-17 15:49:10 --> Input Class Initialized
+DEBUG - 2012-04-17 15:49:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:49:10 --> Language Class Initialized
+DEBUG - 2012-04-17 15:49:10 --> Language Class Initialized
+DEBUG - 2012-04-17 15:49:10 --> Config Class Initialized
+DEBUG - 2012-04-17 15:49:10 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:49:10 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:49:10 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:49:10 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:49:10 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:49:10 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:49:10 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:49:10 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:49:10 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:49:10 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:49:10 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:49:10 --> Session Class Initialized
+DEBUG - 2012-04-17 15:49:10 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:49:10 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:49:10 --> Session garbage collection performed.
+DEBUG - 2012-04-17 15:49:10 --> Session routines successfully run
+DEBUG - 2012-04-17 15:49:10 --> Model Class Initialized
+ERROR - 2012-04-17 15:49:10 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:49:10 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:49:10 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:49:10 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:49:10 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:49:10 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:49:10 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:49:10 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:49:10 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:49:10 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:49:10 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:49:10 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:49:10 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:49:10 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:49:10 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:49:10 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:49:10 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:49:10 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:49:10 --> Authentication library initialized
+DEBUG - 2012-04-17 15:49:10 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:49:10 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:49:10 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:49:10 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:49:10 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:49:10 --> Config Class Initialized
+DEBUG - 2012-04-17 15:49:10 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:49:10 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:49:10 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:49:10 --> URI Class Initialized
+DEBUG - 2012-04-17 15:49:10 --> Router Class Initialized
+DEBUG - 2012-04-17 15:49:10 --> Output Class Initialized
+DEBUG - 2012-04-17 15:49:10 --> Security Class Initialized
+DEBUG - 2012-04-17 15:49:10 --> Input Class Initialized
+DEBUG - 2012-04-17 15:49:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:49:10 --> Language Class Initialized
+DEBUG - 2012-04-17 15:49:10 --> Language Class Initialized
+DEBUG - 2012-04-17 15:49:10 --> Config Class Initialized
+DEBUG - 2012-04-17 15:49:10 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:49:10 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:49:10 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:49:10 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:49:10 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:49:10 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:49:10 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:49:10 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:49:10 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:49:10 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:49:10 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:49:10 --> Session Class Initialized
+DEBUG - 2012-04-17 15:49:10 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:49:10 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:49:10 --> Session garbage collection performed.
+DEBUG - 2012-04-17 15:49:10 --> Session routines successfully run
+DEBUG - 2012-04-17 15:49:10 --> Model Class Initialized
+ERROR - 2012-04-17 15:49:10 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:49:10 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:49:10 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:49:10 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:49:10 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:49:10 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:49:10 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:49:10 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:49:10 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:49:10 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:49:10 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:49:10 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:49:10 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:49:10 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:49:10 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:49:10 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:49:10 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:49:10 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:49:10 --> Authentication library initialized
+DEBUG - 2012-04-17 15:49:10 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:49:10 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:49:10 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:49:10 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:49:10 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:49:10 --> Final output sent to browser
+DEBUG - 2012-04-17 15:49:10 --> Total execution time: 0.0491
+DEBUG - 2012-04-17 15:49:15 --> Config Class Initialized
+DEBUG - 2012-04-17 15:49:15 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:49:15 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:49:15 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:49:15 --> URI Class Initialized
+DEBUG - 2012-04-17 15:49:15 --> Router Class Initialized
+DEBUG - 2012-04-17 15:49:15 --> Output Class Initialized
+DEBUG - 2012-04-17 15:49:15 --> Security Class Initialized
+DEBUG - 2012-04-17 15:49:15 --> Input Class Initialized
+DEBUG - 2012-04-17 15:49:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:49:15 --> Language Class Initialized
+DEBUG - 2012-04-17 15:49:15 --> Language Class Initialized
+DEBUG - 2012-04-17 15:49:15 --> Config Class Initialized
+DEBUG - 2012-04-17 15:49:15 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:49:15 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:49:15 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:49:15 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:49:15 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:49:15 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:49:15 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:49:15 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:49:15 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:49:15 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:49:15 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:49:15 --> Session Class Initialized
+DEBUG - 2012-04-17 15:49:15 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:49:15 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:49:15 --> Session routines successfully run
+DEBUG - 2012-04-17 15:49:15 --> Model Class Initialized
+ERROR - 2012-04-17 15:49:15 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:49:15 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:49:15 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:49:15 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:49:15 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:49:15 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:49:15 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:49:15 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:49:15 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:49:15 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:49:15 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:49:15 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:49:15 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:49:15 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:49:15 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:49:15 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:49:15 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:49:15 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:49:15 --> Authentication library initialized
+DEBUG - 2012-04-17 15:49:15 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:49:15 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:49:15 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:49:15 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:49:15 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:49:15 --> Final output sent to browser
+DEBUG - 2012-04-17 15:49:15 --> Total execution time: 0.0473
+DEBUG - 2012-04-17 15:49:55 --> Config Class Initialized
+DEBUG - 2012-04-17 15:49:55 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:49:55 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:49:55 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:49:55 --> URI Class Initialized
+DEBUG - 2012-04-17 15:49:55 --> Router Class Initialized
+DEBUG - 2012-04-17 15:49:55 --> Output Class Initialized
+DEBUG - 2012-04-17 15:49:55 --> Security Class Initialized
+DEBUG - 2012-04-17 15:49:55 --> Input Class Initialized
+DEBUG - 2012-04-17 15:49:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:49:55 --> Language Class Initialized
+DEBUG - 2012-04-17 15:49:55 --> Language Class Initialized
+DEBUG - 2012-04-17 15:49:55 --> Config Class Initialized
+DEBUG - 2012-04-17 15:49:55 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:49:55 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:49:55 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:49:55 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:49:55 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:49:55 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:49:55 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:49:55 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:49:55 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:49:55 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:49:55 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:49:55 --> Session Class Initialized
+DEBUG - 2012-04-17 15:49:55 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:49:55 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:49:55 --> Session routines successfully run
+DEBUG - 2012-04-17 15:49:55 --> Model Class Initialized
+ERROR - 2012-04-17 15:49:55 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:49:55 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:49:55 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:49:55 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:49:55 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:49:55 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:49:55 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:49:55 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:49:55 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:49:55 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:49:55 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:49:55 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:49:55 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:49:55 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:49:55 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:49:55 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:49:55 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:49:55 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:49:55 --> Authentication library initialized
+DEBUG - 2012-04-17 15:49:55 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:49:55 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:49:55 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:49:55 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:49:55 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:49:55 --> Config Class Initialized
+DEBUG - 2012-04-17 15:49:55 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:49:55 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:49:55 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:49:55 --> URI Class Initialized
+DEBUG - 2012-04-17 15:49:55 --> Router Class Initialized
+DEBUG - 2012-04-17 15:49:55 --> Output Class Initialized
+DEBUG - 2012-04-17 15:49:55 --> Security Class Initialized
+DEBUG - 2012-04-17 15:49:55 --> Input Class Initialized
+DEBUG - 2012-04-17 15:49:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:49:55 --> Language Class Initialized
+DEBUG - 2012-04-17 15:49:55 --> Language Class Initialized
+DEBUG - 2012-04-17 15:49:55 --> Config Class Initialized
+DEBUG - 2012-04-17 15:49:55 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:49:55 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:49:55 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:49:55 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:49:55 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:49:55 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:49:55 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:49:55 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:49:55 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:49:55 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:49:55 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:49:55 --> Session Class Initialized
+DEBUG - 2012-04-17 15:49:55 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:49:55 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:49:55 --> Session routines successfully run
+DEBUG - 2012-04-17 15:49:55 --> Model Class Initialized
+ERROR - 2012-04-17 15:49:55 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:49:55 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:49:55 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:49:55 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:49:55 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:49:55 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:49:55 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:49:55 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:49:55 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:49:55 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:49:55 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:49:55 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:49:55 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:49:55 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:49:55 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:49:55 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:49:55 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:49:55 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:49:55 --> Authentication library initialized
+DEBUG - 2012-04-17 15:49:55 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:49:55 --> Config file loaded: application/config/admin.php
+ERROR - 2012-04-17 15:49:55 --> Severity: Notice  --> Undefined offset: 0 /var/www/cms86/application/cache/smarty/templates_c/6ce0fedc1c08417d2f86cc37843ed1b4de2e8811.file.full_admin_header.php.php 53
+DEBUG - 2012-04-17 15:49:55 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:49:55 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:49:55 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:49:55 --> Final output sent to browser
+DEBUG - 2012-04-17 15:49:55 --> Total execution time: 0.0472
+DEBUG - 2012-04-17 15:49:57 --> Config Class Initialized
+DEBUG - 2012-04-17 15:49:57 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:49:57 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:49:57 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:49:57 --> URI Class Initialized
+DEBUG - 2012-04-17 15:49:57 --> Router Class Initialized
+DEBUG - 2012-04-17 15:49:57 --> Output Class Initialized
+DEBUG - 2012-04-17 15:49:57 --> Security Class Initialized
+DEBUG - 2012-04-17 15:49:57 --> Input Class Initialized
+DEBUG - 2012-04-17 15:49:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:49:57 --> Language Class Initialized
+DEBUG - 2012-04-17 15:49:57 --> Language Class Initialized
+DEBUG - 2012-04-17 15:49:57 --> Config Class Initialized
+DEBUG - 2012-04-17 15:49:57 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:49:57 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:49:57 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:49:57 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:49:57 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:49:57 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:49:57 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:49:57 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:49:57 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:49:57 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:49:57 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:49:57 --> Session Class Initialized
+DEBUG - 2012-04-17 15:49:57 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:49:57 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:49:57 --> Session routines successfully run
+DEBUG - 2012-04-17 15:49:57 --> Model Class Initialized
+ERROR - 2012-04-17 15:49:57 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:49:57 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:49:57 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:49:57 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:49:57 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:49:57 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:49:57 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:49:57 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:49:57 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:49:57 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:49:57 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:49:57 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:49:57 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:49:57 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:49:57 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:49:57 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:49:57 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:49:57 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:49:57 --> Authentication library initialized
+DEBUG - 2012-04-17 15:49:57 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:49:57 --> Config file loaded: application/config/admin.php
+ERROR - 2012-04-17 15:49:57 --> Severity: Notice  --> Undefined offset: 0 /var/www/cms86/application/cache/smarty/templates_c/6ce0fedc1c08417d2f86cc37843ed1b4de2e8811.file.full_admin_header.php.php 53
+DEBUG - 2012-04-17 15:49:57 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:49:57 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:49:57 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:49:57 --> Config Class Initialized
+DEBUG - 2012-04-17 15:49:57 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:49:57 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:49:57 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:49:57 --> URI Class Initialized
+DEBUG - 2012-04-17 15:49:57 --> Router Class Initialized
+DEBUG - 2012-04-17 15:49:57 --> Output Class Initialized
+DEBUG - 2012-04-17 15:49:57 --> Security Class Initialized
+DEBUG - 2012-04-17 15:49:57 --> Input Class Initialized
+DEBUG - 2012-04-17 15:49:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:49:57 --> Language Class Initialized
+DEBUG - 2012-04-17 15:49:57 --> Language Class Initialized
+DEBUG - 2012-04-17 15:49:57 --> Config Class Initialized
+DEBUG - 2012-04-17 15:49:57 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:49:57 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:49:57 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:49:57 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:49:57 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:49:57 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:49:57 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:49:57 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:49:57 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:49:57 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:49:57 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:49:57 --> Session Class Initialized
+DEBUG - 2012-04-17 15:49:57 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:49:57 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:49:57 --> Session routines successfully run
+DEBUG - 2012-04-17 15:49:57 --> Model Class Initialized
+ERROR - 2012-04-17 15:49:57 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:49:57 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:49:57 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:49:57 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:49:57 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:49:57 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:49:57 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:49:57 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:49:57 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:49:57 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:49:57 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:49:57 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:49:57 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:49:57 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:49:57 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:49:57 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:49:57 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:49:57 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:49:57 --> Authentication library initialized
+DEBUG - 2012-04-17 15:49:57 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:49:57 --> Config file loaded: application/config/admin.php
+ERROR - 2012-04-17 15:49:57 --> Severity: Notice  --> Undefined offset: 0 /var/www/cms86/application/cache/smarty/templates_c/6ce0fedc1c08417d2f86cc37843ed1b4de2e8811.file.full_admin_header.php.php 53
+DEBUG - 2012-04-17 15:49:57 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:49:57 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:49:57 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:49:57 --> Final output sent to browser
+DEBUG - 2012-04-17 15:49:57 --> Total execution time: 0.0501
+DEBUG - 2012-04-17 15:50:26 --> Config Class Initialized
+DEBUG - 2012-04-17 15:50:26 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:50:26 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:50:26 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:50:26 --> URI Class Initialized
+DEBUG - 2012-04-17 15:50:26 --> Router Class Initialized
+DEBUG - 2012-04-17 15:50:26 --> Output Class Initialized
+DEBUG - 2012-04-17 15:50:26 --> Security Class Initialized
+DEBUG - 2012-04-17 15:50:26 --> Input Class Initialized
+DEBUG - 2012-04-17 15:50:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:50:26 --> Language Class Initialized
+DEBUG - 2012-04-17 15:50:26 --> Language Class Initialized
+DEBUG - 2012-04-17 15:50:26 --> Config Class Initialized
+DEBUG - 2012-04-17 15:50:26 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:50:26 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:50:26 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:50:26 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:50:26 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:50:26 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:50:26 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:50:26 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:50:26 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:50:26 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:50:26 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:50:26 --> Session Class Initialized
+DEBUG - 2012-04-17 15:50:26 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:50:26 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:50:26 --> Session routines successfully run
+DEBUG - 2012-04-17 15:50:26 --> Model Class Initialized
+ERROR - 2012-04-17 15:50:26 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:50:26 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:50:26 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:50:26 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:50:26 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:50:26 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:50:26 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:50:26 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:50:26 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:50:26 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:50:26 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:50:26 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:50:26 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:50:26 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:50:26 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:50:26 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:50:26 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:50:26 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:50:26 --> Authentication library initialized
+DEBUG - 2012-04-17 15:50:26 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:50:26 --> Config file loaded: application/config/admin.php
+ERROR - 2012-04-17 15:50:26 --> Severity: Notice  --> Undefined offset: 0 /var/www/cms86/application/cache/smarty/templates_c/6ce0fedc1c08417d2f86cc37843ed1b4de2e8811.file.full_admin_header.php.php 53
+DEBUG - 2012-04-17 15:50:26 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:50:26 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:50:26 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:50:26 --> Config Class Initialized
+DEBUG - 2012-04-17 15:50:26 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:50:26 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:50:26 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:50:26 --> URI Class Initialized
+DEBUG - 2012-04-17 15:50:26 --> Router Class Initialized
+DEBUG - 2012-04-17 15:50:26 --> Output Class Initialized
+DEBUG - 2012-04-17 15:50:26 --> Security Class Initialized
+DEBUG - 2012-04-17 15:50:26 --> Input Class Initialized
+DEBUG - 2012-04-17 15:50:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:50:26 --> Language Class Initialized
+DEBUG - 2012-04-17 15:50:26 --> Language Class Initialized
+DEBUG - 2012-04-17 15:50:26 --> Config Class Initialized
+DEBUG - 2012-04-17 15:50:26 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:50:26 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:50:26 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:50:26 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:50:26 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:50:26 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:50:26 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:50:26 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:50:26 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:50:26 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:50:26 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:50:26 --> Session Class Initialized
+DEBUG - 2012-04-17 15:50:26 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:50:26 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:50:26 --> Session routines successfully run
+DEBUG - 2012-04-17 15:50:26 --> Model Class Initialized
+ERROR - 2012-04-17 15:50:26 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:50:26 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:50:26 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:50:26 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:50:26 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:50:26 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:50:26 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:50:26 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:50:26 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:50:26 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:50:26 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:50:26 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:50:26 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:50:26 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:50:26 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:50:26 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:50:26 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:50:26 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:50:26 --> Authentication library initialized
+DEBUG - 2012-04-17 15:50:26 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:50:26 --> Config file loaded: application/config/admin.php
+ERROR - 2012-04-17 15:50:26 --> Severity: Notice  --> Undefined offset: 0 /var/www/cms86/application/cache/smarty/templates_c/6ce0fedc1c08417d2f86cc37843ed1b4de2e8811.file.full_admin_header.php.php 53
+DEBUG - 2012-04-17 15:50:26 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:50:26 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:50:26 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:50:26 --> Final output sent to browser
+DEBUG - 2012-04-17 15:50:26 --> Total execution time: 0.0460
+DEBUG - 2012-04-17 15:50:41 --> Config Class Initialized
+DEBUG - 2012-04-17 15:50:41 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:50:41 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:50:41 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:50:41 --> URI Class Initialized
+DEBUG - 2012-04-17 15:50:41 --> Router Class Initialized
+DEBUG - 2012-04-17 15:50:41 --> Output Class Initialized
+DEBUG - 2012-04-17 15:50:41 --> Security Class Initialized
+DEBUG - 2012-04-17 15:50:41 --> Input Class Initialized
+DEBUG - 2012-04-17 15:50:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:50:41 --> Language Class Initialized
+DEBUG - 2012-04-17 15:50:41 --> Language Class Initialized
+DEBUG - 2012-04-17 15:50:41 --> Config Class Initialized
+DEBUG - 2012-04-17 15:50:41 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:50:41 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:50:41 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:50:41 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:50:41 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:50:41 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:50:41 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:50:41 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:50:41 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:50:41 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:50:41 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:50:41 --> Session Class Initialized
+DEBUG - 2012-04-17 15:50:41 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:50:41 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:50:41 --> Session routines successfully run
+DEBUG - 2012-04-17 15:50:41 --> Model Class Initialized
+ERROR - 2012-04-17 15:50:41 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:50:41 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:50:41 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:50:41 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:50:41 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:50:41 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:50:41 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:50:41 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:50:41 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:50:41 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:50:41 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:50:41 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:50:41 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:50:41 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:50:41 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:50:41 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:50:41 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:50:41 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:50:41 --> Authentication library initialized
+DEBUG - 2012-04-17 15:50:41 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:50:41 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:50:41 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:50:41 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:50:41 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:50:41 --> Config Class Initialized
+DEBUG - 2012-04-17 15:50:41 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:50:41 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:50:41 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:50:41 --> URI Class Initialized
+DEBUG - 2012-04-17 15:50:41 --> Router Class Initialized
+DEBUG - 2012-04-17 15:50:41 --> Output Class Initialized
+DEBUG - 2012-04-17 15:50:41 --> Security Class Initialized
+DEBUG - 2012-04-17 15:50:41 --> Input Class Initialized
+DEBUG - 2012-04-17 15:50:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:50:41 --> Language Class Initialized
+DEBUG - 2012-04-17 15:50:41 --> Language Class Initialized
+DEBUG - 2012-04-17 15:50:41 --> Config Class Initialized
+DEBUG - 2012-04-17 15:50:41 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:50:41 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:50:41 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:50:41 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:50:41 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:50:41 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:50:41 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:50:41 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:50:41 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:50:41 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:50:41 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:50:41 --> Session Class Initialized
+DEBUG - 2012-04-17 15:50:41 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:50:41 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:50:41 --> Session routines successfully run
+DEBUG - 2012-04-17 15:50:41 --> Model Class Initialized
+ERROR - 2012-04-17 15:50:41 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:50:41 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:50:41 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:50:41 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:50:41 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:50:41 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:50:41 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:50:41 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:50:41 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:50:41 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:50:41 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:50:41 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:50:41 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:50:41 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:50:41 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:50:41 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:50:41 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:50:41 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:50:41 --> Authentication library initialized
+DEBUG - 2012-04-17 15:50:41 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:50:41 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:50:41 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:50:41 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:50:41 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:50:41 --> Final output sent to browser
+DEBUG - 2012-04-17 15:50:41 --> Total execution time: 0.0498
+DEBUG - 2012-04-17 15:51:42 --> Config Class Initialized
+DEBUG - 2012-04-17 15:51:42 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:51:42 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:51:42 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:51:42 --> URI Class Initialized
+DEBUG - 2012-04-17 15:51:42 --> Router Class Initialized
+DEBUG - 2012-04-17 15:51:42 --> Output Class Initialized
+DEBUG - 2012-04-17 15:51:42 --> Security Class Initialized
+DEBUG - 2012-04-17 15:51:42 --> Input Class Initialized
+DEBUG - 2012-04-17 15:51:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:51:42 --> Language Class Initialized
+DEBUG - 2012-04-17 15:51:42 --> Language Class Initialized
+DEBUG - 2012-04-17 15:51:42 --> Config Class Initialized
+DEBUG - 2012-04-17 15:51:42 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:51:42 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:51:42 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:51:42 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:51:42 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:51:42 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:51:42 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:51:42 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:51:42 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:51:42 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:51:42 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:51:42 --> Session Class Initialized
+DEBUG - 2012-04-17 15:51:42 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:51:42 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:51:42 --> Session garbage collection performed.
+DEBUG - 2012-04-17 15:51:42 --> Session routines successfully run
+DEBUG - 2012-04-17 15:51:42 --> Model Class Initialized
+ERROR - 2012-04-17 15:51:42 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:51:42 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:51:42 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:51:42 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:51:42 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:51:42 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:51:42 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:51:42 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:51:42 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:51:42 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:51:42 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:51:42 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:51:42 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:51:42 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:51:42 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:51:42 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:51:42 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:51:42 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:51:42 --> Authentication library initialized
+DEBUG - 2012-04-17 15:51:42 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:51:42 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:51:42 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:51:42 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:51:42 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:51:42 --> Config Class Initialized
+DEBUG - 2012-04-17 15:51:42 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:51:42 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:51:42 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:51:42 --> URI Class Initialized
+DEBUG - 2012-04-17 15:51:42 --> Router Class Initialized
+DEBUG - 2012-04-17 15:51:42 --> Output Class Initialized
+DEBUG - 2012-04-17 15:51:42 --> Security Class Initialized
+DEBUG - 2012-04-17 15:51:42 --> Input Class Initialized
+DEBUG - 2012-04-17 15:51:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:51:42 --> Language Class Initialized
+DEBUG - 2012-04-17 15:51:42 --> Language Class Initialized
+DEBUG - 2012-04-17 15:51:42 --> Config Class Initialized
+DEBUG - 2012-04-17 15:51:42 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:51:42 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:51:42 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:51:42 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:51:42 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:51:42 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:51:42 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:51:42 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:51:42 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:51:42 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:51:42 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:51:42 --> Session Class Initialized
+DEBUG - 2012-04-17 15:51:42 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:51:42 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:51:42 --> Session garbage collection performed.
+DEBUG - 2012-04-17 15:51:42 --> Session routines successfully run
+DEBUG - 2012-04-17 15:51:42 --> Model Class Initialized
+ERROR - 2012-04-17 15:51:42 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:51:42 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:51:42 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:51:42 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:51:42 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:51:42 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:51:42 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:51:42 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:51:42 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:51:42 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:51:42 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:51:42 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:51:42 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:51:42 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:51:42 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:51:42 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:51:42 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:51:42 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:51:42 --> Authentication library initialized
+DEBUG - 2012-04-17 15:51:42 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:51:42 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:51:42 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:51:42 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:51:42 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:51:42 --> Final output sent to browser
+DEBUG - 2012-04-17 15:51:42 --> Total execution time: 0.0485
+DEBUG - 2012-04-17 15:52:06 --> Config Class Initialized
+DEBUG - 2012-04-17 15:52:06 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:52:06 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:52:06 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:52:06 --> URI Class Initialized
+DEBUG - 2012-04-17 15:52:06 --> Router Class Initialized
+DEBUG - 2012-04-17 15:52:06 --> Output Class Initialized
+DEBUG - 2012-04-17 15:52:06 --> Security Class Initialized
+DEBUG - 2012-04-17 15:52:06 --> Input Class Initialized
+DEBUG - 2012-04-17 15:52:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:52:06 --> Language Class Initialized
+DEBUG - 2012-04-17 15:52:06 --> Language Class Initialized
+DEBUG - 2012-04-17 15:52:06 --> Config Class Initialized
+DEBUG - 2012-04-17 15:52:06 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:52:06 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:52:06 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:52:06 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:52:06 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:52:06 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:52:06 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:52:06 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:52:06 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:52:06 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:52:06 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:52:06 --> Session Class Initialized
+DEBUG - 2012-04-17 15:52:06 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:52:06 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:52:06 --> Session routines successfully run
+DEBUG - 2012-04-17 15:52:06 --> Model Class Initialized
+ERROR - 2012-04-17 15:52:06 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:52:06 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:52:06 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:52:06 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:52:06 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:52:06 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:52:06 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:52:06 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:52:06 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:52:06 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:52:06 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:52:06 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:52:06 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:52:06 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:52:06 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:52:06 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:52:06 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:52:06 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:52:06 --> Authentication library initialized
+DEBUG - 2012-04-17 15:52:06 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:52:06 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:52:06 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:52:06 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:52:06 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:52:06 --> Config Class Initialized
+DEBUG - 2012-04-17 15:52:06 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:52:06 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:52:06 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:52:06 --> URI Class Initialized
+DEBUG - 2012-04-17 15:52:06 --> Router Class Initialized
+DEBUG - 2012-04-17 15:52:06 --> Output Class Initialized
+DEBUG - 2012-04-17 15:52:06 --> Security Class Initialized
+DEBUG - 2012-04-17 15:52:06 --> Input Class Initialized
+DEBUG - 2012-04-17 15:52:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:52:06 --> Language Class Initialized
+DEBUG - 2012-04-17 15:52:06 --> Language Class Initialized
+DEBUG - 2012-04-17 15:52:06 --> Config Class Initialized
+DEBUG - 2012-04-17 15:52:06 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:52:06 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:52:06 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:52:06 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:52:06 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:52:06 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:52:06 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:52:06 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:52:06 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:52:06 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:52:06 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:52:06 --> Session Class Initialized
+DEBUG - 2012-04-17 15:52:06 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:52:06 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:52:06 --> Session routines successfully run
+DEBUG - 2012-04-17 15:52:06 --> Model Class Initialized
+ERROR - 2012-04-17 15:52:06 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:52:06 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:52:06 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:52:06 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:52:06 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:52:06 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:52:06 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:52:06 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:52:06 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:52:06 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:52:06 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:52:06 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:52:06 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:52:06 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:52:06 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:52:06 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:52:06 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:52:06 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:52:06 --> Authentication library initialized
+DEBUG - 2012-04-17 15:52:06 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:52:06 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:52:06 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:52:06 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:52:06 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:52:06 --> Final output sent to browser
+DEBUG - 2012-04-17 15:52:06 --> Total execution time: 0.0614
+DEBUG - 2012-04-17 15:52:10 --> Config Class Initialized
+DEBUG - 2012-04-17 15:52:10 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:52:10 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:52:10 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:52:10 --> URI Class Initialized
+DEBUG - 2012-04-17 15:52:10 --> Router Class Initialized
+DEBUG - 2012-04-17 15:52:10 --> Output Class Initialized
+DEBUG - 2012-04-17 15:52:10 --> Security Class Initialized
+DEBUG - 2012-04-17 15:52:10 --> Input Class Initialized
+DEBUG - 2012-04-17 15:52:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:52:10 --> Language Class Initialized
+DEBUG - 2012-04-17 15:52:10 --> Language Class Initialized
+DEBUG - 2012-04-17 15:52:10 --> Config Class Initialized
+DEBUG - 2012-04-17 15:52:10 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:52:10 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:52:10 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:52:10 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:52:10 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:52:10 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:52:10 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:52:10 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:52:10 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:52:10 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:52:10 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:52:10 --> Session Class Initialized
+DEBUG - 2012-04-17 15:52:10 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:52:10 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:52:10 --> Session routines successfully run
+DEBUG - 2012-04-17 15:52:10 --> Model Class Initialized
+ERROR - 2012-04-17 15:52:10 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:52:10 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:52:10 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:52:10 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:52:10 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:52:10 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:52:10 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:52:10 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:52:10 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:52:10 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:52:10 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:52:10 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:52:10 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:52:10 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:52:10 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:52:10 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:52:10 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:52:10 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:52:10 --> Authentication library initialized
+DEBUG - 2012-04-17 15:52:10 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:52:10 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:52:10 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:52:10 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:52:10 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:52:10 --> Config Class Initialized
+DEBUG - 2012-04-17 15:52:10 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:52:10 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:52:10 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:52:10 --> URI Class Initialized
+DEBUG - 2012-04-17 15:52:10 --> Router Class Initialized
+DEBUG - 2012-04-17 15:52:10 --> Output Class Initialized
+DEBUG - 2012-04-17 15:52:10 --> Security Class Initialized
+DEBUG - 2012-04-17 15:52:10 --> Input Class Initialized
+DEBUG - 2012-04-17 15:52:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:52:10 --> Language Class Initialized
+DEBUG - 2012-04-17 15:52:10 --> Language Class Initialized
+DEBUG - 2012-04-17 15:52:10 --> Config Class Initialized
+DEBUG - 2012-04-17 15:52:10 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:52:10 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:52:10 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:52:10 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:52:10 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:52:10 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:52:10 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:52:10 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:52:10 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:52:10 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:52:10 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:52:10 --> Session Class Initialized
+DEBUG - 2012-04-17 15:52:10 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:52:10 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:52:10 --> Session routines successfully run
+DEBUG - 2012-04-17 15:52:10 --> Model Class Initialized
+ERROR - 2012-04-17 15:52:10 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:52:10 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:52:10 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:52:10 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:52:10 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:52:10 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:52:10 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:52:10 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:52:10 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:52:10 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:52:10 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:52:10 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:52:10 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:52:10 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:52:10 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:52:10 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:52:10 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:52:10 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:52:10 --> Authentication library initialized
+DEBUG - 2012-04-17 15:52:10 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:52:10 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:52:10 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:52:10 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:52:10 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:52:10 --> Final output sent to browser
+DEBUG - 2012-04-17 15:52:10 --> Total execution time: 0.0934
+DEBUG - 2012-04-17 15:52:17 --> Config Class Initialized
+DEBUG - 2012-04-17 15:52:17 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:52:17 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:52:17 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:52:17 --> URI Class Initialized
+DEBUG - 2012-04-17 15:52:17 --> Router Class Initialized
+DEBUG - 2012-04-17 15:52:17 --> Output Class Initialized
+DEBUG - 2012-04-17 15:52:17 --> Security Class Initialized
+DEBUG - 2012-04-17 15:52:17 --> Input Class Initialized
+DEBUG - 2012-04-17 15:52:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:52:17 --> Language Class Initialized
+DEBUG - 2012-04-17 15:52:17 --> Language Class Initialized
+DEBUG - 2012-04-17 15:52:17 --> Config Class Initialized
+DEBUG - 2012-04-17 15:52:17 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:52:17 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:52:17 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:52:17 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:52:17 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:52:17 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:52:17 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:52:17 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:52:17 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:52:17 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:52:17 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:52:17 --> Session Class Initialized
+DEBUG - 2012-04-17 15:52:17 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:52:17 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:52:17 --> Session routines successfully run
+DEBUG - 2012-04-17 15:52:17 --> Model Class Initialized
+ERROR - 2012-04-17 15:52:17 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:52:17 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:52:17 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:52:17 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:52:17 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:52:17 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:52:17 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:52:17 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:52:17 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:52:17 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:52:17 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:52:17 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:52:17 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:52:17 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:52:17 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:52:17 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:52:17 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:52:17 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:52:17 --> Authentication library initialized
+DEBUG - 2012-04-17 15:52:17 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:52:17 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:52:17 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:52:17 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:52:17 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:52:17 --> Config Class Initialized
+DEBUG - 2012-04-17 15:52:17 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:52:17 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:52:17 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:52:17 --> URI Class Initialized
+DEBUG - 2012-04-17 15:52:17 --> Router Class Initialized
+DEBUG - 2012-04-17 15:52:17 --> Output Class Initialized
+DEBUG - 2012-04-17 15:52:17 --> Security Class Initialized
+DEBUG - 2012-04-17 15:52:17 --> Input Class Initialized
+DEBUG - 2012-04-17 15:52:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:52:17 --> Language Class Initialized
+DEBUG - 2012-04-17 15:52:17 --> Language Class Initialized
+DEBUG - 2012-04-17 15:52:17 --> Config Class Initialized
+DEBUG - 2012-04-17 15:52:17 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:52:17 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:52:17 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:52:17 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:52:17 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:52:17 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:52:17 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:52:17 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:52:17 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:52:17 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:52:17 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:52:17 --> Session Class Initialized
+DEBUG - 2012-04-17 15:52:17 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:52:17 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:52:17 --> Session routines successfully run
+DEBUG - 2012-04-17 15:52:17 --> Model Class Initialized
+ERROR - 2012-04-17 15:52:17 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:52:17 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:52:17 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:52:17 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:52:17 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:52:17 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:52:17 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:52:17 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:52:17 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:52:17 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:52:17 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:52:17 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:52:17 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:52:17 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:52:17 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:52:17 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:52:17 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:52:17 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:52:17 --> Authentication library initialized
+DEBUG - 2012-04-17 15:52:17 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:52:17 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:52:17 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:52:17 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:52:17 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:52:17 --> Final output sent to browser
+DEBUG - 2012-04-17 15:52:17 --> Total execution time: 0.0629
+DEBUG - 2012-04-17 15:52:28 --> Config Class Initialized
+DEBUG - 2012-04-17 15:52:28 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:52:28 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:52:28 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:52:28 --> URI Class Initialized
+DEBUG - 2012-04-17 15:52:28 --> Router Class Initialized
+DEBUG - 2012-04-17 15:52:28 --> Output Class Initialized
+DEBUG - 2012-04-17 15:52:28 --> Security Class Initialized
+DEBUG - 2012-04-17 15:52:28 --> Input Class Initialized
+DEBUG - 2012-04-17 15:52:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:52:28 --> Language Class Initialized
+DEBUG - 2012-04-17 15:52:28 --> Language Class Initialized
+DEBUG - 2012-04-17 15:52:28 --> Config Class Initialized
+DEBUG - 2012-04-17 15:52:29 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:52:29 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:52:29 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:52:29 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:52:29 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:52:29 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:52:29 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:52:29 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:52:29 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:52:29 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:52:29 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:52:29 --> Session Class Initialized
+DEBUG - 2012-04-17 15:52:29 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:52:29 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:52:29 --> Session routines successfully run
+DEBUG - 2012-04-17 15:52:29 --> Model Class Initialized
+ERROR - 2012-04-17 15:52:29 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:52:29 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:52:29 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:52:29 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:52:29 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:52:29 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:52:29 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:52:29 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:52:29 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:52:29 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:52:29 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:52:29 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:52:29 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:52:29 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:52:29 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:52:29 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:52:29 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:52:29 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:52:29 --> Authentication library initialized
+DEBUG - 2012-04-17 15:52:29 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:52:29 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:52:29 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:52:29 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:52:29 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:52:29 --> Config Class Initialized
+DEBUG - 2012-04-17 15:52:29 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:52:29 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:52:29 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:52:29 --> URI Class Initialized
+DEBUG - 2012-04-17 15:52:29 --> Router Class Initialized
+DEBUG - 2012-04-17 15:52:29 --> Output Class Initialized
+DEBUG - 2012-04-17 15:52:29 --> Security Class Initialized
+DEBUG - 2012-04-17 15:52:29 --> Input Class Initialized
+DEBUG - 2012-04-17 15:52:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:52:29 --> Language Class Initialized
+DEBUG - 2012-04-17 15:52:29 --> Language Class Initialized
+DEBUG - 2012-04-17 15:52:29 --> Config Class Initialized
+DEBUG - 2012-04-17 15:52:29 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:52:29 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:52:29 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:52:29 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:52:29 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:52:29 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:52:29 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:52:29 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:52:29 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:52:29 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:52:29 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:52:29 --> Session Class Initialized
+DEBUG - 2012-04-17 15:52:29 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:52:29 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:52:29 --> Session routines successfully run
+DEBUG - 2012-04-17 15:52:29 --> Model Class Initialized
+ERROR - 2012-04-17 15:52:29 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:52:29 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:52:29 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:52:29 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:52:29 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:52:29 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:52:29 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:52:29 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:52:29 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:52:29 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:52:29 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:52:29 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:52:29 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:52:29 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:52:29 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:52:29 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:52:29 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:52:29 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:52:29 --> Authentication library initialized
+DEBUG - 2012-04-17 15:52:29 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:52:29 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:52:29 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:52:29 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:52:29 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:52:29 --> Final output sent to browser
+DEBUG - 2012-04-17 15:52:29 --> Total execution time: 0.0432
+DEBUG - 2012-04-17 15:52:31 --> Config Class Initialized
+DEBUG - 2012-04-17 15:52:31 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:52:31 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:52:31 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:52:31 --> URI Class Initialized
+DEBUG - 2012-04-17 15:52:31 --> Router Class Initialized
+DEBUG - 2012-04-17 15:52:31 --> Output Class Initialized
+DEBUG - 2012-04-17 15:52:31 --> Security Class Initialized
+DEBUG - 2012-04-17 15:52:31 --> Input Class Initialized
+DEBUG - 2012-04-17 15:52:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:52:31 --> Language Class Initialized
+DEBUG - 2012-04-17 15:52:31 --> Language Class Initialized
+DEBUG - 2012-04-17 15:52:31 --> Config Class Initialized
+DEBUG - 2012-04-17 15:52:31 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:52:31 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:52:31 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:52:31 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:52:31 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:52:31 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:52:31 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:52:31 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:52:31 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:52:31 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:52:31 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:52:31 --> Session Class Initialized
+DEBUG - 2012-04-17 15:52:31 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:52:31 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:52:31 --> Session routines successfully run
+DEBUG - 2012-04-17 15:52:31 --> Model Class Initialized
+ERROR - 2012-04-17 15:52:31 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:52:31 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:52:31 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:52:31 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:52:31 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:52:31 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:52:31 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:52:31 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:52:31 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:52:31 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:52:31 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:52:31 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:52:31 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:52:31 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:52:31 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:52:31 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:52:31 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:52:31 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:52:31 --> Authentication library initialized
+DEBUG - 2012-04-17 15:52:31 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:52:31 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:52:31 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:52:31 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:52:31 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:52:31 --> Config Class Initialized
+DEBUG - 2012-04-17 15:52:31 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:52:31 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:52:31 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:52:31 --> URI Class Initialized
+DEBUG - 2012-04-17 15:52:31 --> Router Class Initialized
+DEBUG - 2012-04-17 15:52:31 --> Output Class Initialized
+DEBUG - 2012-04-17 15:52:31 --> Security Class Initialized
+DEBUG - 2012-04-17 15:52:31 --> Input Class Initialized
+DEBUG - 2012-04-17 15:52:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:52:31 --> Language Class Initialized
+DEBUG - 2012-04-17 15:52:31 --> Language Class Initialized
+DEBUG - 2012-04-17 15:52:31 --> Config Class Initialized
+DEBUG - 2012-04-17 15:52:31 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:52:31 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:52:31 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:52:31 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:52:31 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:52:31 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:52:31 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:52:32 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:52:32 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:52:32 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:52:32 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:52:32 --> Session Class Initialized
+DEBUG - 2012-04-17 15:52:32 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:52:32 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:52:32 --> Session routines successfully run
+DEBUG - 2012-04-17 15:52:32 --> Model Class Initialized
+ERROR - 2012-04-17 15:52:32 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:52:32 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:52:32 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:52:32 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:52:32 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:52:32 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:52:32 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:52:32 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:52:32 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:52:32 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:52:32 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:52:32 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:52:32 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:52:32 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:52:32 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:52:32 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:52:32 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:52:32 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:52:32 --> Authentication library initialized
+DEBUG - 2012-04-17 15:52:32 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:52:32 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:52:32 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:52:32 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:52:32 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:52:32 --> Final output sent to browser
+DEBUG - 2012-04-17 15:52:32 --> Total execution time: 0.0604
+DEBUG - 2012-04-17 15:52:38 --> Config Class Initialized
+DEBUG - 2012-04-17 15:52:38 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:52:38 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:52:38 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:52:38 --> URI Class Initialized
+DEBUG - 2012-04-17 15:52:38 --> Router Class Initialized
+DEBUG - 2012-04-17 15:52:38 --> Output Class Initialized
+DEBUG - 2012-04-17 15:52:38 --> Security Class Initialized
+DEBUG - 2012-04-17 15:52:38 --> Input Class Initialized
+DEBUG - 2012-04-17 15:52:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:52:38 --> Language Class Initialized
+DEBUG - 2012-04-17 15:52:38 --> Language Class Initialized
+DEBUG - 2012-04-17 15:52:38 --> Config Class Initialized
+DEBUG - 2012-04-17 15:52:38 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:52:38 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:52:38 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:52:38 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:52:38 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:52:38 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:52:38 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:52:38 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:52:38 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:52:38 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:52:38 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:52:38 --> Session Class Initialized
+DEBUG - 2012-04-17 15:52:38 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:52:38 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:52:38 --> Session routines successfully run
+DEBUG - 2012-04-17 15:52:38 --> Model Class Initialized
+ERROR - 2012-04-17 15:52:38 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:52:38 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:52:38 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:52:38 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:52:38 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:52:38 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:52:38 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:52:38 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:52:38 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:52:38 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:52:38 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:52:38 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:52:38 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:52:38 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:52:38 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:52:38 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:52:38 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:52:38 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:52:38 --> Authentication library initialized
+DEBUG - 2012-04-17 15:52:38 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:52:38 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:52:38 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:52:38 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:52:38 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:52:38 --> Config Class Initialized
+DEBUG - 2012-04-17 15:52:38 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:52:38 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:52:38 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:52:38 --> URI Class Initialized
+DEBUG - 2012-04-17 15:52:38 --> Router Class Initialized
+DEBUG - 2012-04-17 15:52:38 --> Output Class Initialized
+DEBUG - 2012-04-17 15:52:38 --> Security Class Initialized
+DEBUG - 2012-04-17 15:52:38 --> Input Class Initialized
+DEBUG - 2012-04-17 15:52:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:52:38 --> Language Class Initialized
+DEBUG - 2012-04-17 15:52:38 --> Language Class Initialized
+DEBUG - 2012-04-17 15:52:38 --> Config Class Initialized
+DEBUG - 2012-04-17 15:52:38 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:52:38 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:52:38 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:52:38 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:52:38 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:52:38 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:52:38 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:52:38 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:52:38 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:52:38 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:52:38 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:52:38 --> Session Class Initialized
+DEBUG - 2012-04-17 15:52:38 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:52:38 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:52:38 --> Session routines successfully run
+DEBUG - 2012-04-17 15:52:38 --> Model Class Initialized
+ERROR - 2012-04-17 15:52:38 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:52:38 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:52:38 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:52:38 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:52:38 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:52:38 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:52:38 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:52:38 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:52:38 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:52:38 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:52:38 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:52:38 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:52:38 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:52:38 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:52:38 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:52:38 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:52:38 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:52:38 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:52:38 --> Authentication library initialized
+DEBUG - 2012-04-17 15:52:38 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:52:38 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:52:38 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:52:38 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:52:38 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:52:38 --> Final output sent to browser
+DEBUG - 2012-04-17 15:52:38 --> Total execution time: 0.0503
+DEBUG - 2012-04-17 15:53:19 --> Config Class Initialized
+DEBUG - 2012-04-17 15:53:19 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:53:19 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:53:19 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:53:19 --> URI Class Initialized
+DEBUG - 2012-04-17 15:53:19 --> Router Class Initialized
+DEBUG - 2012-04-17 15:53:19 --> Output Class Initialized
+DEBUG - 2012-04-17 15:53:19 --> Security Class Initialized
+DEBUG - 2012-04-17 15:53:19 --> Input Class Initialized
+DEBUG - 2012-04-17 15:53:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:53:19 --> Language Class Initialized
+DEBUG - 2012-04-17 15:53:19 --> Language Class Initialized
+DEBUG - 2012-04-17 15:53:19 --> Config Class Initialized
+DEBUG - 2012-04-17 15:53:19 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:53:19 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:53:19 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:53:19 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:53:19 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:53:19 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:53:19 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:53:19 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:53:19 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:53:19 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:53:19 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:53:19 --> Session Class Initialized
+DEBUG - 2012-04-17 15:53:19 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:53:19 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:53:19 --> Session routines successfully run
+DEBUG - 2012-04-17 15:53:19 --> Model Class Initialized
+ERROR - 2012-04-17 15:53:19 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:53:19 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:53:19 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:53:19 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:53:19 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:53:19 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:53:19 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:53:19 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:53:19 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:53:19 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:53:19 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:53:19 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:53:19 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:53:19 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:53:19 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:53:19 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:53:19 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:53:19 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:53:19 --> Authentication library initialized
+DEBUG - 2012-04-17 15:53:19 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:53:19 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:53:19 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:53:19 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:53:19 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:53:19 --> Config Class Initialized
+DEBUG - 2012-04-17 15:53:19 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:53:19 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:53:19 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:53:19 --> URI Class Initialized
+DEBUG - 2012-04-17 15:53:19 --> Router Class Initialized
+DEBUG - 2012-04-17 15:53:19 --> Output Class Initialized
+DEBUG - 2012-04-17 15:53:19 --> Security Class Initialized
+DEBUG - 2012-04-17 15:53:19 --> Input Class Initialized
+DEBUG - 2012-04-17 15:53:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:53:19 --> Language Class Initialized
+DEBUG - 2012-04-17 15:53:19 --> Language Class Initialized
+DEBUG - 2012-04-17 15:53:19 --> Config Class Initialized
+DEBUG - 2012-04-17 15:53:19 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:53:19 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:53:19 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:53:19 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:53:19 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:53:19 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:53:19 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:53:19 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:53:19 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:53:19 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:53:19 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:53:19 --> Session Class Initialized
+DEBUG - 2012-04-17 15:53:19 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:53:19 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:53:19 --> Session routines successfully run
+DEBUG - 2012-04-17 15:53:19 --> Model Class Initialized
+ERROR - 2012-04-17 15:53:19 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:53:19 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:53:19 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:53:19 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:53:19 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:53:19 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:53:19 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:53:19 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:53:19 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:53:19 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:53:19 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:53:19 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:53:19 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:53:19 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:53:19 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:53:19 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:53:19 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:53:19 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:53:19 --> Authentication library initialized
+DEBUG - 2012-04-17 15:53:19 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:53:19 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:53:19 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:53:19 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:53:19 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:53:19 --> Final output sent to browser
+DEBUG - 2012-04-17 15:53:19 --> Total execution time: 0.0445
+DEBUG - 2012-04-17 15:53:22 --> Config Class Initialized
+DEBUG - 2012-04-17 15:53:22 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:53:22 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:53:22 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:53:22 --> URI Class Initialized
+DEBUG - 2012-04-17 15:53:22 --> Router Class Initialized
+DEBUG - 2012-04-17 15:53:22 --> Output Class Initialized
+DEBUG - 2012-04-17 15:53:22 --> Security Class Initialized
+DEBUG - 2012-04-17 15:53:22 --> Input Class Initialized
+DEBUG - 2012-04-17 15:53:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:53:22 --> Language Class Initialized
+DEBUG - 2012-04-17 15:53:22 --> Language Class Initialized
+DEBUG - 2012-04-17 15:53:22 --> Config Class Initialized
+DEBUG - 2012-04-17 15:53:22 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:53:22 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:53:22 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:53:22 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:53:22 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:53:22 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:53:22 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:53:22 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:53:22 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:53:22 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:53:22 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:53:22 --> Session Class Initialized
+DEBUG - 2012-04-17 15:53:22 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:53:22 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:53:22 --> Session routines successfully run
+DEBUG - 2012-04-17 15:53:22 --> Model Class Initialized
+ERROR - 2012-04-17 15:53:22 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:53:22 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:53:22 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:53:22 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:53:22 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:53:22 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:53:22 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:53:22 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:53:22 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:53:22 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:53:22 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:53:22 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:53:22 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:53:22 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:53:22 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:53:22 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:53:22 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:53:22 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:53:22 --> Authentication library initialized
+DEBUG - 2012-04-17 15:53:22 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:53:22 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:53:22 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:53:22 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:53:22 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:53:22 --> Config Class Initialized
+DEBUG - 2012-04-17 15:53:22 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:53:22 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:53:22 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:53:22 --> URI Class Initialized
+DEBUG - 2012-04-17 15:53:22 --> Router Class Initialized
+DEBUG - 2012-04-17 15:53:22 --> Output Class Initialized
+DEBUG - 2012-04-17 15:53:22 --> Security Class Initialized
+DEBUG - 2012-04-17 15:53:22 --> Input Class Initialized
+DEBUG - 2012-04-17 15:53:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:53:22 --> Language Class Initialized
+DEBUG - 2012-04-17 15:53:22 --> Language Class Initialized
+DEBUG - 2012-04-17 15:53:22 --> Config Class Initialized
+DEBUG - 2012-04-17 15:53:22 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:53:22 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:53:22 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:53:22 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:53:22 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:53:22 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:53:22 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:53:22 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:53:22 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:53:22 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:53:22 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:53:22 --> Session Class Initialized
+DEBUG - 2012-04-17 15:53:22 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:53:22 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:53:22 --> Session routines successfully run
+DEBUG - 2012-04-17 15:53:22 --> Model Class Initialized
+ERROR - 2012-04-17 15:53:22 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:53:22 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:53:22 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:53:22 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:53:22 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:53:22 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:53:22 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:53:22 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:53:22 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:53:22 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:53:22 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:53:22 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:53:22 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:53:22 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:53:22 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:53:22 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:53:22 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:53:22 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:53:22 --> Authentication library initialized
+DEBUG - 2012-04-17 15:53:22 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:53:22 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:53:22 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:53:22 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:53:22 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:53:22 --> Final output sent to browser
+DEBUG - 2012-04-17 15:53:22 --> Total execution time: 0.0440
+DEBUG - 2012-04-17 15:53:48 --> Config Class Initialized
+DEBUG - 2012-04-17 15:53:48 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:53:48 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:53:48 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:53:48 --> URI Class Initialized
+DEBUG - 2012-04-17 15:53:48 --> Router Class Initialized
+DEBUG - 2012-04-17 15:53:48 --> Output Class Initialized
+DEBUG - 2012-04-17 15:53:48 --> Security Class Initialized
+DEBUG - 2012-04-17 15:53:48 --> Input Class Initialized
+DEBUG - 2012-04-17 15:53:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:53:48 --> Language Class Initialized
+DEBUG - 2012-04-17 15:53:48 --> Language Class Initialized
+DEBUG - 2012-04-17 15:53:48 --> Config Class Initialized
+DEBUG - 2012-04-17 15:53:48 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:53:48 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:53:48 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:53:48 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:53:48 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:53:48 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:53:48 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:53:48 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:53:48 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:53:48 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:53:48 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:53:48 --> Session Class Initialized
+DEBUG - 2012-04-17 15:53:48 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:53:48 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:53:48 --> Session routines successfully run
+DEBUG - 2012-04-17 15:53:48 --> Model Class Initialized
+ERROR - 2012-04-17 15:53:48 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:53:48 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:53:48 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:53:48 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:53:48 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:53:48 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:53:48 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:53:48 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:53:48 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:53:48 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:53:48 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:53:48 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:53:48 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:53:48 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:53:48 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:53:48 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:53:48 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:53:48 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:53:48 --> Authentication library initialized
+DEBUG - 2012-04-17 15:53:48 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:53:48 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:53:48 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:53:48 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:53:48 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:53:48 --> Config Class Initialized
+DEBUG - 2012-04-17 15:53:48 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:53:48 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:53:48 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:53:48 --> URI Class Initialized
+DEBUG - 2012-04-17 15:53:48 --> Router Class Initialized
+DEBUG - 2012-04-17 15:53:48 --> Output Class Initialized
+DEBUG - 2012-04-17 15:53:48 --> Security Class Initialized
+DEBUG - 2012-04-17 15:53:48 --> Input Class Initialized
+DEBUG - 2012-04-17 15:53:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:53:48 --> Language Class Initialized
+DEBUG - 2012-04-17 15:53:48 --> Language Class Initialized
+DEBUG - 2012-04-17 15:53:48 --> Config Class Initialized
+DEBUG - 2012-04-17 15:53:48 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:53:48 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:53:48 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:53:48 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:53:48 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:53:48 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:53:48 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:53:48 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:53:48 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:53:48 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:53:48 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:53:48 --> Session Class Initialized
+DEBUG - 2012-04-17 15:53:48 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:53:48 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:53:48 --> Session routines successfully run
+DEBUG - 2012-04-17 15:53:48 --> Model Class Initialized
+ERROR - 2012-04-17 15:53:48 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:53:48 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:53:48 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:53:48 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:53:48 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:53:48 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:53:48 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:53:48 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:53:48 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:53:48 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:53:48 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:53:48 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:53:48 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:53:48 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:53:48 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:53:48 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:53:48 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:53:48 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:53:48 --> Authentication library initialized
+DEBUG - 2012-04-17 15:53:48 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:53:48 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:53:48 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:53:48 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:53:48 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:53:48 --> Final output sent to browser
+DEBUG - 2012-04-17 15:53:48 --> Total execution time: 0.0470
+DEBUG - 2012-04-17 15:54:01 --> Config Class Initialized
+DEBUG - 2012-04-17 15:54:01 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:54:01 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:54:01 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:54:01 --> URI Class Initialized
+DEBUG - 2012-04-17 15:54:01 --> Router Class Initialized
+DEBUG - 2012-04-17 15:54:01 --> Output Class Initialized
+DEBUG - 2012-04-17 15:54:01 --> Security Class Initialized
+DEBUG - 2012-04-17 15:54:01 --> Input Class Initialized
+DEBUG - 2012-04-17 15:54:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:54:01 --> Language Class Initialized
+DEBUG - 2012-04-17 15:54:01 --> Language Class Initialized
+DEBUG - 2012-04-17 15:54:01 --> Config Class Initialized
+DEBUG - 2012-04-17 15:54:01 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:54:01 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:54:01 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:54:01 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:54:01 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:54:01 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:54:01 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:54:01 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:54:01 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:54:01 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:54:01 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:54:01 --> Session Class Initialized
+DEBUG - 2012-04-17 15:54:01 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:54:01 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:54:01 --> Session routines successfully run
+DEBUG - 2012-04-17 15:54:01 --> Model Class Initialized
+ERROR - 2012-04-17 15:54:01 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:54:01 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:54:01 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:54:01 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:54:01 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:54:01 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:54:01 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:54:01 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:54:01 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:54:01 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:54:01 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:54:01 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:54:01 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:54:01 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:54:01 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:54:01 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:54:01 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:54:01 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:54:01 --> Authentication library initialized
+DEBUG - 2012-04-17 15:54:01 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:54:01 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:54:01 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:54:01 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:54:01 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:54:01 --> Final output sent to browser
+DEBUG - 2012-04-17 15:54:01 --> Total execution time: 0.0472
+DEBUG - 2012-04-17 15:54:05 --> Config Class Initialized
+DEBUG - 2012-04-17 15:54:05 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:54:05 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:54:05 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:54:05 --> URI Class Initialized
+DEBUG - 2012-04-17 15:54:05 --> Router Class Initialized
+DEBUG - 2012-04-17 15:54:05 --> Output Class Initialized
+DEBUG - 2012-04-17 15:54:05 --> Security Class Initialized
+DEBUG - 2012-04-17 15:54:05 --> Input Class Initialized
+DEBUG - 2012-04-17 15:54:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:54:05 --> Language Class Initialized
+DEBUG - 2012-04-17 15:54:05 --> Language Class Initialized
+DEBUG - 2012-04-17 15:54:05 --> Config Class Initialized
+DEBUG - 2012-04-17 15:54:05 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:54:05 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:54:05 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:54:05 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:54:05 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:54:05 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:54:05 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:54:05 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:54:05 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:54:05 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:54:05 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:54:05 --> Session Class Initialized
+DEBUG - 2012-04-17 15:54:05 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:54:05 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:54:05 --> Session routines successfully run
+DEBUG - 2012-04-17 15:54:05 --> Model Class Initialized
+ERROR - 2012-04-17 15:54:05 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:54:05 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:54:05 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:54:05 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:54:05 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:54:05 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:54:05 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:54:05 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:54:05 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:54:05 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:54:05 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:54:05 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:54:05 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:54:05 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:54:05 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:54:05 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:54:05 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:54:05 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:54:05 --> Authentication library initialized
+DEBUG - 2012-04-17 15:54:05 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:54:05 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:54:05 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:54:05 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:54:05 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:54:05 --> Final output sent to browser
+DEBUG - 2012-04-17 15:54:05 --> Total execution time: 0.0466
+DEBUG - 2012-04-17 15:54:37 --> Config Class Initialized
+DEBUG - 2012-04-17 15:54:37 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:54:37 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:54:37 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:54:37 --> URI Class Initialized
+DEBUG - 2012-04-17 15:54:37 --> Router Class Initialized
+DEBUG - 2012-04-17 15:54:37 --> Output Class Initialized
+DEBUG - 2012-04-17 15:54:37 --> Security Class Initialized
+DEBUG - 2012-04-17 15:54:37 --> Input Class Initialized
+DEBUG - 2012-04-17 15:54:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:54:37 --> Language Class Initialized
+DEBUG - 2012-04-17 15:54:37 --> Language Class Initialized
+DEBUG - 2012-04-17 15:54:37 --> Config Class Initialized
+DEBUG - 2012-04-17 15:54:37 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:54:37 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:54:37 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:54:37 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:54:37 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:54:37 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:54:37 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:54:37 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:54:37 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:54:37 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:54:37 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:54:37 --> Session Class Initialized
+DEBUG - 2012-04-17 15:54:37 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:54:37 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:54:37 --> Session routines successfully run
+DEBUG - 2012-04-17 15:54:37 --> Model Class Initialized
+ERROR - 2012-04-17 15:54:37 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:54:37 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:54:37 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:54:37 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:54:37 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:54:37 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:54:37 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:54:37 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:54:37 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:54:37 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:54:37 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:54:37 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:54:37 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:54:37 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:54:37 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:54:37 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:54:37 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:54:37 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:54:37 --> Authentication library initialized
+DEBUG - 2012-04-17 15:54:37 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:54:37 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:54:37 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:54:37 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:54:37 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:54:37 --> Final output sent to browser
+DEBUG - 2012-04-17 15:54:37 --> Total execution time: 0.0466
+DEBUG - 2012-04-17 15:54:50 --> Config Class Initialized
+DEBUG - 2012-04-17 15:54:50 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:54:50 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:54:50 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:54:50 --> URI Class Initialized
+DEBUG - 2012-04-17 15:54:50 --> Router Class Initialized
+DEBUG - 2012-04-17 15:54:50 --> Output Class Initialized
+DEBUG - 2012-04-17 15:54:50 --> Security Class Initialized
+DEBUG - 2012-04-17 15:54:50 --> Input Class Initialized
+DEBUG - 2012-04-17 15:54:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:54:50 --> Language Class Initialized
+DEBUG - 2012-04-17 15:54:50 --> Language Class Initialized
+DEBUG - 2012-04-17 15:54:50 --> Config Class Initialized
+DEBUG - 2012-04-17 15:54:50 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:54:50 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:54:50 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:54:50 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:54:50 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:54:50 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:54:50 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:54:50 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:54:50 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:54:50 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:54:50 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:54:50 --> Session Class Initialized
+DEBUG - 2012-04-17 15:54:50 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:54:50 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:54:50 --> Session routines successfully run
+DEBUG - 2012-04-17 15:54:50 --> Model Class Initialized
+ERROR - 2012-04-17 15:54:50 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:54:50 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:54:50 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:54:50 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:54:50 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:54:50 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:54:50 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:54:50 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:54:50 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:54:50 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:54:50 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:54:50 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:54:50 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:54:50 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:54:50 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:54:50 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:54:50 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:54:50 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:54:50 --> Authentication library initialized
+DEBUG - 2012-04-17 15:54:50 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:54:50 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:54:50 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:54:50 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:54:50 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:54:50 --> Final output sent to browser
+DEBUG - 2012-04-17 15:54:50 --> Total execution time: 0.0505
+DEBUG - 2012-04-17 15:55:05 --> Config Class Initialized
+DEBUG - 2012-04-17 15:55:05 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:55:05 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:55:05 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:55:05 --> URI Class Initialized
+DEBUG - 2012-04-17 15:55:05 --> Router Class Initialized
+DEBUG - 2012-04-17 15:55:05 --> Output Class Initialized
+DEBUG - 2012-04-17 15:55:05 --> Security Class Initialized
+DEBUG - 2012-04-17 15:55:05 --> Input Class Initialized
+DEBUG - 2012-04-17 15:55:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:55:05 --> Language Class Initialized
+DEBUG - 2012-04-17 15:55:05 --> Language Class Initialized
+DEBUG - 2012-04-17 15:55:05 --> Config Class Initialized
+DEBUG - 2012-04-17 15:55:05 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:55:05 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:55:05 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:55:05 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:55:05 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:55:05 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:55:05 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:55:05 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:55:05 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:55:05 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:55:05 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:55:05 --> Session Class Initialized
+DEBUG - 2012-04-17 15:55:05 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:55:05 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:55:05 --> Session routines successfully run
+DEBUG - 2012-04-17 15:55:05 --> Model Class Initialized
+ERROR - 2012-04-17 15:55:05 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:55:05 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:55:05 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:55:05 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:55:05 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:55:05 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:55:05 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:55:05 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:55:05 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:55:05 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:55:05 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:55:05 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:55:05 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:55:05 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:55:05 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:55:05 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:55:05 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:55:05 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:55:05 --> Authentication library initialized
+DEBUG - 2012-04-17 15:55:05 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:55:05 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:55:05 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:55:05 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:55:05 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:55:05 --> Final output sent to browser
+DEBUG - 2012-04-17 15:55:05 --> Total execution time: 0.0452
+DEBUG - 2012-04-17 15:55:59 --> Config Class Initialized
+DEBUG - 2012-04-17 15:55:59 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:55:59 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:55:59 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:55:59 --> URI Class Initialized
+DEBUG - 2012-04-17 15:55:59 --> Router Class Initialized
+DEBUG - 2012-04-17 15:55:59 --> Output Class Initialized
+DEBUG - 2012-04-17 15:55:59 --> Security Class Initialized
+DEBUG - 2012-04-17 15:55:59 --> Input Class Initialized
+DEBUG - 2012-04-17 15:55:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:55:59 --> Language Class Initialized
+DEBUG - 2012-04-17 15:55:59 --> Language Class Initialized
+DEBUG - 2012-04-17 15:55:59 --> Config Class Initialized
+DEBUG - 2012-04-17 15:55:59 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:55:59 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:55:59 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:55:59 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:55:59 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:55:59 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:55:59 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:55:59 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:55:59 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:55:59 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:55:59 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:55:59 --> Session Class Initialized
+DEBUG - 2012-04-17 15:55:59 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:55:59 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:55:59 --> Session garbage collection performed.
+DEBUG - 2012-04-17 15:55:59 --> Session routines successfully run
+DEBUG - 2012-04-17 15:55:59 --> Model Class Initialized
+ERROR - 2012-04-17 15:55:59 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:55:59 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:55:59 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:55:59 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:55:59 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:55:59 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:55:59 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:55:59 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:55:59 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:55:59 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:55:59 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:55:59 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:55:59 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:55:59 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:55:59 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:55:59 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:55:59 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:55:59 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:55:59 --> Authentication library initialized
+DEBUG - 2012-04-17 15:55:59 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:55:59 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:55:59 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:55:59 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:55:59 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:55:59 --> Final output sent to browser
+DEBUG - 2012-04-17 15:55:59 --> Total execution time: 0.0504
+DEBUG - 2012-04-17 15:56:07 --> Config Class Initialized
+DEBUG - 2012-04-17 15:56:07 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:56:07 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:56:07 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:56:07 --> URI Class Initialized
+DEBUG - 2012-04-17 15:56:07 --> Router Class Initialized
+DEBUG - 2012-04-17 15:56:07 --> Output Class Initialized
+DEBUG - 2012-04-17 15:56:07 --> Security Class Initialized
+DEBUG - 2012-04-17 15:56:07 --> Input Class Initialized
+DEBUG - 2012-04-17 15:56:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:56:07 --> Language Class Initialized
+DEBUG - 2012-04-17 15:56:07 --> Language Class Initialized
+DEBUG - 2012-04-17 15:56:07 --> Config Class Initialized
+DEBUG - 2012-04-17 15:56:07 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:56:07 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:56:07 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:56:07 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:56:07 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:56:07 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:56:07 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:56:07 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:56:07 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:56:07 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:56:07 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:56:07 --> Session Class Initialized
+DEBUG - 2012-04-17 15:56:07 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:56:07 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:56:07 --> Session routines successfully run
+DEBUG - 2012-04-17 15:56:07 --> Model Class Initialized
+ERROR - 2012-04-17 15:56:07 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:56:07 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:56:07 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:56:07 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:56:07 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:56:07 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:56:07 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:56:07 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:56:07 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:56:07 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:56:07 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:56:07 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:56:07 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:56:07 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:56:07 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:56:07 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:56:07 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:56:07 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:56:07 --> Authentication library initialized
+DEBUG - 2012-04-17 15:56:07 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:56:07 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:56:07 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:56:07 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:56:07 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:56:07 --> Final output sent to browser
+DEBUG - 2012-04-17 15:56:07 --> Total execution time: 0.0667
+DEBUG - 2012-04-17 15:57:24 --> Config Class Initialized
+DEBUG - 2012-04-17 15:57:24 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:57:24 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:57:24 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:57:24 --> URI Class Initialized
+DEBUG - 2012-04-17 15:57:24 --> Router Class Initialized
+DEBUG - 2012-04-17 15:57:24 --> Output Class Initialized
+DEBUG - 2012-04-17 15:57:24 --> Security Class Initialized
+DEBUG - 2012-04-17 15:57:24 --> Input Class Initialized
+DEBUG - 2012-04-17 15:57:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:57:24 --> Language Class Initialized
+DEBUG - 2012-04-17 15:57:24 --> Language Class Initialized
+DEBUG - 2012-04-17 15:57:24 --> Config Class Initialized
+DEBUG - 2012-04-17 15:57:24 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:57:24 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:57:24 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:57:24 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:57:24 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:57:24 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:57:24 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:57:24 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:57:24 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:57:24 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:57:24 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:57:24 --> Session Class Initialized
+DEBUG - 2012-04-17 15:57:24 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:57:24 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:57:24 --> Session routines successfully run
+DEBUG - 2012-04-17 15:57:24 --> Model Class Initialized
+ERROR - 2012-04-17 15:57:24 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:57:24 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:57:24 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:57:24 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:57:24 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:57:24 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:57:24 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:57:24 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:57:24 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:57:24 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:57:24 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:57:24 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:57:24 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:57:24 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:57:24 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:57:24 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:57:24 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:57:24 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:57:24 --> Authentication library initialized
+DEBUG - 2012-04-17 15:57:24 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:57:24 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:57:24 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:57:24 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:57:24 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:57:24 --> Final output sent to browser
+DEBUG - 2012-04-17 15:57:24 --> Total execution time: 0.0551
+DEBUG - 2012-04-17 15:57:34 --> Config Class Initialized
+DEBUG - 2012-04-17 15:57:34 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:57:34 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:57:34 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:57:34 --> URI Class Initialized
+DEBUG - 2012-04-17 15:57:34 --> Router Class Initialized
+DEBUG - 2012-04-17 15:57:35 --> Output Class Initialized
+DEBUG - 2012-04-17 15:57:35 --> Security Class Initialized
+DEBUG - 2012-04-17 15:57:35 --> Input Class Initialized
+DEBUG - 2012-04-17 15:57:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:57:35 --> Language Class Initialized
+DEBUG - 2012-04-17 15:57:35 --> Language Class Initialized
+DEBUG - 2012-04-17 15:57:35 --> Config Class Initialized
+DEBUG - 2012-04-17 15:57:35 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:57:35 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:57:35 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:57:35 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:57:35 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:57:35 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:57:35 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:57:35 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:57:35 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:57:35 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:57:35 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:57:35 --> Session Class Initialized
+DEBUG - 2012-04-17 15:57:35 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:57:35 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:57:35 --> Session routines successfully run
+DEBUG - 2012-04-17 15:57:35 --> Model Class Initialized
+ERROR - 2012-04-17 15:57:35 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:57:35 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:57:35 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:57:35 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:57:35 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:57:35 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:57:35 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:57:35 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:57:35 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:57:35 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:57:35 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:57:35 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:57:35 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:57:35 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:57:35 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:57:35 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:57:35 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:57:35 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:57:35 --> Authentication library initialized
+DEBUG - 2012-04-17 15:57:35 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:57:35 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:57:35 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:57:35 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:57:35 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:57:35 --> Final output sent to browser
+DEBUG - 2012-04-17 15:57:35 --> Total execution time: 0.0496
+DEBUG - 2012-04-17 15:57:51 --> Config Class Initialized
+DEBUG - 2012-04-17 15:57:51 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:57:51 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:57:51 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:57:51 --> URI Class Initialized
+DEBUG - 2012-04-17 15:57:51 --> Router Class Initialized
+DEBUG - 2012-04-17 15:57:51 --> Output Class Initialized
+DEBUG - 2012-04-17 15:57:51 --> Security Class Initialized
+DEBUG - 2012-04-17 15:57:51 --> Input Class Initialized
+DEBUG - 2012-04-17 15:57:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:57:51 --> Language Class Initialized
+DEBUG - 2012-04-17 15:57:51 --> Language Class Initialized
+DEBUG - 2012-04-17 15:57:51 --> Config Class Initialized
+DEBUG - 2012-04-17 15:57:51 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:57:51 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:57:51 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:57:51 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:57:51 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:57:51 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:57:51 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:57:51 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:57:51 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:57:51 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:57:51 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:57:51 --> Session Class Initialized
+DEBUG - 2012-04-17 15:57:51 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:57:51 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:57:52 --> Session routines successfully run
+DEBUG - 2012-04-17 15:57:52 --> Model Class Initialized
+ERROR - 2012-04-17 15:57:52 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:57:52 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:57:52 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:57:52 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:57:52 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:57:52 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:57:52 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:57:52 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:57:52 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:57:52 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:57:52 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:57:52 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:57:52 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:57:52 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:57:52 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:57:52 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:57:52 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:57:52 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:57:52 --> Authentication library initialized
+DEBUG - 2012-04-17 15:57:52 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:57:52 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:57:52 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:57:52 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:57:52 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:57:52 --> Final output sent to browser
+DEBUG - 2012-04-17 15:57:52 --> Total execution time: 0.0498
+DEBUG - 2012-04-17 15:58:51 --> Config Class Initialized
+DEBUG - 2012-04-17 15:58:51 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:58:51 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:58:51 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:58:51 --> URI Class Initialized
+DEBUG - 2012-04-17 15:58:51 --> Router Class Initialized
+DEBUG - 2012-04-17 15:58:51 --> Output Class Initialized
+DEBUG - 2012-04-17 15:58:51 --> Security Class Initialized
+DEBUG - 2012-04-17 15:58:51 --> Input Class Initialized
+DEBUG - 2012-04-17 15:58:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:58:51 --> Language Class Initialized
+DEBUG - 2012-04-17 15:58:51 --> Language Class Initialized
+DEBUG - 2012-04-17 15:58:51 --> Config Class Initialized
+DEBUG - 2012-04-17 15:58:51 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:58:51 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:58:51 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:58:51 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:58:51 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:58:51 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:58:51 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:58:51 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:58:51 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:58:51 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:58:51 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:58:51 --> Session Class Initialized
+DEBUG - 2012-04-17 15:58:51 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:58:51 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:58:51 --> Session routines successfully run
+DEBUG - 2012-04-17 15:58:51 --> Model Class Initialized
+ERROR - 2012-04-17 15:58:51 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:58:51 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:58:51 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:58:51 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:58:51 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:58:51 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:58:51 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:58:51 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:58:51 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:58:51 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:58:51 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:58:51 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:58:51 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:58:51 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:58:51 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:58:51 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:58:51 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:58:51 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:58:51 --> Authentication library initialized
+DEBUG - 2012-04-17 15:58:51 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:58:51 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:58:51 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:58:51 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:58:51 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:58:51 --> Final output sent to browser
+DEBUG - 2012-04-17 15:58:51 --> Total execution time: 0.0477
+DEBUG - 2012-04-17 15:59:00 --> Config Class Initialized
+DEBUG - 2012-04-17 15:59:00 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:59:00 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:59:00 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:59:00 --> URI Class Initialized
+DEBUG - 2012-04-17 15:59:00 --> Router Class Initialized
+DEBUG - 2012-04-17 15:59:00 --> Output Class Initialized
+DEBUG - 2012-04-17 15:59:00 --> Security Class Initialized
+DEBUG - 2012-04-17 15:59:00 --> Input Class Initialized
+DEBUG - 2012-04-17 15:59:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:59:00 --> Language Class Initialized
+DEBUG - 2012-04-17 15:59:00 --> Language Class Initialized
+DEBUG - 2012-04-17 15:59:00 --> Config Class Initialized
+DEBUG - 2012-04-17 15:59:00 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:59:00 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:59:00 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:59:00 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:59:00 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:59:00 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:59:00 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:59:00 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:59:00 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:59:00 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:59:00 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:59:00 --> Session Class Initialized
+DEBUG - 2012-04-17 15:59:00 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:59:00 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:59:00 --> Session routines successfully run
+DEBUG - 2012-04-17 15:59:00 --> Model Class Initialized
+ERROR - 2012-04-17 15:59:00 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:59:00 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:59:00 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:59:00 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:59:00 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:59:00 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:59:00 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:59:00 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:59:00 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:59:00 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:59:00 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:59:00 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:59:00 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:59:00 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:59:00 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:59:00 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:59:00 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:59:00 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:59:00 --> Authentication library initialized
+DEBUG - 2012-04-17 15:59:00 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:59:00 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:59:00 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:59:00 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:59:00 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:59:00 --> Final output sent to browser
+DEBUG - 2012-04-17 15:59:00 --> Total execution time: 0.0494
+DEBUG - 2012-04-17 15:59:05 --> Config Class Initialized
+DEBUG - 2012-04-17 15:59:05 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:59:05 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:59:05 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:59:05 --> URI Class Initialized
+DEBUG - 2012-04-17 15:59:05 --> Router Class Initialized
+DEBUG - 2012-04-17 15:59:05 --> Output Class Initialized
+DEBUG - 2012-04-17 15:59:05 --> Security Class Initialized
+DEBUG - 2012-04-17 15:59:05 --> Input Class Initialized
+DEBUG - 2012-04-17 15:59:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:59:05 --> Language Class Initialized
+DEBUG - 2012-04-17 15:59:05 --> Language Class Initialized
+DEBUG - 2012-04-17 15:59:05 --> Config Class Initialized
+DEBUG - 2012-04-17 15:59:05 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:59:05 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:59:05 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:59:05 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:59:05 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:59:05 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:59:05 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:59:05 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:59:05 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:59:05 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:59:05 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:59:05 --> Session Class Initialized
+DEBUG - 2012-04-17 15:59:05 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:59:05 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:59:05 --> Session routines successfully run
+DEBUG - 2012-04-17 15:59:05 --> Model Class Initialized
+ERROR - 2012-04-17 15:59:05 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:59:05 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:59:05 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:59:05 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:59:05 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:59:05 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:59:05 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:59:05 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:59:05 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:59:05 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:59:05 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:59:05 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:59:05 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:59:05 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:59:05 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:59:05 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:59:05 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:59:05 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:59:05 --> Authentication library initialized
+DEBUG - 2012-04-17 15:59:05 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:59:05 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:59:05 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:59:05 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:59:05 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:59:05 --> Final output sent to browser
+DEBUG - 2012-04-17 15:59:05 --> Total execution time: 0.0756
+DEBUG - 2012-04-17 15:59:13 --> Config Class Initialized
+DEBUG - 2012-04-17 15:59:13 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:59:13 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:59:13 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:59:13 --> URI Class Initialized
+DEBUG - 2012-04-17 15:59:13 --> Router Class Initialized
+DEBUG - 2012-04-17 15:59:13 --> Output Class Initialized
+DEBUG - 2012-04-17 15:59:13 --> Security Class Initialized
+DEBUG - 2012-04-17 15:59:13 --> Input Class Initialized
+DEBUG - 2012-04-17 15:59:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:59:13 --> Language Class Initialized
+DEBUG - 2012-04-17 15:59:13 --> Language Class Initialized
+DEBUG - 2012-04-17 15:59:13 --> Config Class Initialized
+DEBUG - 2012-04-17 15:59:13 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:59:13 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:59:13 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:59:13 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:59:13 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:59:13 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:59:13 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:59:13 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:59:13 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:59:13 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:59:13 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:59:13 --> Session Class Initialized
+DEBUG - 2012-04-17 15:59:13 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:59:13 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:59:13 --> Session routines successfully run
+DEBUG - 2012-04-17 15:59:13 --> Model Class Initialized
+ERROR - 2012-04-17 15:59:13 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:59:13 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:59:13 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:59:13 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:59:13 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:59:13 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:59:13 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:59:13 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:59:13 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:59:13 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:59:13 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:59:13 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:59:13 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:59:13 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:59:13 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:59:13 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:59:13 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:59:13 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:59:13 --> Authentication library initialized
+DEBUG - 2012-04-17 15:59:13 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:59:13 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:59:13 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:59:13 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:59:13 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:59:13 --> Final output sent to browser
+DEBUG - 2012-04-17 15:59:13 --> Total execution time: 0.0443
+DEBUG - 2012-04-17 15:59:39 --> Config Class Initialized
+DEBUG - 2012-04-17 15:59:39 --> Hooks Class Initialized
+DEBUG - 2012-04-17 15:59:39 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 15:59:39 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 15:59:39 --> URI Class Initialized
+DEBUG - 2012-04-17 15:59:39 --> Router Class Initialized
+DEBUG - 2012-04-17 15:59:39 --> Output Class Initialized
+DEBUG - 2012-04-17 15:59:39 --> Security Class Initialized
+DEBUG - 2012-04-17 15:59:39 --> Input Class Initialized
+DEBUG - 2012-04-17 15:59:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 15:59:39 --> Language Class Initialized
+DEBUG - 2012-04-17 15:59:39 --> Language Class Initialized
+DEBUG - 2012-04-17 15:59:39 --> Config Class Initialized
+DEBUG - 2012-04-17 15:59:39 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:59:39 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 15:59:39 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 15:59:39 --> Controller Class Initialized
+DEBUG - 2012-04-17 15:59:39 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 15:59:39 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:59:39 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 15:59:39 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 15:59:39 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 15:59:39 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 15:59:39 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 15:59:39 --> Session Class Initialized
+DEBUG - 2012-04-17 15:59:39 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 15:59:39 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 15:59:39 --> Session routines successfully run
+DEBUG - 2012-04-17 15:59:39 --> Model Class Initialized
+ERROR - 2012-04-17 15:59:39 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 15:59:39 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 15:59:39 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 15:59:39 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 15:59:39 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 15:59:39 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 15:59:39 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 15:59:39 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 15:59:39 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 15:59:39 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 15:59:39 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 15:59:39 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 15:59:39 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 15:59:39 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 15:59:39 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 15:59:39 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 15:59:39 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 15:59:39 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 15:59:39 --> Authentication library initialized
+DEBUG - 2012-04-17 15:59:39 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 15:59:39 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 15:59:39 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 15:59:39 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 15:59:39 --> Loader Class Initialized
+DEBUG - 2012-04-17 15:59:39 --> Final output sent to browser
+DEBUG - 2012-04-17 15:59:39 --> Total execution time: 0.0457
+DEBUG - 2012-04-17 16:00:01 --> Config Class Initialized
+DEBUG - 2012-04-17 16:00:01 --> Hooks Class Initialized
+DEBUG - 2012-04-17 16:00:01 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 16:00:01 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 16:00:01 --> URI Class Initialized
+DEBUG - 2012-04-17 16:00:01 --> Router Class Initialized
+DEBUG - 2012-04-17 16:00:01 --> Output Class Initialized
+DEBUG - 2012-04-17 16:00:01 --> Security Class Initialized
+DEBUG - 2012-04-17 16:00:01 --> Input Class Initialized
+DEBUG - 2012-04-17 16:00:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 16:00:01 --> Language Class Initialized
+DEBUG - 2012-04-17 16:00:01 --> Language Class Initialized
+DEBUG - 2012-04-17 16:00:01 --> Config Class Initialized
+DEBUG - 2012-04-17 16:00:01 --> Loader Class Initialized
+DEBUG - 2012-04-17 16:00:01 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 16:00:01 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 16:00:01 --> Controller Class Initialized
+DEBUG - 2012-04-17 16:00:01 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 16:00:01 --> Loader Class Initialized
+DEBUG - 2012-04-17 16:00:01 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 16:00:01 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 16:00:01 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 16:00:01 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 16:00:01 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 16:00:01 --> Session Class Initialized
+DEBUG - 2012-04-17 16:00:01 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 16:00:01 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 16:00:01 --> Session routines successfully run
+DEBUG - 2012-04-17 16:00:01 --> Model Class Initialized
+ERROR - 2012-04-17 16:00:01 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 16:00:01 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 16:00:01 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 16:00:01 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 16:00:01 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 16:00:01 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 16:00:01 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 16:00:01 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 16:00:01 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 16:00:01 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 16:00:01 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 16:00:01 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 16:00:01 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 16:00:01 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 16:00:01 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 16:00:01 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 16:00:01 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 16:00:01 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 16:00:01 --> Authentication library initialized
+DEBUG - 2012-04-17 16:00:01 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 16:00:01 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 16:00:01 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 16:00:01 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 16:00:01 --> Loader Class Initialized
+DEBUG - 2012-04-17 16:00:01 --> Final output sent to browser
+DEBUG - 2012-04-17 16:00:01 --> Total execution time: 0.0474
+DEBUG - 2012-04-17 16:00:17 --> Config Class Initialized
+DEBUG - 2012-04-17 16:00:17 --> Hooks Class Initialized
+DEBUG - 2012-04-17 16:00:17 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 16:00:17 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 16:00:17 --> URI Class Initialized
+DEBUG - 2012-04-17 16:00:17 --> Router Class Initialized
+DEBUG - 2012-04-17 16:00:17 --> Output Class Initialized
+DEBUG - 2012-04-17 16:00:17 --> Security Class Initialized
+DEBUG - 2012-04-17 16:00:17 --> Input Class Initialized
+DEBUG - 2012-04-17 16:00:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 16:00:17 --> Language Class Initialized
+DEBUG - 2012-04-17 16:00:17 --> Language Class Initialized
+DEBUG - 2012-04-17 16:00:17 --> Config Class Initialized
+DEBUG - 2012-04-17 16:00:17 --> Loader Class Initialized
+DEBUG - 2012-04-17 16:00:17 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 16:00:17 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 16:00:17 --> Controller Class Initialized
+DEBUG - 2012-04-17 16:00:17 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 16:00:17 --> Loader Class Initialized
+DEBUG - 2012-04-17 16:00:17 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 16:00:17 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 16:00:17 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 16:00:17 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 16:00:17 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 16:00:17 --> Session Class Initialized
+DEBUG - 2012-04-17 16:00:17 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 16:00:17 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 16:00:17 --> Session routines successfully run
+DEBUG - 2012-04-17 16:00:17 --> Model Class Initialized
+ERROR - 2012-04-17 16:00:17 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 16:00:17 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 16:00:17 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 16:00:17 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 16:00:17 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 16:00:17 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 16:00:17 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 16:00:17 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 16:00:17 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 16:00:17 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 16:00:17 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 16:00:17 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 16:00:17 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 16:00:17 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 16:00:17 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 16:00:17 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 16:00:17 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 16:00:17 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 16:00:17 --> Authentication library initialized
+DEBUG - 2012-04-17 16:00:17 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 16:00:17 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 16:00:17 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 16:00:17 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 16:00:17 --> Loader Class Initialized
+DEBUG - 2012-04-17 16:00:17 --> Config Class Initialized
+DEBUG - 2012-04-17 16:00:17 --> Hooks Class Initialized
+DEBUG - 2012-04-17 16:00:17 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 16:00:17 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 16:00:17 --> URI Class Initialized
+DEBUG - 2012-04-17 16:00:17 --> Router Class Initialized
+DEBUG - 2012-04-17 16:00:17 --> Output Class Initialized
+DEBUG - 2012-04-17 16:00:17 --> Security Class Initialized
+DEBUG - 2012-04-17 16:00:17 --> Input Class Initialized
+DEBUG - 2012-04-17 16:00:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 16:00:17 --> Language Class Initialized
+DEBUG - 2012-04-17 16:00:17 --> Language Class Initialized
+DEBUG - 2012-04-17 16:00:17 --> Config Class Initialized
+DEBUG - 2012-04-17 16:00:17 --> Loader Class Initialized
+DEBUG - 2012-04-17 16:00:17 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 16:00:17 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 16:00:17 --> Controller Class Initialized
+DEBUG - 2012-04-17 16:00:17 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 16:00:17 --> Loader Class Initialized
+DEBUG - 2012-04-17 16:00:17 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 16:00:17 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 16:00:17 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 16:00:17 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 16:00:17 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 16:00:17 --> Session Class Initialized
+DEBUG - 2012-04-17 16:00:17 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 16:00:17 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 16:00:17 --> Session routines successfully run
+DEBUG - 2012-04-17 16:00:17 --> Model Class Initialized
+ERROR - 2012-04-17 16:00:17 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 16:00:17 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 16:00:17 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 16:00:17 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 16:00:17 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 16:00:17 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 16:00:17 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 16:00:17 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 16:00:17 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 16:00:17 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 16:00:17 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 16:00:17 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 16:00:17 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 16:00:17 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 16:00:17 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 16:00:17 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 16:00:17 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 16:00:17 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 16:00:17 --> Authentication library initialized
+DEBUG - 2012-04-17 16:00:17 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 16:00:17 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 16:00:17 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 16:00:17 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 16:00:17 --> Loader Class Initialized
+DEBUG - 2012-04-17 16:00:17 --> Final output sent to browser
+DEBUG - 2012-04-17 16:00:17 --> Total execution time: 0.0542
+DEBUG - 2012-04-17 16:01:35 --> Config Class Initialized
+DEBUG - 2012-04-17 16:01:35 --> Hooks Class Initialized
+DEBUG - 2012-04-17 16:01:35 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 16:01:35 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 16:01:35 --> URI Class Initialized
+DEBUG - 2012-04-17 16:01:35 --> Router Class Initialized
+DEBUG - 2012-04-17 16:01:35 --> Output Class Initialized
+DEBUG - 2012-04-17 16:01:35 --> Security Class Initialized
+DEBUG - 2012-04-17 16:01:35 --> Input Class Initialized
+DEBUG - 2012-04-17 16:01:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 16:01:35 --> Language Class Initialized
+DEBUG - 2012-04-17 16:01:35 --> Language Class Initialized
+DEBUG - 2012-04-17 16:01:35 --> Config Class Initialized
+DEBUG - 2012-04-17 16:01:35 --> Loader Class Initialized
+DEBUG - 2012-04-17 16:01:35 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 16:01:35 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 16:01:35 --> Controller Class Initialized
+DEBUG - 2012-04-17 16:01:35 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 16:01:35 --> Loader Class Initialized
+DEBUG - 2012-04-17 16:01:35 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 16:01:35 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 16:01:35 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 16:01:35 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 16:01:35 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 16:01:35 --> Session Class Initialized
+DEBUG - 2012-04-17 16:01:35 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 16:01:35 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 16:01:35 --> Session routines successfully run
+DEBUG - 2012-04-17 16:01:35 --> Model Class Initialized
+ERROR - 2012-04-17 16:01:35 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 16:01:35 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 16:01:35 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 16:01:35 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 16:01:35 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 16:01:35 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 16:01:35 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 16:01:35 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 16:01:35 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 16:01:35 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 16:01:35 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 16:01:35 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 16:01:35 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 16:01:35 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 16:01:35 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 16:01:35 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 16:01:35 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 16:01:35 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 16:01:35 --> Authentication library initialized
+DEBUG - 2012-04-17 16:01:35 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 16:01:35 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 16:01:35 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 16:01:35 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 16:01:35 --> Loader Class Initialized
+DEBUG - 2012-04-17 16:01:35 --> Final output sent to browser
+DEBUG - 2012-04-17 16:01:35 --> Total execution time: 0.0476
+DEBUG - 2012-04-17 16:01:45 --> Config Class Initialized
+DEBUG - 2012-04-17 16:01:45 --> Hooks Class Initialized
+DEBUG - 2012-04-17 16:01:45 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 16:01:45 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 16:01:45 --> URI Class Initialized
+DEBUG - 2012-04-17 16:01:45 --> Router Class Initialized
+DEBUG - 2012-04-17 16:01:45 --> Output Class Initialized
+DEBUG - 2012-04-17 16:01:45 --> Security Class Initialized
+DEBUG - 2012-04-17 16:01:45 --> Input Class Initialized
+DEBUG - 2012-04-17 16:01:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 16:01:45 --> Language Class Initialized
+DEBUG - 2012-04-17 16:01:45 --> Language Class Initialized
+DEBUG - 2012-04-17 16:01:45 --> Config Class Initialized
+DEBUG - 2012-04-17 16:01:45 --> Loader Class Initialized
+DEBUG - 2012-04-17 16:01:45 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 16:01:45 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 16:01:45 --> Controller Class Initialized
+DEBUG - 2012-04-17 16:01:45 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 16:01:45 --> Loader Class Initialized
+DEBUG - 2012-04-17 16:01:45 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 16:01:45 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 16:01:45 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 16:01:45 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 16:01:45 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 16:01:45 --> Session Class Initialized
+DEBUG - 2012-04-17 16:01:45 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 16:01:45 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 16:01:45 --> Session routines successfully run
+DEBUG - 2012-04-17 16:01:45 --> Model Class Initialized
+ERROR - 2012-04-17 16:01:45 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 16:01:45 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 16:01:45 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 16:01:45 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 16:01:45 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 16:01:45 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 16:01:45 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 16:01:45 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 16:01:45 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 16:01:45 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 16:01:45 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 16:01:45 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 16:01:45 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 16:01:45 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 16:01:45 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 16:01:45 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 16:01:45 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 16:01:45 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 16:01:45 --> Authentication library initialized
+DEBUG - 2012-04-17 16:01:45 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 16:01:45 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 16:01:45 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 16:01:45 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 16:01:45 --> Loader Class Initialized
+DEBUG - 2012-04-17 16:01:45 --> Config Class Initialized
+DEBUG - 2012-04-17 16:01:45 --> Hooks Class Initialized
+DEBUG - 2012-04-17 16:01:45 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 16:01:45 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 16:01:45 --> URI Class Initialized
+DEBUG - 2012-04-17 16:01:45 --> Router Class Initialized
+DEBUG - 2012-04-17 16:01:45 --> Output Class Initialized
+DEBUG - 2012-04-17 16:01:45 --> Security Class Initialized
+DEBUG - 2012-04-17 16:01:45 --> Input Class Initialized
+DEBUG - 2012-04-17 16:01:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 16:01:45 --> Language Class Initialized
+DEBUG - 2012-04-17 16:01:45 --> Language Class Initialized
+DEBUG - 2012-04-17 16:01:45 --> Config Class Initialized
+DEBUG - 2012-04-17 16:01:45 --> Loader Class Initialized
+DEBUG - 2012-04-17 16:01:45 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 16:01:45 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 16:01:45 --> Controller Class Initialized
+DEBUG - 2012-04-17 16:01:45 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 16:01:45 --> Loader Class Initialized
+DEBUG - 2012-04-17 16:01:45 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 16:01:45 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 16:01:45 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 16:01:45 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 16:01:45 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 16:01:45 --> Session Class Initialized
+DEBUG - 2012-04-17 16:01:45 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 16:01:45 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 16:01:45 --> Session routines successfully run
+DEBUG - 2012-04-17 16:01:45 --> Model Class Initialized
+ERROR - 2012-04-17 16:01:45 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 16:01:45 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 16:01:45 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 16:01:45 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 16:01:45 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 16:01:45 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 16:01:45 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 16:01:45 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 16:01:45 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 16:01:45 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 16:01:45 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 16:01:45 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 16:01:45 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 16:01:45 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 16:01:45 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 16:01:45 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 16:01:45 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 16:01:45 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 16:01:45 --> Authentication library initialized
+DEBUG - 2012-04-17 16:01:45 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 16:01:45 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 16:01:45 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 16:01:45 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 16:01:45 --> Loader Class Initialized
+DEBUG - 2012-04-17 16:01:45 --> Final output sent to browser
+DEBUG - 2012-04-17 16:01:45 --> Total execution time: 0.0442
+DEBUG - 2012-04-17 16:01:51 --> Config Class Initialized
+DEBUG - 2012-04-17 16:01:51 --> Hooks Class Initialized
+DEBUG - 2012-04-17 16:01:51 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 16:01:51 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 16:01:51 --> URI Class Initialized
+DEBUG - 2012-04-17 16:01:51 --> Router Class Initialized
+DEBUG - 2012-04-17 16:01:51 --> Output Class Initialized
+DEBUG - 2012-04-17 16:01:51 --> Security Class Initialized
+DEBUG - 2012-04-17 16:01:51 --> Input Class Initialized
+DEBUG - 2012-04-17 16:01:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 16:01:51 --> Language Class Initialized
+DEBUG - 2012-04-17 16:01:51 --> Language Class Initialized
+DEBUG - 2012-04-17 16:01:51 --> Config Class Initialized
+DEBUG - 2012-04-17 16:01:51 --> Loader Class Initialized
+DEBUG - 2012-04-17 16:01:51 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 16:01:51 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 16:01:51 --> Controller Class Initialized
+DEBUG - 2012-04-17 16:01:51 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 16:01:51 --> Loader Class Initialized
+DEBUG - 2012-04-17 16:01:51 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 16:01:51 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 16:01:51 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 16:01:51 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 16:01:51 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 16:01:51 --> Session Class Initialized
+DEBUG - 2012-04-17 16:01:51 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 16:01:51 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 16:01:51 --> Session routines successfully run
+DEBUG - 2012-04-17 16:01:51 --> Model Class Initialized
+ERROR - 2012-04-17 16:01:51 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 16:01:51 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 16:01:51 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 16:01:51 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 16:01:51 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 16:01:51 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 16:01:51 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 16:01:51 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 16:01:51 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 16:01:51 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 16:01:51 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 16:01:51 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 16:01:51 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 16:01:51 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 16:01:51 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 16:01:51 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 16:01:51 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 16:01:51 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 16:01:51 --> Authentication library initialized
+DEBUG - 2012-04-17 16:01:51 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 16:01:51 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 16:01:51 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 16:01:51 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 16:01:51 --> Loader Class Initialized
+DEBUG - 2012-04-17 16:01:51 --> Config Class Initialized
+DEBUG - 2012-04-17 16:01:51 --> Hooks Class Initialized
+DEBUG - 2012-04-17 16:01:51 --> Utf8 Class Initialized
+DEBUG - 2012-04-17 16:01:51 --> UTF-8 Support Enabled
+DEBUG - 2012-04-17 16:01:51 --> URI Class Initialized
+DEBUG - 2012-04-17 16:01:51 --> Router Class Initialized
+DEBUG - 2012-04-17 16:01:51 --> Output Class Initialized
+DEBUG - 2012-04-17 16:01:51 --> Security Class Initialized
+DEBUG - 2012-04-17 16:01:51 --> Input Class Initialized
+DEBUG - 2012-04-17 16:01:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-04-17 16:01:51 --> Language Class Initialized
+DEBUG - 2012-04-17 16:01:51 --> Language Class Initialized
+DEBUG - 2012-04-17 16:01:51 --> Config Class Initialized
+DEBUG - 2012-04-17 16:01:51 --> Loader Class Initialized
+DEBUG - 2012-04-17 16:01:51 --> Helper loaded: file_helper
+DEBUG - 2012-04-17 16:01:51 --> Helper loaded: inflector_helper
+DEBUG - 2012-04-17 16:01:51 --> Controller Class Initialized
+DEBUG - 2012-04-17 16:01:51 --> Admin MX_Controller Initialized
+DEBUG - 2012-04-17 16:01:51 --> Loader Class Initialized
+DEBUG - 2012-04-17 16:01:51 --> Helper loaded: url_helper
+DEBUG - 2012-04-17 16:01:51 --> Database Driver Class Initialized
+DEBUG - 2012-04-17 16:01:51 --> Language file loaded: language/english/datamapper_lang.php
+DEBUG - 2012-04-17 16:01:51 --> Helper loaded: security_helper
+DEBUG - 2012-04-17 16:01:51 --> Config file loaded: sparks/DataMapper-ORM/1.8.2/config/datamapper.php
+DEBUG - 2012-04-17 16:01:51 --> Session Class Initialized
+DEBUG - 2012-04-17 16:01:51 --> Config file loaded: sparks/session-driver/0.0.7/config/session.php
+DEBUG - 2012-04-17 16:01:51 --> Helper loaded: string_helper
+DEBUG - 2012-04-17 16:01:51 --> Session routines successfully run
+DEBUG - 2012-04-17 16:01:51 --> Model Class Initialized
+ERROR - 2012-04-17 16:01:51 --> Could not find the language line "user_id"
+ERROR - 2012-04-17 16:01:51 --> Could not find the language line "user_username"
+ERROR - 2012-04-17 16:01:51 --> Could not find the language line "user_password"
+ERROR - 2012-04-17 16:01:51 --> Could not find the language line "user_firstname"
+ERROR - 2012-04-17 16:01:51 --> Could not find the language line "user_lastname"
+ERROR - 2012-04-17 16:01:51 --> Could not find the language line "user_email"
+ERROR - 2012-04-17 16:01:51 --> Could not find the language line "user_phone"
+ERROR - 2012-04-17 16:01:51 --> Could not find the language line "user_birthday"
+ERROR - 2012-04-17 16:01:51 --> Could not find the language line "user_address"
+ERROR - 2012-04-17 16:01:51 --> Could not find the language line "user_zip"
+ERROR - 2012-04-17 16:01:51 --> Could not find the language line "user_city"
+ERROR - 2012-04-17 16:01:51 --> Could not find the language line "user_country"
+ERROR - 2012-04-17 16:01:51 --> Could not find the language line "user_state"
+ERROR - 2012-04-17 16:01:51 --> Could not find the language line "user_created"
+ERROR - 2012-04-17 16:01:51 --> Could not find the language line "user_updated"
+ERROR - 2012-04-17 16:01:51 --> Could not find the language line "user_activated"
+ERROR - 2012-04-17 16:01:51 --> Could not find the language line "user_banned"
+ERROR - 2012-04-17 16:01:51 --> Could not find the language line "user_reason"
+DEBUG - 2012-04-17 16:01:51 --> Authentication library initialized
+DEBUG - 2012-04-17 16:01:51 --> Language file loaded: language/english/admin_lang.php
+DEBUG - 2012-04-17 16:01:51 --> Config file loaded: application/config/admin.php
+DEBUG - 2012-04-17 16:01:51 --> File loaded: application/controllers/admin/toolbar.php
+DEBUG - 2012-04-17 16:01:51 --> Toolbar MX_Controller Initialized
+DEBUG - 2012-04-17 16:01:51 --> Loader Class Initialized
+DEBUG - 2012-04-17 16:01:51 --> Final output sent to browser
+DEBUG - 2012-04-17 16:01:51 --> Total execution time: 0.0467
